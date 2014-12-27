@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2014-十月-30 11:43" filterScript="// by inheritance generator&#10;hide dependency lines&#10;hide field lines&#10;show types named Message in orange&#10;show bytecode types in gray&#10;show all interfaces in blue&#10;show abstract classes in pink&#10;show overridden methods in red larger bold&#10;show overriding methods in purple larger bold" generator="inheritance" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" seed="Message" version="1.7.17.v20140508-2136">
+        <class className="Message" project="1.9.20-9-FINAL" xLocation="739" yLocation="384"/>
+        <class className="TankDeadMessage" project="1.9.20-9-FINAL" xLocation="778" yLocation="893"/>
+        <class className="TankNewMessage" project="1.9.20-9-FINAL" xLocation="1389" yLocation="902"/>
+        <class className="ScoringAddingMessage" project="1.9.20-9-FINAL" xLocation="130" yLocation="896"/>
+        <class className="SpeedUpMessage" project="1.9.20-9-FINAL" xLocation="1997" yLocation="982"/>
+        <class className="MissileRecoveryMessage" project="1.9.20-9-FINAL" xLocation="799" yLocation="1238"/>
+        <class className="MissileDeadMessage" project="1.9.20-9-FINAL" xLocation="910" yLocation="30"/>
+        <class className="MissileRecovery2Message" project="1.9.20-9-FINAL" xLocation="30" yLocation="216"/>
+        <class className="TankScoreMessage" project="1.9.20-9-FINAL" xLocation="2062" yLocation="272"/>
+        <class className="MissileMessage" project="1.9.20-9-FINAL" xLocation="2663" yLocation="916"/>
+        <class className="TILE_DEAD_MESSAGE" project="1.9.20-9-FINAL" xLocation="150" yLocation="1252"/>
+        <class className="BloodMessage" project="1.9.20-9-FINAL" xLocation="2068" yLocation="628"/>
+        <class className="BloodRecoveryMessage" project="1.9.20-9-FINAL" xLocation="94" yLocation="555"/>
+        <class className="TankMoveMessage" project="1.9.20-9-FINAL" xLocation="1450" yLocation="487"/>
+    </diagram>
+</ajsv>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2014-十月-30 11:43" filterScript="// by dependency generator&#10;hide field lines&#10;hide inheritance lines&#10;show types named Message in orange&#10;show bytecode types in gray&#10;show all interfaces in blue&#10;show abstract classes in pink" generator="dependency" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" seed="Message" version="1.7.17.v20140508-2136">
+        <class className="NetGameClient" project="1.9.20-9-FINAL" xLocation="1402" yLocation="391"/>
+        <class className="Message" project="1.9.20-9-FINAL" xLocation="681" yLocation="502"/>
+        <class className="TankDeadMessage" project="1.9.20-9-FINAL" xLocation="683" yLocation="1002"/>
+        <class className="TankNewMessage" project="1.9.20-9-FINAL" xLocation="1294" yLocation="996"/>
+        <class className="ScoringAddingMessage" project="1.9.20-9-FINAL" xLocation="1079" yLocation="1344"/>
+        <class className="SpeedUpMessage" project="1.9.20-9-FINAL" xLocation="1913" yLocation="901"/>
+        <class className="MissileRecoveryMessage" project="1.9.20-9-FINAL" xLocation="751" yLocation="167"/>
+        <class className="MissileDeadMessage" project="1.9.20-9-FINAL" xLocation="125" yLocation="130"/>
+        <class className="MissileRecovery2Message" project="1.9.20-9-FINAL" xLocation="404" yLocation="1344"/>
+        <class className="TankScoreMessage" project="1.9.20-9-FINAL" xLocation="1403" yLocation="30"/>
+        <class className="MissileMessage" project="1.9.20-9-FINAL" xLocation="2521" yLocation="507"/>
+        <class className="TILE_DEAD_MESSAGE" project="1.9.20-9-FINAL" xLocation="31" yLocation="498"/>
+        <class className="BloodMessage" project="1.9.20-9-FINAL" xLocation="2094" yLocation="96"/>
+        <class className="TankMoveMessage" project="1.9.20-9-FINAL" xLocation="1911" yLocation="487"/>
+        <class className="BloodRecoveryMessage" project="1.9.20-9-FINAL" xLocation="30" yLocation="834"/>
+    </diagram>
+</ajsv>

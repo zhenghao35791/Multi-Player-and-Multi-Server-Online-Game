@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2014-十月-30 11:44" filterScript="// by dependency generator&#10;hide field lines&#10;hide inheritance lines&#10;show types named NetGameClient in orange&#10;show bytecode types in gray&#10;show all interfaces in blue&#10;show abstract classes in pink" generator="dependency" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" seed="NetGameClient" version="1.7.17.v20140508-2136">
+        <class className="NetGameClient" project="1.9.20-9-FINAL" xLocation="2325" yLocation="629"/>
+        <class className="Message" project="1.9.20-9-FINAL" xLocation="2800" yLocation="1216"/>
+        <class className="TankDeadMessage" project="1.9.20-9-FINAL" xLocation="1038" yLocation="1268"/>
+        <class className="TankWarMainServer" project="1.9.20-9-FINAL" xLocation="30" yLocation="639"/>
+        <class className="SpeedUpMessage" project="1.9.20-9-FINAL" xLocation="2193" yLocation="1224"/>
+        <class className="ScoringAddingMessage" project="1.9.20-9-FINAL" xLocation="1016" yLocation="1602"/>
+        <class className="MissileDeadMessage" project="1.9.20-9-FINAL" xLocation="1696" yLocation="839"/>
+        <class className="com.google.gson.JsonObject" project="1.9.20-9-FINAL" xLocation="1684" yLocation="30"/>
+        <class className="MissileRecovery2Message" project="1.9.20-9-FINAL" xLocation="340" yLocation="1422"/>
+        <class className="TankClient" project="1.9.20-9-FINAL" xLocation="1652" yLocation="1196"/>
+        <class className="org.lightcouch.CouchDbClient" project="1.9.20-9-FINAL" xLocation="653" yLocation="369"/>
+        <class className="TankScoreMessage" project="1.9.20-9-FINAL" xLocation="2413" yLocation="275"/>
+        <class className="MissileMessage" project="1.9.20-9-FINAL" xLocation="3514" yLocation="1123"/>
+        <class className="TILE_DEAD_MESSAGE" project="1.9.20-9-FINAL" xLocation="3046" yLocation="453"/>
+        <class className="BloodMessage" project="1.9.20-9-FINAL" xLocation="2196" yLocation="1572"/>
+        <class className="TankMoveMessage" project="1.9.20-9-FINAL" xLocation="2834" yLocation="795"/>
+    </diagram>
+</ajsv>

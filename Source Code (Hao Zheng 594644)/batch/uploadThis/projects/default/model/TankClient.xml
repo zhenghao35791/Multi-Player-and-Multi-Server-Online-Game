@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AgileJWebModel version="1.7.17.v20140508-2136">
+    <type deep="true" elementName="TankClient" isBinary="false" isDeprecated="false" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient">
+        <filters>
+            <filter signature="all classes"/>
+            <filter signature="all types"/>
+            <filter signature="classes with a default constructor"/>
+            <filter signature="concrete classes"/>
+            <filter signature="inner types named {type-name}" switchValues="TankClient"/>
+            <filter signature="non java star package types"/>
+            <filter signature="public types"/>
+            <filter signature="serializable types"/>
+            <filter signature="source code types"/>
+            <filter signature="top level source types"/>
+            <filter signature="top level types"/>
+            <filter signature="types named {type-name-pattern}" switchValues="TankClient"/>
+            <filter signature="types with static members"/>
+        </filters>
+        <outermostType>
+            <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+        </outermostType>
+        <field deep="true" elementName="dbNameScore" fieldLineTooltipDescription="TankClient.dbNameScore&#10;references one&#10;CouchDbClient" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.dbNameScore" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="dbNameScore"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="myUDPPortFromDialog" fieldLineTooltipDescription="TankClient.myUDPPortFromDialog&#10;references one&#10;String" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.myUDPPortFromDialog" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="myUDPPortFromDialog"/>
+                <filter signature="package visible fields"/>
+                <filter signature="string fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="ia" fieldLineTooltipDescription="TankClient.ia&#10;references one&#10;InetAddress" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.ia" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="ia"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="InetAddress" modelMemberIdentifier="type:java.net.InetAddress" modifiers="public," packageName="java.net" qualifiedName="java.net.InetAddress"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="InetAddress" modelMemberIdentifier="type:java.net.InetAddress" modifiers="public," packageName="java.net" qualifiedName="java.net.InetAddress"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="ipAddress" fieldLineTooltipDescription="TankClient.ipAddress&#10;references one&#10;String" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.ipAddress" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="ipAddress"/>
+                <filter signature="package visible fields"/>
+                <filter signature="string fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="BACKGROUD_WIDTH" fieldLineTooltipDescription="TankClient.BACKGROUD_WIDTH&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.BACKGROUD_WIDTH" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="BACKGROUD_WIDTH"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="BACKGROUD_HEIGHT" fieldLineTooltipDescription="TankClient.BACKGROUD_HEIGHT&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.BACKGROUD_HEIGHT" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="BACKGROUD_HEIGHT"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="FrontImages" fieldLineTooltipDescription="TankClient.FrontImages&#10;references many&#10;Image[]" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.FrontImages" modifiers="private,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="FrontImages"/>
+                <filter signature="one to many fields"/>
+                <filter signature="private fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="tk" fieldLineTooltipDescription="TankClient.tk&#10;references one&#10;Toolkit" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.tk" modifiers="private,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="tk"/>
+                <filter signature="private fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Toolkit" modelMemberIdentifier="type:java.awt.Toolkit" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Toolkit"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Toolkit" modelMemberIdentifier="type:java.awt.Toolkit" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Toolkit"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="background" fieldLineTooltipDescription="TankClient.background&#10;references many&#10;Image[]" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.background" modifiers="private,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="background"/>
+                <filter signature="one to many fields"/>
+                <filter signature="private fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="serialVersionUID" fieldLineTooltipDescription="TankClient.serialVersionUID&#10;references one&#10;long" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.serialVersionUID" modifiers="final,private,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="serialVersionUID"/>
+                <filter signature="private fields"/>
+                <filter signature="serial version uid fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="long" modelMemberIdentifier="type:long" modifiers="" packageName="" qualifiedName="long"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="long" modelMemberIdentifier="type:long" modifiers="" packageName="" qualifiedName="long"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="dbBackupServer" fieldLineTooltipDescription="TankClient.dbBackupServer&#10;references one&#10;CouchDbClient" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.dbBackupServer" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="dbBackupServer"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="TileID" fieldLineTooltipDescription="TankClient.TileID&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.TileID" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="TileID"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="FRAME_LOCATION_X" fieldLineTooltipDescription="TankClient.FRAME_LOCATION_X&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.FRAME_LOCATION_X" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="FRAME_LOCATION_X"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="FRAME_LOCATION_Y" fieldLineTooltipDescription="TankClient.FRAME_LOCATION_Y&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.FRAME_LOCATION_Y" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="FRAME_LOCATION_Y"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="FRAME_SIZE_X" fieldLineTooltipDescription="TankClient.FRAME_SIZE_X&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.FRAME_SIZE_X" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="FRAME_SIZE_X"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="FRAME_SIZE_Y" fieldLineTooltipDescription="TankClient.FRAME_SIZE_Y&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.FRAME_SIZE_Y" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="FRAME_SIZE_Y"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="r" fieldLineTooltipDescription="TankClient.r&#10;references one&#10;Random" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.r" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="r"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Random" modelMemberIdentifier="type:java.util.Random" modifiers="public," packageName="java.util" qualifiedName="java.util.Random"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Random" modelMemberIdentifier="type:java.util.Random" modifiers="public," packageName="java.util" qualifiedName="java.util.Random"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="dialog" fieldLineTooltipDescription="TankClient.dialog&#10;references one&#10;ConnDialog" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.dialog" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="dialog"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="ConnDialog" modelMemberIdentifier="type:TankClient$ConnDialog" modifiers="" packageName="" qualifiedName="TankClient$ConnDialog"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="ConnDialog" modelMemberIdentifier="type:TankClient$ConnDialog" modifiers="" packageName="" qualifiedName="TankClient$ConnDialog"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="randomInt" fieldLineTooltipDescription="TankClient.randomInt&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.randomInt" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="randomInt"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="ngc" fieldLineTooltipDescription="TankClient.ngc&#10;references one&#10;NetGameClient" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.ngc" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="ngc"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="bloodRecovery" fieldLineTooltipDescription="TankClient.bloodRecovery&#10;references one&#10;BloodRecovery" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.bloodRecovery" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="bloodRecovery"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="BloodRecovery" modelMemberIdentifier="type:BloodRecovery" modifiers="public," packageName="" qualifiedName="BloodRecovery"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="BloodRecovery" modelMemberIdentifier="type:BloodRecovery" modifiers="public," packageName="" qualifiedName="BloodRecovery"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="speedUp" fieldLineTooltipDescription="TankClient.speedUp&#10;references one&#10;SpeedUp" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.speedUp" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="speedUp"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="SpeedUp" modelMemberIdentifier="type:SpeedUp" modifiers="public," packageName="" qualifiedName="SpeedUp"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="SpeedUp" modelMemberIdentifier="type:SpeedUp" modifiers="public," packageName="" qualifiedName="SpeedUp"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="missileRecovery" fieldLineTooltipDescription="TankClient.missileRecovery&#10;references one&#10;missileRecovery" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.missileRecovery" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="missileRecovery"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="missileRecovery" modelMemberIdentifier="type:missileRecovery" modifiers="public," packageName="" qualifiedName="missileRecovery"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="missileRecovery" modelMemberIdentifier="type:missileRecovery" modifiers="public," packageName="" qualifiedName="missileRecovery"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="missileRecovery2" fieldLineTooltipDescription="TankClient.missileRecovery2&#10;references one&#10;missileRecovery2" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.missileRecovery2" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="missileRecovery2"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="missileRecovery2" modelMemberIdentifier="type:missileRecovery2" modifiers="public," packageName="" qualifiedName="missileRecovery2"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="missileRecovery2" modelMemberIdentifier="type:missileRecovery2" modifiers="public," packageName="" qualifiedName="missileRecovery2"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="scoreAdding" fieldLineTooltipDescription="TankClient.scoreAdding&#10;references one&#10;ScoreAdding" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.scoreAdding" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="scoreAdding"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="ScoreAdding" modelMemberIdentifier="type:ScoreAdding" modifiers="public," packageName="" qualifiedName="ScoreAdding"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="ScoreAdding" modelMemberIdentifier="type:ScoreAdding" modifiers="public," packageName="" qualifiedName="ScoreAdding"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="offScreen" fieldLineTooltipDescription="TankClient.offScreen&#10;references one&#10;Image" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.offScreen" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="offScreen"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="m" fieldLineTooltipDescription="TankClient.m&#10;references one&#10;Missile" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.m" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="m"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="myTank" fieldLineTooltipDescription="TankClient.myTank&#10;references one&#10;Tank" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.myTank" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="myTank"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="WALL_X" fieldLineTooltipDescription="TankClient.WALL_X&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.WALL_X" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="WALL_X"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="WALL_Y" fieldLineTooltipDescription="TankClient.WALL_Y&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.WALL_Y" modifiers="public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="WALL_Y"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="tanks" fieldLineTooltipDescription="TankClient.tanks&#10;references many&#10;Tank" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.tanks" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="tanks"/>
+                <filter signature="one to many fields"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List&lt;Tank&gt;" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List&lt;Tank&gt;"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="walls" fieldLineTooltipDescription="TankClient.walls&#10;references many&#10;Wall" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.walls" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="walls"/>
+                <filter signature="one to many fields"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List&lt;Wall&gt;" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List&lt;Wall&gt;"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="tiles" fieldLineTooltipDescription="TankClient.tiles&#10;references many&#10;Tile" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.tiles" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="tiles"/>
+                <filter signature="one to many fields"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List&lt;Tile&gt;" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List&lt;Tile&gt;"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Tile" modelMemberIdentifier="type:Tile" modifiers="public," packageName="" qualifiedName="Tile"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="missiles" fieldLineTooltipDescription="TankClient.missiles&#10;references many&#10;Missile" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.missiles" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="missiles"/>
+                <filter signature="one to many fields"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List&lt;Missile&gt;" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List&lt;Missile&gt;"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="explosions" fieldLineTooltipDescription="TankClient.explosions&#10;references many&#10;Explosion" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.explosions" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="explosions"/>
+                <filter signature="one to many fields"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List&lt;Explosion&gt;" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List&lt;Explosion&gt;"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Explosion" modelMemberIdentifier="type:Explosion" modifiers="public," packageName="" qualifiedName="Explosion"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="sytle" fieldLineTooltipDescription="TankClient.sytle&#10;references one&#10;String" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient.sytle" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="sytle"/>
+                <filter signature="package visible fields"/>
+                <filter signature="string fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </containedType>
+        </field>
+        <method deep="true" elementName="TankClient" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:TankClient.TankClient(()V)" modifiers="public,">
+            <filters>
+                <filter signature="constructors"/>
+                <filter signature="default constructors"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="TankClient"/>
+                <filter signature="methods of {method-owner}" switchValues="TankClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+        </method>
+        <method deep="true" elementName="paint" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:TankClient.paint((QGraphics;)V)" modifiers="public," parameterNames="g">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="paint"/>
+                <filter signature="methods of {method-owner}" switchValues="TankClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="Graphics" modelMemberIdentifier="type:java.awt.Graphics" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Graphics"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="update" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:TankClient.update((QGraphics;)V)" modifiers="public," parameterNames="g">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="update"/>
+                <filter signature="methods of {method-owner}" switchValues="TankClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="Graphics" modelMemberIdentifier="type:java.awt.Graphics" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Graphics"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="drawWall" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:TankClient.drawWall(()V)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="drawWall"/>
+                <filter signature="methods of {method-owner}" switchValues="TankClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="launchFrame" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:TankClient.launchFrame(()V)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="launchFrame"/>
+                <filter signature="methods of {method-owner}" switchValues="TankClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="main" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:TankClient.main(([QString;)V)" modifiers="public,static," parameterNames="aregs">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="main methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="main"/>
+                <filter signature="methods of {method-owner}" switchValues="TankClient"/>
+                <filter signature="public methods"/>
+                <filter signature="static methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String[]" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String[]"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <type deep="true" elementName="TankThread" isBinary="false" isDeprecated="false" modelMemberIdentifier="type:TankClient$TankThread" modifiers="private," packageName="" qualifiedName="TankClient$TankThread">
+            <filters>
+                <filter signature="all classes"/>
+                <filter signature="all types"/>
+                <filter signature="classes with a default constructor"/>
+                <filter signature="concrete classes"/>
+                <filter signature="inner types"/>
+                <filter signature="inner types named {type-name}" switchValues="TankThread"/>
+                <filter signature="non java star package types"/>
+                <filter signature="private types"/>
+                <filter signature="source code types"/>
+                <filter signature="types named {type-name-pattern}" switchValues="TankThread"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <outermostType>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </outermostType>
+            <method deep="true" elementName="run" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:TankClient$TankThread.run(()V)" modifiers="public,">
+                <filters>
+                    <filter signature="all methods"/>
+                    <filter signature="methods named {method-name-pattern}" switchValues="run"/>
+                    <filter signature="methods of {method-owner}" switchValues="TankThread"/>
+                    <filter signature="public methods"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="TankThread" modelMemberIdentifier="type:TankClient$TankThread" modifiers="private," packageName="" qualifiedName="TankClient$TankThread"/>
+                </declarer>
+                <return>
+                    <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+                </return>
+            </method>
+            <nonRecursiveSubtypes/>
+            <nonRecursiveSupertypes>
+                <type deep="false" elementName="Runnable" modelMemberIdentifier="type:java.lang.Runnable" modifiers="abstract,public," packageName="java.lang" qualifiedName="java.lang.Runnable"/>
+                <type deep="false" elementName="Object" modelMemberIdentifier="type:java.lang.Object" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Object"/>
+            </nonRecursiveSupertypes>
+            <outwardDependencies>
+                <type deep="false" elementName="ActionListener" modelMemberIdentifier="type:java.awt.event.ActionListener" modifiers="abstract,public," packageName="java.awt.event" qualifiedName="java.awt.event.ActionListener"/>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+                <type deep="false" elementName="UnknownHostException" modelMemberIdentifier="type:java.net.UnknownHostException" modifiers="public," packageName="java.net" qualifiedName="java.net.UnknownHostException"/>
+                <type deep="false" elementName="BloodRecovery" modelMemberIdentifier="type:BloodRecovery" modifiers="public," packageName="" qualifiedName="BloodRecovery"/>
+                <type deep="false" elementName="Runnable" modelMemberIdentifier="type:java.lang.Runnable" modifiers="abstract,public," packageName="java.lang" qualifiedName="java.lang.Runnable"/>
+                <type deep="false" elementName="Explosion" modelMemberIdentifier="type:Explosion" modifiers="public," packageName="" qualifiedName="Explosion"/>
+                <type deep="false" elementName="Math" modelMemberIdentifier="type:java.lang.Math" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.Math"/>
+                <type deep="false" elementName="MissileDeadMessage" modelMemberIdentifier="type:MissileDeadMessage" modifiers="public," packageName="" qualifiedName="MissileDeadMessage"/>
+                <type deep="false" elementName="ActionEvent" modelMemberIdentifier="type:java.awt.event.ActionEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.ActionEvent"/>
+                <type deep="false" elementName="TankDeadMessage" modelMemberIdentifier="type:TankDeadMessage" modifiers="public," packageName="" qualifiedName="TankDeadMessage"/>
+                <type deep="false" elementName="Button" modelMemberIdentifier="type:java.awt.Button" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Button"/>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+                <type deep="false" elementName="Graphics" modelMemberIdentifier="type:java.awt.Graphics" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Graphics"/>
+                <type deep="false" elementName="Frame" modelMemberIdentifier="type:java.awt.Frame" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Frame"/>
+                <type deep="false" elementName="Thread" modelMemberIdentifier="type:java.lang.Thread" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Thread"/>
+                <type deep="false" elementName="InterruptedException" modelMemberIdentifier="type:java.lang.InterruptedException" modifiers="public," packageName="java.lang" qualifiedName="java.lang.InterruptedException"/>
+                <type deep="false" elementName="KeyEvent" modelMemberIdentifier="type:java.awt.event.KeyEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.KeyEvent"/>
+                <type deep="false" elementName="Color" modelMemberIdentifier="type:java.awt.Color" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Color"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="FlowLayout" modelMemberIdentifier="type:java.awt.FlowLayout" modifiers="public," packageName="java.awt" qualifiedName="java.awt.FlowLayout"/>
+                <type deep="false" elementName="BloodRecoveryMessage" modelMemberIdentifier="type:BloodRecoveryMessage" modifiers="public," packageName="" qualifiedName="BloodRecoveryMessage"/>
+                <type deep="false" elementName="SpeedUp" modelMemberIdentifier="type:SpeedUp" modifiers="public," packageName="" qualifiedName="SpeedUp"/>
+                <type deep="false" elementName="MissileRecoveryMessage" modelMemberIdentifier="type:MissileRecoveryMessage" modifiers="public," packageName="" qualifiedName="MissileRecoveryMessage"/>
+                <type deep="false" elementName="Exception" modelMemberIdentifier="type:java.lang.Exception" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Exception"/>
+                <type deep="false" elementName="missileRecovery" modelMemberIdentifier="type:missileRecovery" modifiers="public," packageName="" qualifiedName="missileRecovery"/>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+                <type deep="false" elementName="ScoreAdding" modelMemberIdentifier="type:ScoreAdding" modifiers="public," packageName="" qualifiedName="ScoreAdding"/>
+                <type deep="false" elementName="BloodMessage" modelMemberIdentifier="type:BloodMessage" modifiers="public," packageName="" qualifiedName="BloodMessage"/>
+                <type deep="false" elementName="Font" modelMemberIdentifier="type:java.awt.Font" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Font"/>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+                <type deep="false" elementName="TankWarMainServer" modelMemberIdentifier="type:TankWarMainServer" modifiers="public," packageName="" qualifiedName="TankWarMainServer"/>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List"/>
+                <type deep="false" elementName="System" modelMemberIdentifier="type:java.lang.System" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.System"/>
+                <type deep="false" elementName="ScoringAddingMessage" modelMemberIdentifier="type:ScoringAddingMessage" modifiers="public," packageName="" qualifiedName="ScoringAddingMessage"/>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+                <type deep="false" elementName="MissileRecovery2Message" modelMemberIdentifier="type:MissileRecovery2Message" modifiers="public," packageName="" qualifiedName="MissileRecovery2Message"/>
+                <type deep="false" elementName="WindowEvent" modelMemberIdentifier="type:java.awt.event.WindowEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.WindowEvent"/>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+                <type deep="false" elementName="WindowAdapter" modelMemberIdentifier="type:java.awt.event.WindowAdapter" modifiers="abstract,public," packageName="java.awt.event" qualifiedName="java.awt.event.WindowAdapter"/>
+                <type deep="false" elementName="KeyAdapter" modelMemberIdentifier="type:java.awt.event.KeyAdapter" modifiers="abstract,public," packageName="java.awt.event" qualifiedName="java.awt.event.KeyAdapter"/>
+                <type deep="false" elementName="Dialog" modelMemberIdentifier="type:java.awt.Dialog" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Dialog"/>
+                <type deep="false" elementName="TextField" modelMemberIdentifier="type:java.awt.TextField" modifiers="public," packageName="java.awt" qualifiedName="java.awt.TextField"/>
+                <type deep="false" elementName="SpeedUpMessage" modelMemberIdentifier="type:SpeedUpMessage" modifiers="public," packageName="" qualifiedName="SpeedUpMessage"/>
+                <type deep="false" elementName="Tile" modelMemberIdentifier="type:Tile" modifiers="public," packageName="" qualifiedName="Tile"/>
+                <type deep="false" elementName="Toolkit" modelMemberIdentifier="type:java.awt.Toolkit" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Toolkit"/>
+                <type deep="false" elementName="Label" modelMemberIdentifier="type:java.awt.Label" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Label"/>
+                <type deep="false" elementName="Integer" modelMemberIdentifier="type:java.lang.Integer" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.Integer"/>
+                <type deep="false" elementName="Random" modelMemberIdentifier="type:java.util.Random" modifiers="public," packageName="java.util" qualifiedName="java.util.Random"/>
+                <type deep="false" elementName="InetAddress" modelMemberIdentifier="type:java.net.InetAddress" modifiers="public," packageName="java.net" qualifiedName="java.net.InetAddress"/>
+                <type deep="false" elementName="missileRecovery2" modelMemberIdentifier="type:missileRecovery2" modifiers="public," packageName="" qualifiedName="missileRecovery2"/>
+            </outwardDependencies>
+        </type>
+        <type deep="true" elementName="KeyMonitor" isBinary="false" isDeprecated="false" modelMemberIdentifier="type:TankClient$KeyMonitor" modifiers="private," packageName="" qualifiedName="TankClient$KeyMonitor">
+            <filters>
+                <filter signature="all classes"/>
+                <filter signature="all types"/>
+                <filter signature="classes with a default constructor"/>
+                <filter signature="concrete classes"/>
+                <filter signature="inner types"/>
+                <filter signature="inner types named {type-name}" switchValues="KeyMonitor"/>
+                <filter signature="non java star package types"/>
+                <filter signature="private types"/>
+                <filter signature="source code types"/>
+                <filter signature="types named {type-name-pattern}" switchValues="KeyMonitor"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <outermostType>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </outermostType>
+            <method deep="true" elementName="keyPressed" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:TankClient$KeyMonitor.keyPressed((QKeyEvent;)V)" modifiers="public," parameterNames="e">
+                <filters>
+                    <filter signature="all methods"/>
+                    <filter signature="methods named {method-name-pattern}" switchValues="keyPressed"/>
+                    <filter signature="methods of {method-owner}" switchValues="KeyMonitor"/>
+                    <filter signature="public methods"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="KeyMonitor" modelMemberIdentifier="type:TankClient$KeyMonitor" modifiers="private," packageName="" qualifiedName="TankClient$KeyMonitor"/>
+                </declarer>
+                <parameterTypes>
+                    <type deep="false" elementName="KeyEvent" modelMemberIdentifier="type:java.awt.event.KeyEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.KeyEvent"/>
+                </parameterTypes>
+                <return>
+                    <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+                </return>
+            </method>
+            <method deep="true" elementName="keyReleased" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:TankClient$KeyMonitor.keyReleased((QKeyEvent;)V)" modifiers="public," parameterNames="e">
+                <filters>
+                    <filter signature="all methods"/>
+                    <filter signature="methods named {method-name-pattern}" switchValues="keyReleased"/>
+                    <filter signature="methods of {method-owner}" switchValues="KeyMonitor"/>
+                    <filter signature="public methods"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="KeyMonitor" modelMemberIdentifier="type:TankClient$KeyMonitor" modifiers="private," packageName="" qualifiedName="TankClient$KeyMonitor"/>
+                </declarer>
+                <parameterTypes>
+                    <type deep="false" elementName="KeyEvent" modelMemberIdentifier="type:java.awt.event.KeyEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.KeyEvent"/>
+                </parameterTypes>
+                <return>
+                    <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+                </return>
+            </method>
+            <nonRecursiveSubtypes/>
+            <nonRecursiveSupertypes>
+                <type deep="false" elementName="KeyAdapter" modelMemberIdentifier="type:java.awt.event.KeyAdapter" modifiers="abstract,public," packageName="java.awt.event" qualifiedName="java.awt.event.KeyAdapter"/>
+            </nonRecursiveSupertypes>
+            <outwardDependencies>
+                <type deep="false" elementName="ActionListener" modelMemberIdentifier="type:java.awt.event.ActionListener" modifiers="abstract,public," packageName="java.awt.event" qualifiedName="java.awt.event.ActionListener"/>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+                <type deep="false" elementName="UnknownHostException" modelMemberIdentifier="type:java.net.UnknownHostException" modifiers="public," packageName="java.net" qualifiedName="java.net.UnknownHostException"/>
+                <type deep="false" elementName="BloodRecovery" modelMemberIdentifier="type:BloodRecovery" modifiers="public," packageName="" qualifiedName="BloodRecovery"/>
+                <type deep="false" elementName="Runnable" modelMemberIdentifier="type:java.lang.Runnable" modifiers="abstract,public," packageName="java.lang" qualifiedName="java.lang.Runnable"/>
+                <type deep="false" elementName="Explosion" modelMemberIdentifier="type:Explosion" modifiers="public," packageName="" qualifiedName="Explosion"/>
+                <type deep="false" elementName="Math" modelMemberIdentifier="type:java.lang.Math" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.Math"/>
+                <type deep="false" elementName="MissileDeadMessage" modelMemberIdentifier="type:MissileDeadMessage" modifiers="public," packageName="" qualifiedName="MissileDeadMessage"/>
+                <type deep="false" elementName="ActionEvent" modelMemberIdentifier="type:java.awt.event.ActionEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.ActionEvent"/>
+                <type deep="false" elementName="TankDeadMessage" modelMemberIdentifier="type:TankDeadMessage" modifiers="public," packageName="" qualifiedName="TankDeadMessage"/>
+                <type deep="false" elementName="Button" modelMemberIdentifier="type:java.awt.Button" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Button"/>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+                <type deep="false" elementName="Graphics" modelMemberIdentifier="type:java.awt.Graphics" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Graphics"/>
+                <type deep="false" elementName="Frame" modelMemberIdentifier="type:java.awt.Frame" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Frame"/>
+                <type deep="false" elementName="Thread" modelMemberIdentifier="type:java.lang.Thread" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Thread"/>
+                <type deep="false" elementName="InterruptedException" modelMemberIdentifier="type:java.lang.InterruptedException" modifiers="public," packageName="java.lang" qualifiedName="java.lang.InterruptedException"/>
+                <type deep="false" elementName="KeyEvent" modelMemberIdentifier="type:java.awt.event.KeyEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.KeyEvent"/>
+                <type deep="false" elementName="Color" modelMemberIdentifier="type:java.awt.Color" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Color"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="FlowLayout" modelMemberIdentifier="type:java.awt.FlowLayout" modifiers="public," packageName="java.awt" qualifiedName="java.awt.FlowLayout"/>
+                <type deep="false" elementName="BloodRecoveryMessage" modelMemberIdentifier="type:BloodRecoveryMessage" modifiers="public," packageName="" qualifiedName="BloodRecoveryMessage"/>
+                <type deep="false" elementName="SpeedUp" modelMemberIdentifier="type:SpeedUp" modifiers="public," packageName="" qualifiedName="SpeedUp"/>
+                <type deep="false" elementName="MissileRecoveryMessage" modelMemberIdentifier="type:MissileRecoveryMessage" modifiers="public," packageName="" qualifiedName="MissileRecoveryMessage"/>
+                <type deep="false" elementName="Exception" modelMemberIdentifier="type:java.lang.Exception" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Exception"/>
+                <type deep="false" elementName="missileRecovery" modelMemberIdentifier="type:missileRecovery" modifiers="public," packageName="" qualifiedName="missileRecovery"/>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+                <type deep="false" elementName="ScoreAdding" modelMemberIdentifier="type:ScoreAdding" modifiers="public," packageName="" qualifiedName="ScoreAdding"/>
+                <type deep="false" elementName="BloodMessage" modelMemberIdentifier="type:BloodMessage" modifiers="public," packageName="" qualifiedName="BloodMessage"/>
+                <type deep="false" elementName="Font" modelMemberIdentifier="type:java.awt.Font" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Font"/>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+                <type deep="false" elementName="TankWarMainServer" modelMemberIdentifier="type:TankWarMainServer" modifiers="public," packageName="" qualifiedName="TankWarMainServer"/>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List"/>
+                <type deep="false" elementName="System" modelMemberIdentifier="type:java.lang.System" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.System"/>
+                <type deep="false" elementName="ScoringAddingMessage" modelMemberIdentifier="type:ScoringAddingMessage" modifiers="public," packageName="" qualifiedName="ScoringAddingMessage"/>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+                <type deep="false" elementName="MissileRecovery2Message" modelMemberIdentifier="type:MissileRecovery2Message" modifiers="public," packageName="" qualifiedName="MissileRecovery2Message"/>
+                <type deep="false" elementName="WindowEvent" modelMemberIdentifier="type:java.awt.event.WindowEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.WindowEvent"/>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+                <type deep="false" elementName="WindowAdapter" modelMemberIdentifier="type:java.awt.event.WindowAdapter" modifiers="abstract,public," packageName="java.awt.event" qualifiedName="java.awt.event.WindowAdapter"/>
+                <type deep="false" elementName="KeyAdapter" modelMemberIdentifier="type:java.awt.event.KeyAdapter" modifiers="abstract,public," packageName="java.awt.event" qualifiedName="java.awt.event.KeyAdapter"/>
+                <type deep="false" elementName="Dialog" modelMemberIdentifier="type:java.awt.Dialog" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Dialog"/>
+                <type deep="false" elementName="TextField" modelMemberIdentifier="type:java.awt.TextField" modifiers="public," packageName="java.awt" qualifiedName="java.awt.TextField"/>
+                <type deep="false" elementName="SpeedUpMessage" modelMemberIdentifier="type:SpeedUpMessage" modifiers="public," packageName="" qualifiedName="SpeedUpMessage"/>
+                <type deep="false" elementName="Tile" modelMemberIdentifier="type:Tile" modifiers="public," packageName="" qualifiedName="Tile"/>
+                <type deep="false" elementName="Toolkit" modelMemberIdentifier="type:java.awt.Toolkit" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Toolkit"/>
+                <type deep="false" elementName="Label" modelMemberIdentifier="type:java.awt.Label" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Label"/>
+                <type deep="false" elementName="Integer" modelMemberIdentifier="type:java.lang.Integer" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.Integer"/>
+                <type deep="false" elementName="Random" modelMemberIdentifier="type:java.util.Random" modifiers="public," packageName="java.util" qualifiedName="java.util.Random"/>
+                <type deep="false" elementName="InetAddress" modelMemberIdentifier="type:java.net.InetAddress" modifiers="public," packageName="java.net" qualifiedName="java.net.InetAddress"/>
+                <type deep="false" elementName="missileRecovery2" modelMemberIdentifier="type:missileRecovery2" modifiers="public," packageName="" qualifiedName="missileRecovery2"/>
+            </outwardDependencies>
+        </type>
+        <type deep="true" elementName="ConnDialog" isBinary="false" isDeprecated="false" modelMemberIdentifier="type:TankClient$ConnDialog" modifiers="" packageName="" qualifiedName="TankClient$ConnDialog">
+            <filters>
+                <filter signature="all classes"/>
+                <filter signature="all types"/>
+                <filter signature="classes with a default constructor"/>
+                <filter signature="concrete classes"/>
+                <filter signature="inner types"/>
+                <filter signature="inner types named {type-name}" switchValues="ConnDialog"/>
+                <filter signature="non java star package types"/>
+                <filter signature="package visible types"/>
+                <filter signature="pojo types"/>
+                <filter signature="serializable types"/>
+                <filter signature="source code types"/>
+                <filter signature="types named {type-name-pattern}" switchValues="ConnDialog"/>
+                <filter signature="types with static members"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </declarer>
+            <outermostType>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </outermostType>
+            <field deep="true" elementName="serialVersionUID" fieldLineTooltipDescription="ConnDialog.serialVersionUID&#10;references one&#10;long" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient$ConnDialog.serialVersionUID" modifiers="final,private,static,">
+                <filters>
+                    <filter signature="all fields"/>
+                    <filter signature="fields named {field-name-pattern}" switchValues="serialVersionUID"/>
+                    <filter signature="private fields"/>
+                    <filter signature="serial version uid fields"/>
+                    <filter signature="static fields"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="ConnDialog" modelMemberIdentifier="type:TankClient$ConnDialog" modifiers="" packageName="" qualifiedName="TankClient$ConnDialog"/>
+                </declarer>
+                <rawType>
+                    <type deep="false" elementName="long" modelMemberIdentifier="type:long" modifiers="" packageName="" qualifiedName="long"/>
+                </rawType>
+                <containedType>
+                    <type deep="false" elementName="long" modelMemberIdentifier="type:long" modifiers="" packageName="" qualifiedName="long"/>
+                </containedType>
+            </field>
+            <field deep="true" elementName="b" fieldLineTooltipDescription="ConnDialog.b&#10;references one&#10;Button" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient$ConnDialog.b" modifiers="">
+                <filters>
+                    <filter signature="all fields"/>
+                    <filter signature="fields named {field-name-pattern}" switchValues="b"/>
+                    <filter signature="package visible fields"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="ConnDialog" modelMemberIdentifier="type:TankClient$ConnDialog" modifiers="" packageName="" qualifiedName="TankClient$ConnDialog"/>
+                </declarer>
+                <rawType>
+                    <type deep="false" elementName="Button" modelMemberIdentifier="type:java.awt.Button" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Button"/>
+                </rawType>
+                <containedType>
+                    <type deep="false" elementName="Button" modelMemberIdentifier="type:java.awt.Button" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Button"/>
+                </containedType>
+            </field>
+            <field deep="true" elementName="tfIP" fieldLineTooltipDescription="ConnDialog.tfIP&#10;references one&#10;TextField" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient$ConnDialog.tfIP" modifiers="">
+                <filters>
+                    <filter signature="all fields"/>
+                    <filter signature="fields named {field-name-pattern}" switchValues="tfIP"/>
+                    <filter signature="package visible fields"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="ConnDialog" modelMemberIdentifier="type:TankClient$ConnDialog" modifiers="" packageName="" qualifiedName="TankClient$ConnDialog"/>
+                </declarer>
+                <rawType>
+                    <type deep="false" elementName="TextField" modelMemberIdentifier="type:java.awt.TextField" modifiers="public," packageName="java.awt" qualifiedName="java.awt.TextField"/>
+                </rawType>
+                <containedType>
+                    <type deep="false" elementName="TextField" modelMemberIdentifier="type:java.awt.TextField" modifiers="public," packageName="java.awt" qualifiedName="java.awt.TextField"/>
+                </containedType>
+            </field>
+            <field deep="true" elementName="tfPort" fieldLineTooltipDescription="ConnDialog.tfPort&#10;references one&#10;TextField" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient$ConnDialog.tfPort" modifiers="">
+                <filters>
+                    <filter signature="all fields"/>
+                    <filter signature="fields named {field-name-pattern}" switchValues="tfPort"/>
+                    <filter signature="package visible fields"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="ConnDialog" modelMemberIdentifier="type:TankClient$ConnDialog" modifiers="" packageName="" qualifiedName="TankClient$ConnDialog"/>
+                </declarer>
+                <rawType>
+                    <type deep="false" elementName="TextField" modelMemberIdentifier="type:java.awt.TextField" modifiers="public," packageName="java.awt" qualifiedName="java.awt.TextField"/>
+                </rawType>
+                <containedType>
+                    <type deep="false" elementName="TextField" modelMemberIdentifier="type:java.awt.TextField" modifiers="public," packageName="java.awt" qualifiedName="java.awt.TextField"/>
+                </containedType>
+            </field>
+            <field deep="true" elementName="tfMyUDPPort" fieldLineTooltipDescription="ConnDialog.tfMyUDPPort&#10;references one&#10;TextField" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankClient$ConnDialog.tfMyUDPPort" modifiers="">
+                <filters>
+                    <filter signature="all fields"/>
+                    <filter signature="fields named {field-name-pattern}" switchValues="tfMyUDPPort"/>
+                    <filter signature="package visible fields"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="ConnDialog" modelMemberIdentifier="type:TankClient$ConnDialog" modifiers="" packageName="" qualifiedName="TankClient$ConnDialog"/>
+                </declarer>
+                <rawType>
+                    <type deep="false" elementName="TextField" modelMemberIdentifier="type:java.awt.TextField" modifiers="public," packageName="java.awt" qualifiedName="java.awt.TextField"/>
+                </rawType>
+                <containedType>
+                    <type deep="false" elementName="TextField" modelMemberIdentifier="type:java.awt.TextField" modifiers="public," packageName="java.awt" qualifiedName="java.awt.TextField"/>
+                </containedType>
+            </field>
+            <method deep="true" elementName="ConnDialog" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:TankClient$ConnDialog.ConnDialog(()V)" modifiers="public,">
+                <filters>
+                    <filter signature="constructors"/>
+                    <filter signature="default constructors"/>
+                    <filter signature="methods named {method-name-pattern}" switchValues="ConnDialog"/>
+                    <filter signature="methods of {method-owner}" switchValues="ConnDialog"/>
+                    <filter signature="public methods"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="ConnDialog" modelMemberIdentifier="type:TankClient$ConnDialog" modifiers="" packageName="" qualifiedName="TankClient$ConnDialog"/>
+                </declarer>
+            </method>
+            <nonRecursiveSubtypes/>
+            <nonRecursiveSupertypes>
+                <type deep="false" elementName="Dialog" modelMemberIdentifier="type:java.awt.Dialog" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Dialog"/>
+            </nonRecursiveSupertypes>
+            <outwardDependencies>
+                <type deep="false" elementName="ActionListener" modelMemberIdentifier="type:java.awt.event.ActionListener" modifiers="abstract,public," packageName="java.awt.event" qualifiedName="java.awt.event.ActionListener"/>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+                <type deep="false" elementName="UnknownHostException" modelMemberIdentifier="type:java.net.UnknownHostException" modifiers="public," packageName="java.net" qualifiedName="java.net.UnknownHostException"/>
+                <type deep="false" elementName="BloodRecovery" modelMemberIdentifier="type:BloodRecovery" modifiers="public," packageName="" qualifiedName="BloodRecovery"/>
+                <type deep="false" elementName="Runnable" modelMemberIdentifier="type:java.lang.Runnable" modifiers="abstract,public," packageName="java.lang" qualifiedName="java.lang.Runnable"/>
+                <type deep="false" elementName="Explosion" modelMemberIdentifier="type:Explosion" modifiers="public," packageName="" qualifiedName="Explosion"/>
+                <type deep="false" elementName="Math" modelMemberIdentifier="type:java.lang.Math" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.Math"/>
+                <type deep="false" elementName="MissileDeadMessage" modelMemberIdentifier="type:MissileDeadMessage" modifiers="public," packageName="" qualifiedName="MissileDeadMessage"/>
+                <type deep="false" elementName="ActionEvent" modelMemberIdentifier="type:java.awt.event.ActionEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.ActionEvent"/>
+                <type deep="false" elementName="TankDeadMessage" modelMemberIdentifier="type:TankDeadMessage" modifiers="public," packageName="" qualifiedName="TankDeadMessage"/>
+                <type deep="false" elementName="Button" modelMemberIdentifier="type:java.awt.Button" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Button"/>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+                <type deep="false" elementName="Graphics" modelMemberIdentifier="type:java.awt.Graphics" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Graphics"/>
+                <type deep="false" elementName="Frame" modelMemberIdentifier="type:java.awt.Frame" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Frame"/>
+                <type deep="false" elementName="Thread" modelMemberIdentifier="type:java.lang.Thread" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Thread"/>
+                <type deep="false" elementName="InterruptedException" modelMemberIdentifier="type:java.lang.InterruptedException" modifiers="public," packageName="java.lang" qualifiedName="java.lang.InterruptedException"/>
+                <type deep="false" elementName="KeyEvent" modelMemberIdentifier="type:java.awt.event.KeyEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.KeyEvent"/>
+                <type deep="false" elementName="Color" modelMemberIdentifier="type:java.awt.Color" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Color"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="FlowLayout" modelMemberIdentifier="type:java.awt.FlowLayout" modifiers="public," packageName="java.awt" qualifiedName="java.awt.FlowLayout"/>
+                <type deep="false" elementName="BloodRecoveryMessage" modelMemberIdentifier="type:BloodRecoveryMessage" modifiers="public," packageName="" qualifiedName="BloodRecoveryMessage"/>
+                <type deep="false" elementName="SpeedUp" modelMemberIdentifier="type:SpeedUp" modifiers="public," packageName="" qualifiedName="SpeedUp"/>
+                <type deep="false" elementName="MissileRecoveryMessage" modelMemberIdentifier="type:MissileRecoveryMessage" modifiers="public," packageName="" qualifiedName="MissileRecoveryMessage"/>
+                <type deep="false" elementName="Exception" modelMemberIdentifier="type:java.lang.Exception" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Exception"/>
+                <type deep="false" elementName="missileRecovery" modelMemberIdentifier="type:missileRecovery" modifiers="public," packageName="" qualifiedName="missileRecovery"/>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+                <type deep="false" elementName="ScoreAdding" modelMemberIdentifier="type:ScoreAdding" modifiers="public," packageName="" qualifiedName="ScoreAdding"/>
+                <type deep="false" elementName="BloodMessage" modelMemberIdentifier="type:BloodMessage" modifiers="public," packageName="" qualifiedName="BloodMessage"/>
+                <type deep="false" elementName="Font" modelMemberIdentifier="type:java.awt.Font" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Font"/>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+                <type deep="false" elementName="TankWarMainServer" modelMemberIdentifier="type:TankWarMainServer" modifiers="public," packageName="" qualifiedName="TankWarMainServer"/>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List"/>
+                <type deep="false" elementName="System" modelMemberIdentifier="type:java.lang.System" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.System"/>
+                <type deep="false" elementName="ScoringAddingMessage" modelMemberIdentifier="type:ScoringAddingMessage" modifiers="public," packageName="" qualifiedName="ScoringAddingMessage"/>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+                <type deep="false" elementName="MissileRecovery2Message" modelMemberIdentifier="type:MissileRecovery2Message" modifiers="public," packageName="" qualifiedName="MissileRecovery2Message"/>
+                <type deep="false" elementName="WindowEvent" modelMemberIdentifier="type:java.awt.event.WindowEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.WindowEvent"/>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+                <type deep="false" elementName="WindowAdapter" modelMemberIdentifier="type:java.awt.event.WindowAdapter" modifiers="abstract,public," packageName="java.awt.event" qualifiedName="java.awt.event.WindowAdapter"/>
+                <type deep="false" elementName="KeyAdapter" modelMemberIdentifier="type:java.awt.event.KeyAdapter" modifiers="abstract,public," packageName="java.awt.event" qualifiedName="java.awt.event.KeyAdapter"/>
+                <type deep="false" elementName="Dialog" modelMemberIdentifier="type:java.awt.Dialog" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Dialog"/>
+                <type deep="false" elementName="TextField" modelMemberIdentifier="type:java.awt.TextField" modifiers="public," packageName="java.awt" qualifiedName="java.awt.TextField"/>
+                <type deep="false" elementName="SpeedUpMessage" modelMemberIdentifier="type:SpeedUpMessage" modifiers="public," packageName="" qualifiedName="SpeedUpMessage"/>
+                <type deep="false" elementName="Tile" modelMemberIdentifier="type:Tile" modifiers="public," packageName="" qualifiedName="Tile"/>
+                <type deep="false" elementName="Toolkit" modelMemberIdentifier="type:java.awt.Toolkit" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Toolkit"/>
+                <type deep="false" elementName="Label" modelMemberIdentifier="type:java.awt.Label" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Label"/>
+                <type deep="false" elementName="Integer" modelMemberIdentifier="type:java.lang.Integer" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.Integer"/>
+                <type deep="false" elementName="Random" modelMemberIdentifier="type:java.util.Random" modifiers="public," packageName="java.util" qualifiedName="java.util.Random"/>
+                <type deep="false" elementName="InetAddress" modelMemberIdentifier="type:java.net.InetAddress" modifiers="public," packageName="java.net" qualifiedName="java.net.InetAddress"/>
+                <type deep="false" elementName="missileRecovery2" modelMemberIdentifier="type:missileRecovery2" modifiers="public," packageName="" qualifiedName="missileRecovery2"/>
+            </outwardDependencies>
+        </type>
+        <nonRecursiveSubtypes/>
+        <nonRecursiveSupertypes>
+            <type deep="false" elementName="Frame" modelMemberIdentifier="type:java.awt.Frame" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Frame"/>
+        </nonRecursiveSupertypes>
+        <outwardDependencies>
+            <type deep="false" elementName="ActionListener" modelMemberIdentifier="type:java.awt.event.ActionListener" modifiers="abstract,public," packageName="java.awt.event" qualifiedName="java.awt.event.ActionListener"/>
+            <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            <type deep="false" elementName="UnknownHostException" modelMemberIdentifier="type:java.net.UnknownHostException" modifiers="public," packageName="java.net" qualifiedName="java.net.UnknownHostException"/>
+            <type deep="false" elementName="BloodRecovery" modelMemberIdentifier="type:BloodRecovery" modifiers="public," packageName="" qualifiedName="BloodRecovery"/>
+            <type deep="false" elementName="Runnable" modelMemberIdentifier="type:java.lang.Runnable" modifiers="abstract,public," packageName="java.lang" qualifiedName="java.lang.Runnable"/>
+            <type deep="false" elementName="Explosion" modelMemberIdentifier="type:Explosion" modifiers="public," packageName="" qualifiedName="Explosion"/>
+            <type deep="false" elementName="Math" modelMemberIdentifier="type:java.lang.Math" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.Math"/>
+            <type deep="false" elementName="MissileDeadMessage" modelMemberIdentifier="type:MissileDeadMessage" modifiers="public," packageName="" qualifiedName="MissileDeadMessage"/>
+            <type deep="false" elementName="ActionEvent" modelMemberIdentifier="type:java.awt.event.ActionEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.ActionEvent"/>
+            <type deep="false" elementName="TankDeadMessage" modelMemberIdentifier="type:TankDeadMessage" modifiers="public," packageName="" qualifiedName="TankDeadMessage"/>
+            <type deep="false" elementName="Button" modelMemberIdentifier="type:java.awt.Button" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Button"/>
+            <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            <type deep="false" elementName="Graphics" modelMemberIdentifier="type:java.awt.Graphics" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Graphics"/>
+            <type deep="false" elementName="Frame" modelMemberIdentifier="type:java.awt.Frame" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Frame"/>
+            <type deep="false" elementName="Thread" modelMemberIdentifier="type:java.lang.Thread" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Thread"/>
+            <type deep="false" elementName="InterruptedException" modelMemberIdentifier="type:java.lang.InterruptedException" modifiers="public," packageName="java.lang" qualifiedName="java.lang.InterruptedException"/>
+            <type deep="false" elementName="KeyEvent" modelMemberIdentifier="type:java.awt.event.KeyEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.KeyEvent"/>
+            <type deep="false" elementName="Color" modelMemberIdentifier="type:java.awt.Color" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Color"/>
+            <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            <type deep="false" elementName="FlowLayout" modelMemberIdentifier="type:java.awt.FlowLayout" modifiers="public," packageName="java.awt" qualifiedName="java.awt.FlowLayout"/>
+            <type deep="false" elementName="BloodRecoveryMessage" modelMemberIdentifier="type:BloodRecoveryMessage" modifiers="public," packageName="" qualifiedName="BloodRecoveryMessage"/>
+            <type deep="false" elementName="SpeedUp" modelMemberIdentifier="type:SpeedUp" modifiers="public," packageName="" qualifiedName="SpeedUp"/>
+            <type deep="false" elementName="MissileRecoveryMessage" modelMemberIdentifier="type:MissileRecoveryMessage" modifiers="public," packageName="" qualifiedName="MissileRecoveryMessage"/>
+            <type deep="false" elementName="Exception" modelMemberIdentifier="type:java.lang.Exception" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Exception"/>
+            <type deep="false" elementName="missileRecovery" modelMemberIdentifier="type:missileRecovery" modifiers="public," packageName="" qualifiedName="missileRecovery"/>
+            <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            <type deep="false" elementName="ScoreAdding" modelMemberIdentifier="type:ScoreAdding" modifiers="public," packageName="" qualifiedName="ScoreAdding"/>
+            <type deep="false" elementName="BloodMessage" modelMemberIdentifier="type:BloodMessage" modifiers="public," packageName="" qualifiedName="BloodMessage"/>
+            <type deep="false" elementName="Font" modelMemberIdentifier="type:java.awt.Font" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Font"/>
+            <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            <type deep="false" elementName="TankWarMainServer" modelMemberIdentifier="type:TankWarMainServer" modifiers="public," packageName="" qualifiedName="TankWarMainServer"/>
+            <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List"/>
+            <type deep="false" elementName="System" modelMemberIdentifier="type:java.lang.System" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.System"/>
+            <type deep="false" elementName="ScoringAddingMessage" modelMemberIdentifier="type:ScoringAddingMessage" modifiers="public," packageName="" qualifiedName="ScoringAddingMessage"/>
+            <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            <type deep="false" elementName="MissileRecovery2Message" modelMemberIdentifier="type:MissileRecovery2Message" modifiers="public," packageName="" qualifiedName="MissileRecovery2Message"/>
+            <type deep="false" elementName="WindowEvent" modelMemberIdentifier="type:java.awt.event.WindowEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.WindowEvent"/>
+            <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            <type deep="false" elementName="WindowAdapter" modelMemberIdentifier="type:java.awt.event.WindowAdapter" modifiers="abstract,public," packageName="java.awt.event" qualifiedName="java.awt.event.WindowAdapter"/>
+            <type deep="false" elementName="KeyAdapter" modelMemberIdentifier="type:java.awt.event.KeyAdapter" modifiers="abstract,public," packageName="java.awt.event" qualifiedName="java.awt.event.KeyAdapter"/>
+            <type deep="false" elementName="Dialog" modelMemberIdentifier="type:java.awt.Dialog" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Dialog"/>
+            <type deep="false" elementName="TextField" modelMemberIdentifier="type:java.awt.TextField" modifiers="public," packageName="java.awt" qualifiedName="java.awt.TextField"/>
+            <type deep="false" elementName="SpeedUpMessage" modelMemberIdentifier="type:SpeedUpMessage" modifiers="public," packageName="" qualifiedName="SpeedUpMessage"/>
+            <type deep="false" elementName="Tile" modelMemberIdentifier="type:Tile" modifiers="public," packageName="" qualifiedName="Tile"/>
+            <type deep="false" elementName="Toolkit" modelMemberIdentifier="type:java.awt.Toolkit" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Toolkit"/>
+            <type deep="false" elementName="Label" modelMemberIdentifier="type:java.awt.Label" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Label"/>
+            <type deep="false" elementName="Integer" modelMemberIdentifier="type:java.lang.Integer" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.Integer"/>
+            <type deep="false" elementName="Random" modelMemberIdentifier="type:java.util.Random" modifiers="public," packageName="java.util" qualifiedName="java.util.Random"/>
+            <type deep="false" elementName="InetAddress" modelMemberIdentifier="type:java.net.InetAddress" modifiers="public," packageName="java.net" qualifiedName="java.net.InetAddress"/>
+            <type deep="false" elementName="missileRecovery2" modelMemberIdentifier="type:missileRecovery2" modifiers="public," packageName="" qualifiedName="missileRecovery2"/>
+        </outwardDependencies>
+    </type>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB/0lEQVR4nJ2U70taYRTH/R/6F3qbiwVBDe4ititThiJiFiXaQjebzL2Zm9PwbpVFos2g8gfOZGxBIK1L1Kg5MCh8MbZFL1xkbEGjelP2xpff7vOIcteUXT1wOM95nnM/zznnOVyZ7Jp8PdrDQPwpVCETOsY1UE4bqU/2r8dKFm41RGEP3z2BM/W8osRve3Uf5Lwh6E2vAhzvwfL3JWQOvmD7cIvaxE4UXt6L5mdMfXBSJsn0RcqJ9P4Gqsnmz094+dFFM5fclr6oA+aEFW93IhXQRm4Nb9J+8LvL1P99/gu+9TEa9yDplAZmg0ZoZ42Iby9QyMFZHqa4paL29w5YkzaqvWEzSLwkMCmvdYRFMF3KeCufhdxzFy3uO1TJuo27h/ZRJZgJtbBWSc/4lk8tTICPgo/Oj3F7UgvGp6GazKaw9I2HIWaHImiQnjHpGTOhgTFmQ6F4WXqsXAbDH1wIfC5VcVEsYEA4186a8HiRkwbOnebpKOnmzMJkcNgXeiyWP4UT+DdnYAgP0TjxVIjjqsJH+GnI3SzYQA9MiUdwr4xibN1PLfF7BGj7azVInBgqszRRDWcWal9APrrhYYVyB6GPDEEvwIglPtkXQ8XgyA87mLnOvy74B07K1M3b0DVpQPdUH7X9ser/CjG4rOUKJL1BLakr40bA/+1xo/BqwCtkVQA98MkVlAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="type:TankClient" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:TankClient.BACKGROUD_HEIGHT" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:TankClient.BACKGROUD_WIDTH" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:TankClient.FRAME_LOCATION_X" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:TankClient.FRAME_LOCATION_Y" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:TankClient.FRAME_SIZE_X" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:TankClient.FRAME_SIZE_Y" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:TankClient.FrontImages" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.TileID" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:TankClient.WALL_X" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAk0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAMCgmnlj332VhCRiD2PgMJjqMQQaZzMj437mjEYxBbFyGgwx51rsAHhQgNk6DQQYVbiyFuwLEBonhDRNigECbL9ilMABig8QoNrh27/z/MMNhhoLEKDYYZrhcZxB1DR0FQwMAAG0T4QGQSGm/AAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.WALL_Y" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:TankClient.background" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.bloodRecovery" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.dbBackupServer" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.dbNameScore" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.dialog" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.explosions" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.ia" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.ipAddress" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.m" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.missileRecovery" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.missileRecovery2" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.missiles" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.myTank" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.myUDPPortFromDialog" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.ngc" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.offScreen" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:TankClient.r" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.randomInt" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.scoreAdding" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAiElEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCZIOJCWOiDLvh5P8fhkHgWe8CeFCA2OhBQZLBj8sbwBpANIhPkjfxGYwMqGowzMXPOyZQ12B0TBWDR8HgBwDoDS/D0GPxBAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:TankClient.serialVersionUID" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.speedUp" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.sytle" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.tanks" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.tiles" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:TankClient.tk" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient.walls" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:TankClient.TankClient(()V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB+ElEQVR4nKWU70tTURjH/Td60bveGGkrQ/AHN6G6kiIOETWxcWeRtYjsjSu9k81fUwx/TPDXYq4hG2EN8xIVxgIHc5eMQnwxxYkKIgoiCtrLr+c54l5o4nE+8OGe57mHD8859+GmpByL36tzeOh5hUKXgqw2Iwp6TDyn+vG9wuH44uKyp6MvYQ2+TkB5RlMR6H1S0pv2fDg0G8b/jmFq8SciS2H+9E67YdfsuFInnU9Ox6RO3wStCC1M4n/xY/47Gj7X886Fr6XSXQuztwYj08MJ0WTsK3pDb6HNjvN8ZXsZzm+tfN8jn1VMLHebUNJvgifynksWN+NQPE8SvPDXosZn4TwYMoP2C4npeIZGGd2hw47DcR3ptntIU+9yaJ3huI/MlgJI7cVsXSjecY6zmE2Ak4tXt9dwu6MEktPI8elBjP3R4J+ZgDviZ3wQE9OdSe1GmN5ZsPNv9/BjxabwPFAPPV86lTPFsY04H6XSATObDAcW2B0fhX4nF/uurhNQXajrRq0H6aoMuascivcZ1IkWBGY+QpeyuWhPVRNwMasLiY/k120ym5BqlA0/xuivT4gabmGvzo6doirsMuhJOdWFxRQ0/KWDFuR1VGAwHEA09Qa2mpuxrigMM4fyaKoh+X8HRfTyNaz3dZ6A6hcTX7qK07iQONk4AOjDzcagMrmMAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="type:TankClient$TankThread" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB+ElEQVR4nKWU70tTURjH/Td60bveGGkrQ/AHN6G6kiIOETWxcWeRtYjsjSu9k81fUwx/TPDXYq4hG2EN8xIVxgIHc5eMQnwxxYkKIgoiCtrLr+c54l5o4nE+8OGe57mHD8859+GmpByL36tzeOh5hUKXgqw2Iwp6TDyn+vG9wuH44uKyp6MvYQ2+TkB5RlMR6H1S0pv2fDg0G8b/jmFq8SciS2H+9E67YdfsuFInnU9Ox6RO3wStCC1M4n/xY/47Gj7X886Fr6XSXQuztwYj08MJ0WTsK3pDb6HNjvN8ZXsZzm+tfN8jn1VMLHebUNJvgifynksWN+NQPE8SvPDXosZn4TwYMoP2C4npeIZGGd2hw47DcR3ptntIU+9yaJ3huI/MlgJI7cVsXSjecY6zmE2Ak4tXt9dwu6MEktPI8elBjP3R4J+ZgDviZ3wQE9OdSe1GmN5ZsPNv9/BjxabwPFAPPV86lTPFsY04H6XSATObDAcW2B0fhX4nF/uurhNQXajrRq0H6aoMuascivcZ1IkWBGY+QpeyuWhPVRNwMasLiY/k120ym5BqlA0/xuivT4gabmGvzo6doirsMuhJOdWFxRQ0/KWDFuR1VGAwHEA09Qa2mpuxrigMM4fyaKoh+X8HRfTyNaz3dZ6A6hcTX7qK07iQONk4AOjDzcagMrmMAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="type:TankClient$KeyMonitor" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAACGklEQVR4nKWU70tTYRTH/RMkSBDEFyX1Ko2EYASLoK6khGOJUtR102szf5C+8ZptsjumWzB0+aLQ6dymbS+C2/SiqdMFSrOgQKRwDlcmFOYbUYzo1bfneQbDROJuHfhynnOfw4dzzj335uQcsQ9bH3HX246KAQM0vTqUu3kW0+dHc1WbNDXAYI3jDyDKnWnRuNR2A/Q+K+gFaxkkxYLwygssbrxG7PMS875lD6yKFUUd2szgtE1a6UNZRDQRwXE2vz6LRxNdrHLVY7ntaYPRZ8Lo8lAaFIm/wpOoC8pqmMVfdzfhmOlhefUBUR2Y6+ehf8rDG/MzyMZOEgbvvbRag20wBZqYbg0aQfNVgWl757s59EdTFS8l36HYcg3nzFeZ6LlUuo6L9nJonZXkXKG+4kuOSrIBDgbe2v2Gy4/10Dp0TOZJF2xTbgTfT8ITC6JDdqoD05lpnTrww03Y+7WfelnxRTSHutC3kOri4PdPnG0J4UxzCG83V9SB4z+SbJWqnhnJZkhIkBkftu972zhtGoe+dw43iU41Ple/ct2KG8VmDlxfDQy++6R9O3pmXMx/2l5DoTAGTWcYGjGMwoaxzD4UCi+xcGRD6lA9JKB6UMBC4g3KbAoKBD8KGgJExAsB5Nf7MoMndr6gVbajxt8OeTWCNTKmk7VeXBFf/qU8w2j2/w5qJ/gRVEnTx4reZQ3OvTOMf+m/qs7G/gB9BMfr1PNhIQAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="type:TankClient$ConnDialog" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient$ConnDialog.b" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAiElEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCZIOJCWOiDLvh5P8fhkHgWe8CeFCA2OhBQZLBj8sbwBpANIhPkjfxGYwMqGowzMXPOyZQ12B0TBWDR8HgBwDoDS/D0GPxBAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:TankClient$ConnDialog.serialVersionUID" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient$ConnDialog.tfIP" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient$ConnDialog.tfMyUDPPort" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankClient$ConnDialog.tfPort" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:TankClient$ConnDialog.ConnDialog(()V)" width="22"/>
+</AgileJWebModel>

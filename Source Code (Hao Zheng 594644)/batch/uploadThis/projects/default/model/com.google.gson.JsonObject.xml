@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AgileJWebModel version="1.7.17.v20140508-2136">
+    <type deep="true" elementName="JsonObject" isBinary="true" isDeprecated="false" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject">
+        <filters>
+            <filter signature="all classes"/>
+            <filter signature="all types"/>
+            <filter signature="bytecode types"/>
+            <filter signature="classes with a default constructor"/>
+            <filter signature="concrete classes"/>
+            <filter signature="inner types named {type-name}" switchValues="JsonObject"/>
+            <filter signature="leaf type of composite design pattern"/>
+            <filter signature="members of package {package-name}" switchValues="com.google.gson"/>
+            <filter signature="non java star package types"/>
+            <filter signature="public types"/>
+            <filter signature="top level types"/>
+            <filter signature="types named {type-name-pattern}" switchValues="JsonObject"/>
+        </filters>
+        <outermostType>
+            <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+        </outermostType>
+        <field deep="true" elementName="members" fieldLineTooltipDescription="JsonObject.members&#10;references one&#10;JsonElement" isBinary="true" isDeprecated="false" modelMemberIdentifier="field:com.google.gson.JsonObject.members" modifiers="final,private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="members"/>
+                <filter signature="one to many fields"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="com.google.gson.internal.LinkedTreeMap&lt;java.lang.String,com.google.gson.JsonElement&gt;" modelMemberIdentifier="type:com.google.gson.internal.LinkedTreeMap&lt;java.lang.String, com.google.gson.JsonElement&gt;" modifiers="" packageName="" qualifiedName="com.google.gson.internal.LinkedTreeMap&lt;java.lang.String, com.google.gson.JsonElement&gt;"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="com.google.gson.internal.LinkedTreeMap&lt;java.lang.String,com.google.gson.JsonElement&gt;" modelMemberIdentifier="type:com.google.gson.internal.LinkedTreeMap&lt;java.lang.String, com.google.gson.JsonElement&gt;" modifiers="" packageName="" qualifiedName="com.google.gson.internal.LinkedTreeMap&lt;java.lang.String, com.google.gson.JsonElement&gt;"/>
+            </containedType>
+        </field>
+        <method deep="true" elementName="JsonObject" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.JsonObject(()V)" modifiers="public,">
+            <filters>
+                <filter signature="constructors"/>
+                <filter signature="default constructors"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="JsonObject"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+        </method>
+        <method deep="true" elementName="deepCopy" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.deepCopy(()Lcom/google/gson/JsonObject;)" modifiers="">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="deepCopy"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="package visible methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </return>
+        </method>
+        <method deep="true" elementName="add" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.add((Ljava/lang/String;Lcom/google/gson/JsonElement;)V)" modifiers="public," parameterNames="property,value">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="add"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="JsonElement" modelMemberIdentifier="type:com.google.gson.JsonElement" modifiers="abstract,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonElement"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="remove" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.remove((Ljava/lang/String;)Lcom/google/gson/JsonElement;)" modifiers="public," parameterNames="property">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="remove"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="JsonElement" modelMemberIdentifier="type:com.google.gson.JsonElement" modifiers="abstract,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonElement"/>
+            </return>
+        </method>
+        <method deep="true" elementName="addProperty" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.addProperty((Ljava/lang/String;Ljava/lang/String;)V)" modifiers="public," parameterNames="property,value">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="addProperty"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="addProperty" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.addProperty((Ljava/lang/String;Ljava/lang/Number;)V)" modifiers="public," parameterNames="property,value">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="addProperty"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="Number" modelMemberIdentifier="type:java.lang.Number" modifiers="abstract,public," packageName="java.lang" qualifiedName="java.lang.Number"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="addProperty" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.addProperty((Ljava/lang/String;Ljava/lang/Boolean;)V)" modifiers="public," parameterNames="property,value">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="addProperty"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="Boolean" modelMemberIdentifier="type:java.lang.Boolean" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.Boolean"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="addProperty" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.addProperty((Ljava/lang/String;Ljava/lang/Character;)V)" modifiers="public," parameterNames="property,value">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="addProperty"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="Character" modelMemberIdentifier="type:java.lang.Character" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.Character"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="createJsonElement" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.createJsonElement((Ljava/lang/Object;)Lcom/google/gson/JsonElement;)" modifiers="private," parameterNames="value">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="createJsonElement"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="private methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="Object" modelMemberIdentifier="type:java.lang.Object" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Object"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="JsonElement" modelMemberIdentifier="type:com.google.gson.JsonElement" modifiers="abstract,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonElement"/>
+            </return>
+        </method>
+        <method deep="true" elementName="entrySet" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.entrySet(()Ljava/util/Set;)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="entrySet"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="java.util.Set&lt;java.util.Map.Entry&lt;java.lang.String,com.google.gson.JsonElement&gt;&gt;" modelMemberIdentifier="type:java.util.Set&lt;java.util.Map$Entry&lt;java.lang.String, com.google.gson.JsonElement&gt;&gt;" modifiers="" packageName="" qualifiedName="java.util.Set&lt;java.util.Map$Entry&lt;java.lang.String, com.google.gson.JsonElement&gt;&gt;"/>
+            </return>
+        </method>
+        <method deep="true" elementName="has" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.has((Ljava/lang/String;)Z)" modifiers="public," parameterNames="memberName">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="has"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </return>
+        </method>
+        <method deep="true" elementName="get" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.get((Ljava/lang/String;)Lcom/google/gson/JsonElement;)" modifiers="public," parameterNames="memberName">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="getter methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="get"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="JsonElement" modelMemberIdentifier="type:com.google.gson.JsonElement" modifiers="abstract,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonElement"/>
+            </return>
+        </method>
+        <method deep="true" elementName="getAsJsonPrimitive" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.getAsJsonPrimitive((Ljava/lang/String;)Lcom/google/gson/JsonPrimitive;)" modifiers="public," parameterNames="memberName">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="getter methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="getAsJsonPrimitive"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="JsonPrimitive" modelMemberIdentifier="type:com.google.gson.JsonPrimitive" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonPrimitive"/>
+            </return>
+        </method>
+        <method deep="true" elementName="getAsJsonArray" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.getAsJsonArray((Ljava/lang/String;)Lcom/google/gson/JsonArray;)" modifiers="public," parameterNames="memberName">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="getter methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="getAsJsonArray"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="JsonArray" modelMemberIdentifier="type:com.google.gson.JsonArray" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonArray"/>
+            </return>
+        </method>
+        <method deep="true" elementName="getAsJsonObject" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.getAsJsonObject((Ljava/lang/String;)Lcom/google/gson/JsonObject;)" modifiers="public," parameterNames="memberName">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="getter methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="getAsJsonObject"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </return>
+        </method>
+        <method deep="true" elementName="equals" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.equals((Ljava/lang/Object;)Z)" modifiers="public," parameterNames="o">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="equals"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="Object" modelMemberIdentifier="type:java.lang.Object" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Object"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </return>
+        </method>
+        <method deep="true" elementName="hashCode" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.hashCode(()I)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="hashCode"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </return>
+        </method>
+        <method deep="true" elementName="deepCopy" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:com.google.gson.JsonObject.deepCopy(()Lcom/google/gson/JsonElement;)" modifiers="volatile,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="deepCopy"/>
+                <filter signature="methods of {method-owner}" switchValues="JsonObject"/>
+                <filter signature="package visible methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="JsonElement" modelMemberIdentifier="type:com.google.gson.JsonElement" modifiers="abstract,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonElement"/>
+            </return>
+        </method>
+        <nonRecursiveSubtypes/>
+        <nonRecursiveSupertypes>
+            <type deep="false" elementName="JsonElement" modelMemberIdentifier="type:com.google.gson.JsonElement" modifiers="abstract,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonElement"/>
+        </nonRecursiveSupertypes>
+        <outwardDependencies/>
+    </type>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB+UlEQVR4nO2Uz0sbURDH/WN66EUtCkIRYhFdqSIJqWgUDYlK1aioF2M1sVl/NIrB+APir5DGILYgBHURFTWCguJBLKWHVExRQVEvNr14/PbNC4ZsNlHx7BeGefPe8NmZ2bebkhKnw/NfqPK0oWjMgLdfNCgc0fOY9uNzSWB6Xe3Ch89z3GhNkiWJK2McVj/XArO/I2oUZ/YUg84TgQkYLxk0w1YAUbJi8ccCdk62sfdnl3vv/gxskg2v2lUKeDxY0T5V+slvRuB4Q/F00ubvdXQtdfLKY8cSOwryMnDFTCuM3jp83Z+OgjaCqxgNOCD9XOTx2e0p7Gv9PK/GZ5aBk1YsOPXQuvTw7M3yw5ObEAyej1Frnm9Fnc/ErXzKCMpPBFa8WWrvTbcAZyBS8W7oAGnWfKRa8rjROlN8j6y+QqgG1GxdpBhFQjBVkG1Xsxtg5wnntxfIGdRCZddw8x34sXAkQeduRoFTJ6v4QdHMVAMa6N0mhO/+RV5WcAeN3zoxvBXp4u9dGFXsXOsyoOm7+DRw8DrEr1LJhJHdDBHHbMaxugxfwbE5Dt1ULc9L9rEkVLc0gjSLAGG4DAZvAyzLfehfc3BPcRmDZvWqQXlPhsbC060Ca7capdO1KGUw8hTT/rOg96I2SyZNeDeoQ+5QBfeV7uT/ihc9qv81YvGVvBblnwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="type:com.google.gson.JsonObject" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZUlEQVR4nGNgoBD8BwKNpGn/g+uXgDGIDQKUmgs2GGQgOqC6wRQbiGwwLChANFUNppmLYQYTpeGGk/9/dIzLYJJSAsigx+UNYA0gGpfBJAOQQciAqgbDXPy8YwJ1DSYmjEfBMAQA9rqpfFpakWAAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:com.google.gson.JsonObject.members" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.JsonObject(()V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.add((Ljava/lang/String;Lcom/google/gson/JsonElement;)V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.addProperty((Ljava/lang/String;Ljava/lang/String;)V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.addProperty((Ljava/lang/String;Ljava/lang/Number;)V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.addProperty((Ljava/lang/String;Ljava/lang/Boolean;)V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.addProperty((Ljava/lang/String;Ljava/lang/Character;)V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAdklEQVR4nGNgGAWjgChw0t3uPy5MmcHONv+/TerDwCBxygy2swIb9LWmBo7BBgPFKTL4hIHJ/69lDf8/+sb8/wTEIBrEB4lTZrCm4f+3zc3/nyckAHEiGIP4JzQNKDRYVuf/88ndGBgkTpnBklr/cWGKDB6ZAABi/X0KTJJ1eQAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.createJsonElement((Ljava/lang/Object;)Lcom/google/gson/JsonElement;)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAe0lEQVR4nGNgGAWjgCSgnrP8v1r28v9UNVQ5fcn/oLZd/4OBWCljKfUMl0tZ/N+yYsN/y/IN/+VSF1PHYMnkBf9lUhb+l0ldBMRAOmXRf5AYxQaLxs/771i+HgWLJcynzGChuLn/Qxq3YcUgObINFoiZ8x8fpsjVIxMAABj9VPpgDuqIAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.deepCopy(()Lcom/google/gson/JsonObject;)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAe0lEQVR4nGNgGAWjgCSgnrP8v1r28v9UNVQ5fcn/oLZd/4OBWCljKfUMl0tZ/N+yYsN/y/IN/+VSF1PHYMnkBf9lUhb+l0ldBMRAOmXRf5AYxQaLxs/771i+HgWLJcynzGChuLn/Qxq3YcUgObINFoiZ8x8fpsjVIxMAABj9VPpgDuqIAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.deepCopy(()Lcom/google/gson/JsonElement;)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.entrySet(()Ljava/util/Set;)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.equals((Ljava/lang/Object;)Z)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.get((Ljava/lang/String;)Lcom/google/gson/JsonElement;)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.getAsJsonArray((Ljava/lang/String;)Lcom/google/gson/JsonArray;)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.getAsJsonObject((Ljava/lang/String;)Lcom/google/gson/JsonObject;)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.getAsJsonPrimitive((Ljava/lang/String;)Lcom/google/gson/JsonPrimitive;)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.has((Ljava/lang/String;)Z)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.hashCode(()I)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:com.google.gson.JsonObject.remove((Ljava/lang/String;)Lcom/google/gson/JsonElement;)" width="22"/>
+</AgileJWebModel>

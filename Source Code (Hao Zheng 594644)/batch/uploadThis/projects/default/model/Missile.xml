@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AgileJWebModel version="1.7.17.v20140508-2136">
+    <type deep="true" elementName="Missile" isBinary="false" isDeprecated="false" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile">
+        <filters>
+            <filter signature="all classes"/>
+            <filter signature="all types"/>
+            <filter signature="concrete classes"/>
+            <filter signature="inner types named {type-name}" switchValues="Missile"/>
+            <filter signature="non java star package types"/>
+            <filter signature="public types"/>
+            <filter signature="source code types"/>
+            <filter signature="top level source types"/>
+            <filter signature="top level types"/>
+            <filter signature="types named {type-name-pattern}" switchValues="Missile"/>
+            <filter signature="types with static members"/>
+        </filters>
+        <outermostType>
+            <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+        </outermostType>
+        <field deep="true" elementName="tk" fieldLineTooltipDescription="Missile.tk&#10;references one&#10;Toolkit" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Missile.tk" modifiers="private,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="tk"/>
+                <filter signature="private fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Toolkit" modelMemberIdentifier="type:java.awt.Toolkit" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Toolkit"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Toolkit" modelMemberIdentifier="type:java.awt.Toolkit" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Toolkit"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="missileImgs" fieldLineTooltipDescription="Missile.missileImgs&#10;references many&#10;Image[]" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Missile.missileImgs" modifiers="private,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="missileImgs"/>
+                <filter signature="one to many fields"/>
+                <filter signature="private fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="tankID" fieldLineTooltipDescription="Missile.tankID&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Missile.tankID" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="tankID"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="missileID" fieldLineTooltipDescription="Missile.missileID&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Missile.missileID" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="missileID"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="x" fieldLineTooltipDescription="Missile.x&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Missile.x" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="x"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="y" fieldLineTooltipDescription="Missile.y&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Missile.y" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="y"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="good" fieldLineTooltipDescription="Missile.good&#10;references one&#10;boolean" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Missile.good" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="good"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="scoreTankID" fieldLineTooltipDescription="Missile.scoreTankID&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Missile.scoreTankID" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="scoreTankID"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="hitLoseBlood" fieldLineTooltipDescription="Missile.hitLoseBlood&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Missile.hitLoseBlood" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="hitLoseBlood"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="MISSILE_WIDTH" fieldLineTooltipDescription="Missile.MISSILE_WIDTH&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Missile.MISSILE_WIDTH" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="MISSILE_WIDTH"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="MISSILE_HEIGHT" fieldLineTooltipDescription="Missile.MISSILE_HEIGHT&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Missile.MISSILE_HEIGHT" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="MISSILE_HEIGHT"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="XSPEED" fieldLineTooltipDescription="Missile.XSPEED&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Missile.XSPEED" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="XSPEED"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="YSPEED" fieldLineTooltipDescription="Missile.YSPEED&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Missile.YSPEED" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="YSPEED"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="dir" fieldLineTooltipDescription="Missile.dir&#10;references one&#10;Direction" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Missile.dir" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="dir"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="tc" fieldLineTooltipDescription="Missile.tc&#10;references one&#10;TankClient" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Missile.tc" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="tc"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="MissileLive" fieldLineTooltipDescription="Missile.MissileLive&#10;references one&#10;boolean" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Missile.MissileLive" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="MissileLive"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </containedType>
+        </field>
+        <method deep="true" elementName="isMissileLive" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Missile.isMissileLive(()Z)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="getter methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="isMissileLive"/>
+                <filter signature="methods of {method-owner}" switchValues="Missile"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </return>
+        </method>
+        <method deep="true" elementName="setMissileLive" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Missile.setMissileLive((Z)V)" modifiers="public," parameterNames="missileLive">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="setMissileLive"/>
+                <filter signature="methods of {method-owner}" switchValues="Missile"/>
+                <filter signature="public methods"/>
+                <filter signature="setter methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="Missile" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Missile.Missile((IIQDirection;)V)" modifiers="public," parameterNames="x,y,dir">
+            <filters>
+                <filter signature="constructors"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="Missile"/>
+                <filter signature="methods of {method-owner}" switchValues="Missile"/>
+                <filter signature="non default constructors"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </parameterTypes>
+        </method>
+        <method deep="true" elementName="Missile" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Missile.Missile((IIIQDirection;QTankClient;Z)V)" modifiers="public," parameterNames="TankID,x,y,dir,tc,good">
+            <filters>
+                <filter signature="constructors"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="Missile"/>
+                <filter signature="methods of {method-owner}" switchValues="Missile"/>
+                <filter signature="non default constructors"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </parameterTypes>
+        </method>
+        <method deep="true" elementName="draw" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Missile.draw((QGraphics;II)V)" modifiers="public," parameterNames="g,offsetX,offsetY">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="draw"/>
+                <filter signature="methods of {method-owner}" switchValues="Missile"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="Graphics" modelMemberIdentifier="type:java.awt.Graphics" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Graphics"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="move" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Missile.move(()V)" modifiers="private,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="move"/>
+                <filter signature="methods of {method-owner}" switchValues="Missile"/>
+                <filter signature="private methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="getRect" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Missile.getRect(()QRectangle;)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="getter methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="getRect"/>
+                <filter signature="methods of {method-owner}" switchValues="Missile"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="Rectangle" modelMemberIdentifier="type:java.awt.Rectangle" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Rectangle"/>
+            </return>
+        </method>
+        <method deep="true" elementName="hitTank" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Missile.hitTank((QTank;)Z)" modifiers="public," parameterNames="t">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="hitTank"/>
+                <filter signature="methods of {method-owner}" switchValues="Missile"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </return>
+        </method>
+        <method deep="true" elementName="hitTanks" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Missile.hitTanks((QList&lt;QTank;&gt;;)V)" modifiers="public," parameterNames="tanks">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="hitTanks"/>
+                <filter signature="methods of {method-owner}" switchValues="Missile"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List&lt;Tank&gt;" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List&lt;Tank&gt;"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <nonRecursiveSubtypes/>
+        <nonRecursiveSupertypes>
+            <type deep="false" elementName="Object" modelMemberIdentifier="type:java.lang.Object" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Object"/>
+        </nonRecursiveSupertypes>
+        <outwardDependencies>
+            <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            <type deep="false" elementName="Explosion" modelMemberIdentifier="type:Explosion" modifiers="public," packageName="" qualifiedName="Explosion"/>
+            <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            <type deep="false" elementName="Toolkit" modelMemberIdentifier="type:java.awt.Toolkit" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Toolkit"/>
+            <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            <type deep="false" elementName="BloodMessage" modelMemberIdentifier="type:BloodMessage" modifiers="public," packageName="" qualifiedName="BloodMessage"/>
+            <type deep="false" elementName="TankScoreMessage" modelMemberIdentifier="type:TankScoreMessage" modifiers="public," packageName="" qualifiedName="TankScoreMessage"/>
+            <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            <type deep="false" elementName="Graphics" modelMemberIdentifier="type:java.awt.Graphics" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Graphics"/>
+            <type deep="false" elementName="Rectangle" modelMemberIdentifier="type:java.awt.Rectangle" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Rectangle"/>
+            <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List"/>
+            <type deep="false" elementName="System" modelMemberIdentifier="type:java.lang.System" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.System"/>
+            <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+        </outwardDependencies>
+    </type>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAABx0lEQVR4nOWU3yuDYRTH98e49SNqJTUSr0zaWtpGtjaWMWRujNm0lzGyzI/CWDNLKLXwJhOmKNqFSC5GJhThhrlx+fU+z7IkF6+59K3Tec7znD6dc97nfUSibzq+O4fG346KcR3yB+SQjmppTPa/5woWuzFOYY0LbbCEOlNG4rzeSpDztKC5jjKwnB2rpyvYv9rD4fUB9YGjWTg4BzI6JL+DkzZJpV0hCyKX2/hJOxdb6F6z0soFj6Vm1gx9wIi5o5kUaDu2ibGIG9zZKo1vX27gCvfTvPqgRRiY8WihmNTCfzhPIVfPcej8DSlrXTTDGDRRq/bqQfIFgUl7OT0MPJFkxQfxKLLspci0lVAj6zy2HGKnFJJBGb+uEF5xgUvG3wAXBd+93KNwSAGJS04tGA1h5YSD2teKMo9aeMVkZpJBObQ+ExLvb8mPFdtH85IVI7vJLl7fE9Dw54pJHVqWWWHg2FOcXqWqKT1/M1hc8jP+qofEI9w7E1B7DTTvVz9LDzeKLBsDZkQFXaAJtnUn+sNu6kms4qHiPhlInmDoV3i2neHbrYNyxgAlDyOexGQ/LeinSJtV0yYUDalRPFxDfa3vj2/F/9YHYK+OD5EVjdEAAAAASUVORK5CYII=" height="16" modelElementIdentifier="type:Missile" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Missile.MISSILE_HEIGHT" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Missile.MISSILE_WIDTH" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Missile.MissileLive" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Missile.XSPEED" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Missile.YSPEED" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Missile.dir" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Missile.good" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Missile.hitLoseBlood" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Missile.missileID" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:Missile.missileImgs" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Missile.scoreTankID" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Missile.tankID" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Missile.tc" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:Missile.tk" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Missile.x" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Missile.y" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:Missile.Missile((IIQDirection;)V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:Missile.Missile((IIIQDirection;QTankClient;Z)V)" width="22"/>
+</AgileJWebModel>

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AgileJWebModel version="1.7.17.v20140508-2136">
+    <type deep="true" elementName="Message" isBinary="false" isDeprecated="false" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message">
+        <filters>
+            <filter signature="all interfaces"/>
+            <filter signature="all types"/>
+            <filter signature="inner types named {type-name}" switchValues="Message"/>
+            <filter signature="non java star package types"/>
+            <filter signature="public types"/>
+            <filter signature="source code types"/>
+            <filter signature="top level source types"/>
+            <filter signature="top level types"/>
+            <filter signature="types named {type-name-pattern}" switchValues="Message"/>
+            <filter signature="types with static members"/>
+        </filters>
+        <outermostType>
+            <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+        </outermostType>
+        <field deep="true" elementName="TANK_MOVE_MESSAGE" fieldLineTooltipDescription="Message.TANK_MOVE_MESSAGE&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Message.TANK_MOVE_MESSAGE" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="TANK_MOVE_MESSAGE"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="TANK_NEW_MESSAGE" fieldLineTooltipDescription="Message.TANK_NEW_MESSAGE&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Message.TANK_NEW_MESSAGE" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="TANK_NEW_MESSAGE"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="MISSILE_MESSAGE" fieldLineTooltipDescription="Message.MISSILE_MESSAGE&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Message.MISSILE_MESSAGE" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="MISSILE_MESSAGE"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="TANK_DEAD_MESSAGE" fieldLineTooltipDescription="Message.TANK_DEAD_MESSAGE&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Message.TANK_DEAD_MESSAGE" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="TANK_DEAD_MESSAGE"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="MISSILE_DEAD_MESSAGE" fieldLineTooltipDescription="Message.MISSILE_DEAD_MESSAGE&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Message.MISSILE_DEAD_MESSAGE" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="MISSILE_DEAD_MESSAGE"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="BLOOD_MESSAGE" fieldLineTooltipDescription="Message.BLOOD_MESSAGE&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Message.BLOOD_MESSAGE" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="BLOOD_MESSAGE"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="BLOOD_RECOVERY_MESSAGE" fieldLineTooltipDescription="Message.BLOOD_RECOVERY_MESSAGE&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Message.BLOOD_RECOVERY_MESSAGE" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="BLOOD_RECOVERY_MESSAGE"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="TILE_DEAD_MESSAGE" fieldLineTooltipDescription="Message.TILE_DEAD_MESSAGE&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Message.TILE_DEAD_MESSAGE" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="TILE_DEAD_MESSAGE"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="TANK_SCORE_MESSAGE" fieldLineTooltipDescription="Message.TANK_SCORE_MESSAGE&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Message.TANK_SCORE_MESSAGE" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="TANK_SCORE_MESSAGE"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="MISSILE_RECOVERY_MESSAGE" fieldLineTooltipDescription="Message.MISSILE_RECOVERY_MESSAGE&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Message.MISSILE_RECOVERY_MESSAGE" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="MISSILE_RECOVERY_MESSAGE"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="SECOND_MISSILE_RECOVERY_MESSAGE" fieldLineTooltipDescription="Message.SECOND_MISSILE_RECOVERY_MESSAGE&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Message.SECOND_MISSILE_RECOVERY_MESSAGE" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="SECOND_MISSILE_RECOVERY_MESSAGE"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="SORE_ADDING_MESSAGE" fieldLineTooltipDescription="Message.SORE_ADDING_MESSAGE&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Message.SORE_ADDING_MESSAGE" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="SORE_ADDING_MESSAGE"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="SPEED_UP_MESSAGE" fieldLineTooltipDescription="Message.SPEED_UP_MESSAGE&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Message.SPEED_UP_MESSAGE" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="SPEED_UP_MESSAGE"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <method deep="true" elementName="parse" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Message.parse((QDataInputStream;)V)" modifiers="" parameterNames="dataInput">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="parse"/>
+                <filter signature="methods of {method-owner}" switchValues="Message"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="DataInputStream" modelMemberIdentifier="type:java.io.DataInputStream" modifiers="public," packageName="java.io" qualifiedName="java.io.DataInputStream"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="send" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Message.send((QDatagramSocket;QString;I)V)" modifiers="" parameterNames="ds,IP,udpPort">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="send"/>
+                <filter signature="methods of {method-owner}" switchValues="Message"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="DatagramSocket" modelMemberIdentifier="type:java.net.DatagramSocket" modifiers="public," packageName="java.net" qualifiedName="java.net.DatagramSocket"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <nonRecursiveSubtypes>
+            <type deep="false" elementName="BloodMessage" modelMemberIdentifier="type:BloodMessage" modifiers="public," packageName="" qualifiedName="BloodMessage"/>
+            <type deep="false" elementName="BloodRecoveryMessage" modelMemberIdentifier="type:BloodRecoveryMessage" modifiers="public," packageName="" qualifiedName="BloodRecoveryMessage"/>
+            <type deep="false" elementName="MissileDeadMessage" modelMemberIdentifier="type:MissileDeadMessage" modifiers="public," packageName="" qualifiedName="MissileDeadMessage"/>
+            <type deep="false" elementName="MissileMessage" modelMemberIdentifier="type:MissileMessage" modifiers="public," packageName="" qualifiedName="MissileMessage"/>
+            <type deep="false" elementName="MissileRecovery2Message" modelMemberIdentifier="type:MissileRecovery2Message" modifiers="public," packageName="" qualifiedName="MissileRecovery2Message"/>
+            <type deep="false" elementName="MissileRecoveryMessage" modelMemberIdentifier="type:MissileRecoveryMessage" modifiers="public," packageName="" qualifiedName="MissileRecoveryMessage"/>
+            <type deep="false" elementName="ScoringAddingMessage" modelMemberIdentifier="type:ScoringAddingMessage" modifiers="public," packageName="" qualifiedName="ScoringAddingMessage"/>
+            <type deep="false" elementName="SpeedUpMessage" modelMemberIdentifier="type:SpeedUpMessage" modifiers="public," packageName="" qualifiedName="SpeedUpMessage"/>
+            <type deep="false" elementName="TILE_DEAD_MESSAGE" modelMemberIdentifier="type:TILE_DEAD_MESSAGE" modifiers="public," packageName="" qualifiedName="TILE_DEAD_MESSAGE"/>
+            <type deep="false" elementName="TankDeadMessage" modelMemberIdentifier="type:TankDeadMessage" modifiers="public," packageName="" qualifiedName="TankDeadMessage"/>
+            <type deep="false" elementName="TankMoveMessage" modelMemberIdentifier="type:TankMoveMessage" modifiers="public," packageName="" qualifiedName="TankMoveMessage"/>
+            <type deep="false" elementName="TankNewMessage" modelMemberIdentifier="type:TankNewMessage" modifiers="public," packageName="" qualifiedName="TankNewMessage"/>
+            <type deep="false" elementName="TankScoreMessage" modelMemberIdentifier="type:TankScoreMessage" modifiers="public," packageName="" qualifiedName="TankScoreMessage"/>
+        </nonRecursiveSubtypes>
+        <nonRecursiveSupertypes/>
+        <outwardDependencies>
+            <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            <type deep="false" elementName="DatagramSocket" modelMemberIdentifier="type:java.net.DatagramSocket" modifiers="public," packageName="java.net" qualifiedName="java.net.DatagramSocket"/>
+            <type deep="false" elementName="DataInputStream" modelMemberIdentifier="type:java.io.DataInputStream" modifiers="public," packageName="java.io" qualifiedName="java.io.DataInputStream"/>
+        </outwardDependencies>
+    </type>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAABf0lEQVR4nOVUXUsCQRT1t/ViKZT08WDqpqJBtGBagUSCFPRhkBTYB4jritsa2OJKUJIlBRqhUIYgREhEL0EP/YPb3IEdRF8me+zAYbnnnj17d3Z2TKYeNGofcLhVg5BbhwWhAMGZAq1R7/VyQ040aFhEvIR49I4Ra9SxP1Cof/IUdqO3oBw/gqa0GLFGHfu/Cn9tf4FnTIXtlQrkkk/Qi3bzk+o7kQr1oZ8rGNcwIl7A+lKZMrVXZ6HV8hvTkWuhEiTjD3zBix4d5ux5CLg0RgOlwgvT5h15SvRzBXttKjhH0uCyyGA3pygNaNkm07A/bZbIcpzwT+wmZpeV3DgsUbJg5ZnWRrDTkuafGNfMP5EDr00hD8iAMCqzYF1t0Rp1pG9chcwB585473zD1JAEAUGDjfBV366oXneoHiQ/Dfq4dwVC2q+TV81CePYcYqs3fRSdeTJtDtDHHdodLlizsOwrEupdLFJ9oFADeCYkNqsgOs7oB8XrUez+b2fF/8YPD2ecl9p99Q4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="type:Message" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Message.BLOOD_MESSAGE" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Message.BLOOD_RECOVERY_MESSAGE" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Message.MISSILE_DEAD_MESSAGE" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Message.MISSILE_MESSAGE" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Message.MISSILE_RECOVERY_MESSAGE" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Message.SECOND_MISSILE_RECOVERY_MESSAGE" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Message.SORE_ADDING_MESSAGE" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Message.SPEED_UP_MESSAGE" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Message.TANK_DEAD_MESSAGE" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Message.TANK_MOVE_MESSAGE" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Message.TANK_NEW_MESSAGE" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Message.TANK_SCORE_MESSAGE" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Message.TILE_DEAD_MESSAGE" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA7klEQVR4nGNgoAL4DwQiVRYg6j81zIMbWr1vEthgEE01w5FdS1VX08Rg5GCAYYLBUbp9wn/WRs//elMT/oPYhFwLA3hd7bu4+H/8qpL/Wy7N/T/j2AQwGySGzWCDrgAUg2F8DEMLt/X+D1te8H/1+ZlIeAZYDCSHbjAugGEwc4PH/6a9Tf9b9rUg8P4WsBhIDmfYEQKyPWH/k1YBXbexDIpLwTRIDCRHtsEp61r/28+I/9+xs/F/x47G/51ADGLbT0/4D5Ij22AQcJ6T899rdur/6Xs7/jdtrQezQWIUGQoD+Ru74MkNxKaKoSMTAADT0xoKYwTuIgAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:Message.parse((QDataInputStream;)V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA7klEQVR4nGNgoAL4DwQiVRYg6j81zIMbWr1vEthgEE01w5FdS1VX08Rg5GCAYYLBUbp9wn/WRs//elMT/oPYhFwLA3hd7bu4+H/8qpL/Wy7N/T/j2AQwGySGzWCDrgAUg2F8DEMLt/X+D1te8H/1+ZlIeAZYDCSHbjAugGEwc4PH/6a9Tf9b9rUg8P4WsBhIDmfYEQKyPWH/k1YBXbexDIpLwTRIDCRHtsEp61r/28+I/9+xs/F/x47G/51ADGLbT0/4D5Ij22AQcJ6T899rdur/6Xs7/jdtrQezQWIUGQoD+Ru74MkNxKaKoSMTAADT0xoKYwTuIgAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:Message.send((QDatagramSocket;QString;I)V)" width="22"/>
+</AgileJWebModel>

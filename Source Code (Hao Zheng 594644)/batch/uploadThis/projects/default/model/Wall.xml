@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AgileJWebModel version="1.7.17.v20140508-2136">
+    <type deep="true" elementName="Wall" isBinary="false" isDeprecated="false" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall">
+        <filters>
+            <filter signature="all classes"/>
+            <filter signature="all types"/>
+            <filter signature="classes with a default constructor"/>
+            <filter signature="concrete classes"/>
+            <filter signature="inner types named {type-name}" switchValues="Wall"/>
+            <filter signature="non java star package types"/>
+            <filter signature="public types"/>
+            <filter signature="source code types"/>
+            <filter signature="top level source types"/>
+            <filter signature="top level types"/>
+            <filter signature="types named {type-name-pattern}" switchValues="Wall"/>
+            <filter signature="types with static members"/>
+        </filters>
+        <outermostType>
+            <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+        </outermostType>
+        <field deep="true" elementName="WIDTH" fieldLineTooltipDescription="Wall.WIDTH&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Wall.WIDTH" modifiers="final,public,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="WIDTH"/>
+                <filter signature="public fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="HEIGHT" fieldLineTooltipDescription="Wall.HEIGHT&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Wall.HEIGHT" modifiers="final,public,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="HEIGHT"/>
+                <filter signature="public fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="style" fieldLineTooltipDescription="Wall.style&#10;references one&#10;String" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Wall.style" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="style"/>
+                <filter signature="private fields"/>
+                <filter signature="string fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="tc" fieldLineTooltipDescription="Wall.tc&#10;references one&#10;TankClient" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Wall.tc" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="tc"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="live" fieldLineTooltipDescription="Wall.live&#10;references one&#10;boolean" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Wall.live" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="live"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="wallStyle" fieldLineTooltipDescription="Wall.wallStyle&#10;references one&#10;String" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Wall.wallStyle" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="wallStyle"/>
+                <filter signature="private fields"/>
+                <filter signature="string fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="step" fieldLineTooltipDescription="Wall.step&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Wall.step" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="step"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="x" fieldLineTooltipDescription="Wall.x&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Wall.x" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="x"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="y" fieldLineTooltipDescription="Wall.y&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Wall.y" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="y"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="tk" fieldLineTooltipDescription="Wall.tk&#10;references one&#10;Toolkit" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Wall.tk" modifiers="private,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="tk"/>
+                <filter signature="private fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Toolkit" modelMemberIdentifier="type:java.awt.Toolkit" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Toolkit"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Toolkit" modelMemberIdentifier="type:java.awt.Toolkit" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Toolkit"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="wallImgs" fieldLineTooltipDescription="Wall.wallImgs&#10;references many&#10;Image[]" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Wall.wallImgs" modifiers="private,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="wallImgs"/>
+                <filter signature="one to many fields"/>
+                <filter signature="private fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="imgs" fieldLineTooltipDescription="Wall.imgs&#10;references many&#10;Image" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Wall.imgs" modifiers="private,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="imgs"/>
+                <filter signature="one to many fields"/>
+                <filter signature="private fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Map" modelMemberIdentifier="type:java.util.Map&lt;java.lang.String, java.awt.Image&gt;" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.Map&lt;java.lang.String, java.awt.Image&gt;"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="init" fieldLineTooltipDescription="Wall.init&#10;references one&#10;boolean" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Wall.init" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="init"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </containedType>
+        </field>
+        <method deep="true" elementName="getLive" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Wall.getLive(()Z)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="getLive"/>
+                <filter signature="methods of {method-owner}" switchValues="Wall"/>
+                <filter signature="overridden methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </return>
+        </method>
+        <method deep="true" elementName="setLive" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Wall.setLive((Z)V)" modifiers="public," parameterNames="live">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="setLive"/>
+                <filter signature="methods of {method-owner}" switchValues="Wall"/>
+                <filter signature="overridden methods"/>
+                <filter signature="public methods"/>
+                <filter signature="setter methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="Wall" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Wall.Wall(()V)" modifiers="public,">
+            <filters>
+                <filter signature="constructors"/>
+                <filter signature="default constructors"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="Wall"/>
+                <filter signature="methods of {method-owner}" switchValues="Wall"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+        </method>
+        <method deep="true" elementName="Wall" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Wall.Wall((IIQString;QTankClient;)V)" modifiers="public," parameterNames="x,y,style,tc">
+            <filters>
+                <filter signature="constructors"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="Wall"/>
+                <filter signature="methods of {method-owner}" switchValues="Wall"/>
+                <filter signature="non default constructors"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </parameterTypes>
+        </method>
+        <method deep="true" elementName="draw" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Wall.draw((QGraphics;II)V)" modifiers="public," parameterNames="g,offsetX,offsetY">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="draw"/>
+                <filter signature="methods of {method-owner}" switchValues="Wall"/>
+                <filter signature="overridden methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="Graphics" modelMemberIdentifier="type:java.awt.Graphics" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Graphics"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="getRect" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Wall.getRect(()QRectangle;)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="getter methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="getRect"/>
+                <filter signature="methods of {method-owner}" switchValues="Wall"/>
+                <filter signature="overridden methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="Rectangle" modelMemberIdentifier="type:java.awt.Rectangle" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Rectangle"/>
+            </return>
+        </method>
+        <method deep="true" elementName="collidesWithTank" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Wall.collidesWithTank((QTank;)Z)" modifiers="public," parameterNames="tank">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="collidesWithTank"/>
+                <filter signature="methods of {method-owner}" switchValues="Wall"/>
+                <filter signature="overridden methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </return>
+        </method>
+        <method deep="true" elementName="collidesWithTanks" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Wall.collidesWithTanks((QList&lt;QTank;&gt;;)Z)" modifiers="public," parameterNames="tanks">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="collidesWithTanks"/>
+                <filter signature="methods of {method-owner}" switchValues="Wall"/>
+                <filter signature="overridden methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List&lt;Tank&gt;" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List&lt;Tank&gt;"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </return>
+        </method>
+        <method deep="true" elementName="getStyle" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Wall.getStyle(()QString;)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="getter methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="getStyle"/>
+                <filter signature="methods of {method-owner}" switchValues="Wall"/>
+                <filter signature="overridden methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Wall" modelMemberIdentifier="type:Wall" modifiers="public," packageName="" qualifiedName="Wall"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </return>
+        </method>
+        <nonRecursiveSubtypes>
+            <type deep="false" elementName="Tile" modelMemberIdentifier="type:Tile" modifiers="public," packageName="" qualifiedName="Tile"/>
+        </nonRecursiveSubtypes>
+        <nonRecursiveSupertypes>
+            <type deep="false" elementName="Object" modelMemberIdentifier="type:java.lang.Object" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Object"/>
+        </nonRecursiveSupertypes>
+        <outwardDependencies>
+            <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            <type deep="false" elementName="Toolkit" modelMemberIdentifier="type:java.awt.Toolkit" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Toolkit"/>
+            <type deep="false" elementName="Map" modelMemberIdentifier="type:java.util.Map" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.Map"/>
+            <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            <type deep="false" elementName="Graphics" modelMemberIdentifier="type:java.awt.Graphics" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Graphics"/>
+            <type deep="false" elementName="Rectangle" modelMemberIdentifier="type:java.awt.Rectangle" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Rectangle"/>
+            <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List"/>
+            <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+        </outwardDependencies>
+    </type>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAABx0lEQVR4nOWU3yuDYRTH98e49SNqJTUSr0zaWtpGtjaWMWRujNm0lzGyzI/CWDNLKLXwJhOmKNqFSC5GJhThhrlx+fU+z7IkF6+59K3Tec7znD6dc97nfUSibzq+O4fG346KcR3yB+SQjmppTPa/5woWuzFOYY0LbbCEOlNG4rzeSpDztKC5jjKwnB2rpyvYv9rD4fUB9YGjWTg4BzI6JL+DkzZJpV0hCyKX2/hJOxdb6F6z0soFj6Vm1gx9wIi5o5kUaDu2ibGIG9zZKo1vX27gCvfTvPqgRRiY8WihmNTCfzhPIVfPcej8DSlrXTTDGDRRq/bqQfIFgUl7OT0MPJFkxQfxKLLspci0lVAj6zy2HGKnFJJBGb+uEF5xgUvG3wAXBd+93KNwSAGJS04tGA1h5YSD2teKMo9aeMVkZpJBObQ+ExLvb8mPFdtH85IVI7vJLl7fE9Dw54pJHVqWWWHg2FOcXqWqKT1/M1hc8jP+qofEI9w7E1B7DTTvVz9LDzeKLBsDZkQFXaAJtnUn+sNu6kms4qHiPhlInmDoV3i2neHbrYNyxgAlDyOexGQ/LeinSJtV0yYUDalRPFxDfa3vj2/F/9YHYK+OD5EVjdEAAAAASUVORK5CYII=" height="16" modelElementIdentifier="type:Wall" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAiklEQVR4nGNgoBD8BwKNpGn/g+uXgDGIDQKUmgs2GGQgOqC6wRQbiGwwLChANFUNJsnFE0+s+++ysASMQWxiDCbKUJMZGf87dzSCMYiNy3BYUBBlMMigwo2lcO+B2CAxghoJAYE2X7BLYQDEBolRbHDt3vn/YYbDDAWJUWwwzHC5ziDqGjoKhgYAAI2OuX+/tQ9YAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Wall.HEIGHT" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAiklEQVR4nGNgoBD8BwKNpGn/g+uXgDGIDQKUmgs2GGQgOqC6wRQbiGwwLChANFUNJsnFE0+s+++ysASMQWxiDCbKUJMZGf87dzSCMYiNy3BYUBBlMMigwo2lcO+B2CAxghoJAYE2X7BLYQDEBolRbHDt3vn/YYbDDAWJUWwwzHC5ziDqGjoKhgYAAI2OuX+/tQ9YAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Wall.WIDTH" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:Wall.imgs" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Wall.init" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Wall.live" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Wall.step" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Wall.style" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Wall.tc" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:Wall.tk" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:Wall.wallImgs" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Wall.wallStyle" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Wall.x" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Wall.y" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:Wall.Wall(()V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:Wall.Wall((IIQString;QTankClient;)V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:Wall.collidesWithTank((QTank;)Z)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:Wall.collidesWithTanks((QList&lt;QTank;&gt;;)Z)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:Wall.draw((QGraphics;II)V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:Wall.getLive(()Z)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:Wall.getRect(()QRectangle;)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:Wall.getStyle(()QString;)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAuElEQVR4nGNgGAXDD5Run/CftdHzv97UhP8gNlUM9V1c/D9+Vcn/LZfm/p9xbAKYDRKjyNDCbb3/w5YX/F99fiYSngEWA8mRbTBzg8f/pr1N/1v2tSDw/hawGEiObINle8L+J60Cum5jGRSXgmmQGEiObINT1rX+t58R/79jZ+P/jh2N/zuBGMS2n57wHyRHtsEg4Dwn57/X7NT/0/d2/G/aWg9mg8QoMhQG8jd2wZMbiE0VQ0cmAAD3yYO+kqE/HwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:Wall.setLive((Z)V)" width="22"/>
+</AgileJWebModel>

@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AgileJWebModel version="1.7.17.v20140508-2136">
+    <type deep="true" elementName="Tank" isBinary="false" isDeprecated="false" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank">
+        <filters>
+            <filter signature="all classes"/>
+            <filter signature="all types"/>
+            <filter signature="concrete classes"/>
+            <filter signature="inner types named {type-name}" switchValues="Tank"/>
+            <filter signature="non java star package types"/>
+            <filter signature="public types"/>
+            <filter signature="source code types"/>
+            <filter signature="top level source types"/>
+            <filter signature="top level types"/>
+            <filter signature="types named {type-name-pattern}" switchValues="Tank"/>
+            <filter signature="types with static members"/>
+        </filters>
+        <outermostType>
+            <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+        </outermostType>
+        <field deep="true" elementName="missileAmount" fieldLineTooltipDescription="Tank.missileAmount&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.missileAmount" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="missileAmount"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="x" fieldLineTooltipDescription="Tank.x&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.x" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="x"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="y" fieldLineTooltipDescription="Tank.y&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.y" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="y"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="oldX" fieldLineTooltipDescription="Tank.oldX&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.oldX" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="oldX"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="oldY" fieldLineTooltipDescription="Tank.oldY&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.oldY" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="oldY"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="life" fieldLineTooltipDescription="Tank.life&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.life" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="life"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="ID" fieldLineTooltipDescription="Tank.ID&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.ID" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="ID"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="isPlayerOne" fieldLineTooltipDescription="Tank.isPlayerOne&#10;references one&#10;boolean" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.isPlayerOne" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="isPlayerOne"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="isPlayerTwo" fieldLineTooltipDescription="Tank.isPlayerTwo&#10;references one&#10;boolean" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.isPlayerTwo" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="isPlayerTwo"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="Score" fieldLineTooltipDescription="Tank.Score&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.Score" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="Score"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="XSPEED" fieldLineTooltipDescription="Tank.XSPEED&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.XSPEED" modifiers="public,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="XSPEED"/>
+                <filter signature="public fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="YSPEED" fieldLineTooltipDescription="Tank.YSPEED&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.YSPEED" modifiers="public,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="YSPEED"/>
+                <filter signature="public fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="TANK_WIDTH" fieldLineTooltipDescription="Tank.TANK_WIDTH&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.TANK_WIDTH" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="TANK_WIDTH"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="TANK_HEIGHT" fieldLineTooltipDescription="Tank.TANK_HEIGHT&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.TANK_HEIGHT" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="TANK_HEIGHT"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="dir" fieldLineTooltipDescription="Tank.dir&#10;references one&#10;Direction" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.dir" modifiers="public,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="dir"/>
+                <filter signature="public fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="bl" fieldLineTooltipDescription="Tank.bl&#10;references one&#10;boolean" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.bl" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="bl"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="br" fieldLineTooltipDescription="Tank.br&#10;references one&#10;boolean" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.br" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="br"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="bu" fieldLineTooltipDescription="Tank.bu&#10;references one&#10;boolean" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.bu" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="bu"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="bd" fieldLineTooltipDescription="Tank.bd&#10;references one&#10;boolean" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.bd" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="bd"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="tc" fieldLineTooltipDescription="Tank.tc&#10;references one&#10;TankClient" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.tc" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="tc"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="barrelDir" fieldLineTooltipDescription="Tank.barrelDir&#10;references one&#10;Direction" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.barrelDir" modifiers="public,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="barrelDir"/>
+                <filter signature="public fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="good" fieldLineTooltipDescription="Tank.good&#10;references one&#10;boolean" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.good" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="good"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="tankLive" fieldLineTooltipDescription="Tank.tankLive&#10;references one&#10;boolean" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.tankLive" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="tankLive"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="tk" fieldLineTooltipDescription="Tank.tk&#10;references one&#10;Toolkit" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.tk" modifiers="private,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="tk"/>
+                <filter signature="private fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Toolkit" modelMemberIdentifier="type:java.awt.Toolkit" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Toolkit"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Toolkit" modelMemberIdentifier="type:java.awt.Toolkit" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Toolkit"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="goodTankImages" fieldLineTooltipDescription="Tank.goodTankImages&#10;references many&#10;Image[]" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.goodTankImages" modifiers="private,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="goodTankImages"/>
+                <filter signature="one to many fields"/>
+                <filter signature="private fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="badTankImages" fieldLineTooltipDescription="Tank.badTankImages&#10;references many&#10;Image[]" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.badTankImages" modifiers="private,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="badTankImages"/>
+                <filter signature="one to many fields"/>
+                <filter signature="private fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="goodTankImages2" fieldLineTooltipDescription="Tank.goodTankImages2&#10;references many&#10;Image[]" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.goodTankImages2" modifiers="private,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="goodTankImages2"/>
+                <filter signature="one to many fields"/>
+                <filter signature="private fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="badTankImages2" fieldLineTooltipDescription="Tank.badTankImages2&#10;references many&#10;Image[]" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.badTankImages2" modifiers="private,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="badTankImages2"/>
+                <filter signature="one to many fields"/>
+                <filter signature="private fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="imgs" fieldLineTooltipDescription="Tank.imgs&#10;references many&#10;Image" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Tank.imgs" modifiers="private,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="imgs"/>
+                <filter signature="one to many fields"/>
+                <filter signature="private fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Map" modelMemberIdentifier="type:java.util.Map&lt;java.lang.String, java.awt.Image&gt;" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.Map&lt;java.lang.String, java.awt.Image&gt;"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            </containedType>
+        </field>
+        <method deep="true" elementName="getMissileAmount" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.getMissileAmount(()I)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="getter methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="getMissileAmount"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </return>
+        </method>
+        <method deep="true" elementName="setMissileAmount" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.setMissileAmount((I)V)" modifiers="public," parameterNames="missileAmount">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="setMissileAmount"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="public methods"/>
+                <filter signature="setter methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="getLife" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.getLife(()I)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="getter methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="getLife"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </return>
+        </method>
+        <method deep="true" elementName="setLife" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.setLife((I)V)" modifiers="public," parameterNames="life">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="setLife"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="public methods"/>
+                <filter signature="setter methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="TankLive" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.TankLive(()Z)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="TankLive"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </return>
+        </method>
+        <method deep="true" elementName="setTankLive" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.setTankLive((Z)V)" modifiers="public," parameterNames="tankLive">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="setTankLive"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="public methods"/>
+                <filter signature="setter methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="Tank" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.Tank((II)V)" modifiers="public," parameterNames="x,y">
+            <filters>
+                <filter signature="constructors"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="Tank"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="non default constructors"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </parameterTypes>
+        </method>
+        <method deep="true" elementName="Tank" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.Tank((IIQTankClient;ZQDirection;)V)" modifiers="public," parameterNames="x,y,tc,good,dir">
+            <filters>
+                <filter signature="constructors"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="Tank"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="non default constructors"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </parameterTypes>
+        </method>
+        <method deep="true" elementName="draw" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.draw((QGraphics;II)V)" modifiers="public," parameterNames="g,offsetX,offsetY">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="draw"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="Graphics" modelMemberIdentifier="type:java.awt.Graphics" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Graphics"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="keyPressed" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.keyPressed((QKeyEvent;)V)" modifiers="public," parameterNames="e">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="keyPressed"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="KeyEvent" modelMemberIdentifier="type:java.awt.event.KeyEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.KeyEvent"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="currentLocation" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.currentLocation(()V)" modifiers="private,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="currentLocation"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="private methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="move" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.move(()V)" modifiers="private,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="move"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="private methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="keyReleased" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.keyReleased((QKeyEvent;)V)" modifiers="public," parameterNames="e">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="keyReleased"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="KeyEvent" modelMemberIdentifier="type:java.awt.event.KeyEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.KeyEvent"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="fire" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.fire(()V)" modifiers="private,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="fire"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="private methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="getRect" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.getRect(()QRectangle;)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="getter methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="getRect"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="Rectangle" modelMemberIdentifier="type:java.awt.Rectangle" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Rectangle"/>
+            </return>
+        </method>
+        <method deep="true" elementName="stay" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.stay(()V)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="stay"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="ColidesWithTank" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.ColidesWithTank((QList&lt;QTank;&gt;;)Z)" modifiers="public," parameterNames="tanks">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="ColidesWithTank"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List&lt;Tank&gt;" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List&lt;Tank&gt;"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </return>
+        </method>
+        <method deep="true" elementName="setScore" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.setScore((I)V)" modifiers="public," parameterNames="score">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="setScore"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="public methods"/>
+                <filter signature="setter methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="getScore" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank.getScore(()I)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="getter methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="getScore"/>
+                <filter signature="methods of {method-owner}" switchValues="Tank"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </return>
+        </method>
+        <type deep="true" elementName="BloodBar" isBinary="false" isDeprecated="false" modelMemberIdentifier="type:Tank$BloodBar" modifiers="private," packageName="" qualifiedName="Tank$BloodBar">
+            <filters>
+                <filter signature="all classes"/>
+                <filter signature="all types"/>
+                <filter signature="classes with a default constructor"/>
+                <filter signature="concrete classes"/>
+                <filter signature="inner types"/>
+                <filter signature="inner types named {type-name}" switchValues="BloodBar"/>
+                <filter signature="non java star package types"/>
+                <filter signature="private types"/>
+                <filter signature="source code types"/>
+                <filter signature="types named {type-name-pattern}" switchValues="BloodBar"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </declarer>
+            <outermostType>
+                <type deep="false" elementName="Tank" modelMemberIdentifier="type:Tank" modifiers="public," packageName="" qualifiedName="Tank"/>
+            </outermostType>
+            <method deep="true" elementName="draw" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:Tank$BloodBar.draw((QGraphics;II)V)" modifiers="public," parameterNames="g,offsetX,offsetY">
+                <filters>
+                    <filter signature="all methods"/>
+                    <filter signature="methods named {method-name-pattern}" switchValues="draw"/>
+                    <filter signature="methods of {method-owner}" switchValues="BloodBar"/>
+                    <filter signature="public methods"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="BloodBar" modelMemberIdentifier="type:Tank$BloodBar" modifiers="private," packageName="" qualifiedName="Tank$BloodBar"/>
+                </declarer>
+                <parameterTypes>
+                    <type deep="false" elementName="Graphics" modelMemberIdentifier="type:java.awt.Graphics" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Graphics"/>
+                    <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                    <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                </parameterTypes>
+                <return>
+                    <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+                </return>
+            </method>
+            <nonRecursiveSubtypes/>
+            <nonRecursiveSupertypes>
+                <type deep="false" elementName="Object" modelMemberIdentifier="type:java.lang.Object" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Object"/>
+            </nonRecursiveSupertypes>
+            <outwardDependencies>
+                <type deep="false" elementName="KeyEvent" modelMemberIdentifier="type:java.awt.event.KeyEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.KeyEvent"/>
+                <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+                <type deep="false" elementName="MissileMessage" modelMemberIdentifier="type:MissileMessage" modifiers="public," packageName="" qualifiedName="MissileMessage"/>
+                <type deep="false" elementName="Map" modelMemberIdentifier="type:java.util.Map" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.Map"/>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+                <type deep="false" elementName="Color" modelMemberIdentifier="type:java.awt.Color" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Color"/>
+                <type deep="false" elementName="TankMoveMessage" modelMemberIdentifier="type:TankMoveMessage" modifiers="public," packageName="" qualifiedName="TankMoveMessage"/>
+                <type deep="false" elementName="Toolkit" modelMemberIdentifier="type:java.awt.Toolkit" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Toolkit"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="Font" modelMemberIdentifier="type:java.awt.Font" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Font"/>
+                <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+                <type deep="false" elementName="Graphics" modelMemberIdentifier="type:java.awt.Graphics" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Graphics"/>
+                <type deep="false" elementName="Rectangle" modelMemberIdentifier="type:java.awt.Rectangle" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Rectangle"/>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List"/>
+                <type deep="false" elementName="System" modelMemberIdentifier="type:java.lang.System" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.System"/>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </outwardDependencies>
+        </type>
+        <nonRecursiveSubtypes/>
+        <nonRecursiveSupertypes>
+            <type deep="false" elementName="Object" modelMemberIdentifier="type:java.lang.Object" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Object"/>
+        </nonRecursiveSupertypes>
+        <outwardDependencies>
+            <type deep="false" elementName="KeyEvent" modelMemberIdentifier="type:java.awt.event.KeyEvent" modifiers="public," packageName="java.awt.event" qualifiedName="java.awt.event.KeyEvent"/>
+            <type deep="false" elementName="Missile" modelMemberIdentifier="type:Missile" modifiers="public," packageName="" qualifiedName="Missile"/>
+            <type deep="false" elementName="MissileMessage" modelMemberIdentifier="type:MissileMessage" modifiers="public," packageName="" qualifiedName="MissileMessage"/>
+            <type deep="false" elementName="Map" modelMemberIdentifier="type:java.util.Map" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.Map"/>
+            <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            <type deep="false" elementName="Color" modelMemberIdentifier="type:java.awt.Color" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Color"/>
+            <type deep="false" elementName="TankMoveMessage" modelMemberIdentifier="type:TankMoveMessage" modifiers="public," packageName="" qualifiedName="TankMoveMessage"/>
+            <type deep="false" elementName="Toolkit" modelMemberIdentifier="type:java.awt.Toolkit" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Toolkit"/>
+            <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            <type deep="false" elementName="Font" modelMemberIdentifier="type:java.awt.Font" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Font"/>
+            <type deep="false" elementName="Image" modelMemberIdentifier="type:java.awt.Image" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Image"/>
+            <type deep="false" elementName="Graphics" modelMemberIdentifier="type:java.awt.Graphics" modifiers="abstract,public," packageName="java.awt" qualifiedName="java.awt.Graphics"/>
+            <type deep="false" elementName="Rectangle" modelMemberIdentifier="type:java.awt.Rectangle" modifiers="public," packageName="java.awt" qualifiedName="java.awt.Rectangle"/>
+            <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List"/>
+            <type deep="false" elementName="System" modelMemberIdentifier="type:java.lang.System" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.System"/>
+            <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+        </outwardDependencies>
+    </type>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAABx0lEQVR4nOWU3yuDYRTH98e49SNqJTUSr0zaWtpGtjaWMWRujNm0lzGyzI/CWDNLKLXwJhOmKNqFSC5GJhThhrlx+fU+z7IkF6+59K3Tec7znD6dc97nfUSibzq+O4fG346KcR3yB+SQjmppTPa/5woWuzFOYY0LbbCEOlNG4rzeSpDztKC5jjKwnB2rpyvYv9rD4fUB9YGjWTg4BzI6JL+DkzZJpV0hCyKX2/hJOxdb6F6z0soFj6Vm1gx9wIi5o5kUaDu2ibGIG9zZKo1vX27gCvfTvPqgRRiY8WihmNTCfzhPIVfPcej8DSlrXTTDGDRRq/bqQfIFgUl7OT0MPJFkxQfxKLLspci0lVAj6zy2HGKnFJJBGb+uEF5xgUvG3wAXBd+93KNwSAGJS04tGA1h5YSD2teKMo9aeMVkZpJBObQ+ExLvb8mPFdtH85IVI7vJLl7fE9Dw54pJHVqWWWHg2FOcXqWqKT1/M1hc8jP+qofEI9w7E1B7DTTvVz9LDzeKLBsDZkQFXaAJtnUn+sNu6kms4qHiPhlInmDoV3i2neHbrYNyxgAlDyOexGQ/LeinSJtV0yYUDalRPFxDfa3vj2/F/9YHYK+OD5EVjdEAAAAASUVORK5CYII=" height="16" modelElementIdentifier="type:Tank" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Tank.ID" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Tank.Score" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Tank.TANK_HEIGHT" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Tank.TANK_WIDTH" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAXElEQVR4nGNgGAXDD0w8se6/y8ISMAaxqWaoyYyM/507GsEYxKaK4SCDCjeW/ocBEBskRrHBAm2+YJfCAIgNEqPY4Nq98//DDIcZChKj2GCY4XKdQdQ1dBQMDQAAuNtV+eDB0jcAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Tank.XSPEED" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAXElEQVR4nGNgGAXDD0w8se6/y8ISMAaxqWaoyYyM/507GsEYxKaK4SCDCjeW/ocBEBskRrHBAm2+YJfCAIgNEqPY4Nq98//DDIcZChKj2GCY4XKdQdQ1dBQMDQAAuNtV+eDB0jcAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Tank.YSPEED" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:Tank.badTankImages" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:Tank.badTankImages2" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAXElEQVR4nGNgGAXDD0w8se6/y8ISMAaxqWaoyYyM/507GsEYxKaK4SCDCjeW/ocBEBskRrHBAm2+YJfCAIgNEqPY4Nq98//DDIcZChKj2GCY4XKdQdQ1dBQMDQAAuNtV+eDB0jcAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Tank.barrelDir" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Tank.bd" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Tank.bl" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Tank.br" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Tank.bu" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAXElEQVR4nGNgGAXDD0w8se6/y8ISMAaxqWaoyYyM/507GsEYxKaK4SCDCjeW/ocBEBskRrHBAm2+YJfCAIgNEqPY4Nq98//DDIcZChKj2GCY4XKdQdQ1dBQMDQAAuNtV+eDB0jcAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Tank.dir" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Tank.good" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:Tank.goodTankImages" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:Tank.goodTankImages2" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:Tank.imgs" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Tank.isPlayerOne" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Tank.isPlayerTwo" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Tank.life" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Tank.missileAmount" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Tank.oldX" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Tank.oldY" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Tank.tankLive" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Tank.tc" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:Tank.tk" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Tank.x" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:Tank.y" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:Tank.Tank((II)V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:Tank.Tank((IIQTankClient;ZQDirection;)V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB+ElEQVR4nKWU70tTURjH/Td60bveGGkrQ/AHN6G6kiIOETWxcWeRtYjsjSu9k81fUwx/TPDXYq4hG2EN8xIVxgIHc5eMQnwxxYkKIgoiCtrLr+c54l5o4nE+8OGe57mHD8859+GmpByL36tzeOh5hUKXgqw2Iwp6TDyn+vG9wuH44uKyp6MvYQ2+TkB5RlMR6H1S0pv2fDg0G8b/jmFq8SciS2H+9E67YdfsuFInnU9Ox6RO3wStCC1M4n/xY/47Gj7X886Fr6XSXQuztwYj08MJ0WTsK3pDb6HNjvN8ZXsZzm+tfN8jn1VMLHebUNJvgifynksWN+NQPE8SvPDXosZn4TwYMoP2C4npeIZGGd2hw47DcR3ptntIU+9yaJ3huI/MlgJI7cVsXSjecY6zmE2Ak4tXt9dwu6MEktPI8elBjP3R4J+ZgDviZ3wQE9OdSe1GmN5ZsPNv9/BjxabwPFAPPV86lTPFsY04H6XSATObDAcW2B0fhX4nF/uurhNQXajrRq0H6aoMuascivcZ1IkWBGY+QpeyuWhPVRNwMasLiY/k120ym5BqlA0/xuivT4gabmGvzo6doirsMuhJOdWFxRQ0/KWDFuR1VGAwHEA09Qa2mpuxrigMM4fyaKoh+X8HRfTyNaz3dZ6A6hcTX7qK07iQONk4AOjDzcagMrmMAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="type:Tank$BloodBar" width="22"/>
+</AgileJWebModel>

@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AgileJWebModel version="1.7.17.v20140508-2136">
+    <type deep="true" elementName="CouchDbClient" isBinary="true" isDeprecated="false" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient">
+        <filters>
+            <filter signature="all classes"/>
+            <filter signature="all types"/>
+            <filter signature="bytecode types"/>
+            <filter signature="classes with a default constructor"/>
+            <filter signature="concrete classes"/>
+            <filter signature="inner types named {type-name}" switchValues="CouchDbClient"/>
+            <filter signature="members of package {package-name}" switchValues="org.lightcouch"/>
+            <filter signature="non java star package types"/>
+            <filter signature="public types"/>
+            <filter signature="top level types"/>
+            <filter signature="types named {type-name-pattern}" switchValues="CouchDbClient"/>
+        </filters>
+        <outermostType>
+            <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+        </outermostType>
+        <field deep="true" elementName="context" fieldLineTooltipDescription="CouchDbClient.context&#10;references one&#10;CouchDbContext" isBinary="true" isDeprecated="false" modelMemberIdentifier="field:org.lightcouch.CouchDbClient.context" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="context"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="CouchDbContext" modelMemberIdentifier="type:org.lightcouch.CouchDbContext" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbContext"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="CouchDbContext" modelMemberIdentifier="type:org.lightcouch.CouchDbContext" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbContext"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="design" fieldLineTooltipDescription="CouchDbClient.design&#10;references one&#10;CouchDbDesign" isBinary="true" isDeprecated="false" modelMemberIdentifier="field:org.lightcouch.CouchDbClient.design" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="design"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="CouchDbDesign" modelMemberIdentifier="type:org.lightcouch.CouchDbDesign" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbDesign"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="CouchDbDesign" modelMemberIdentifier="type:org.lightcouch.CouchDbDesign" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbDesign"/>
+            </containedType>
+        </field>
+        <method deep="true" elementName="CouchDbClient" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.CouchDbClient(()V)" modifiers="public,">
+            <filters>
+                <filter signature="constructors"/>
+                <filter signature="default constructors"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="CouchDbClient"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+        </method>
+        <method deep="true" elementName="CouchDbClient" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.CouchDbClient((Ljava/lang/String;)V)" modifiers="public," parameterNames="configFileName">
+            <filters>
+                <filter signature="constructors"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="CouchDbClient"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="non default constructors"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+        </method>
+        <method deep="true" elementName="CouchDbClient" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.CouchDbClient((Ljava/lang/String;ZLjava/lang/String;Ljava/lang/String;ILjava/lang/String;Ljava/lang/String;)V)" modifiers="public," parameterNames="dbName,createDbIfNotExist,protocol,host,port,username,password">
+            <filters>
+                <filter signature="constructors"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="CouchDbClient"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="non default constructors"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+        </method>
+        <method deep="true" elementName="CouchDbClient" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.CouchDbClient((Lorg/lightcouch/CouchDbProperties;)V)" modifiers="public," parameterNames="properties">
+            <filters>
+                <filter signature="constructors"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="CouchDbClient"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="non default constructors"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="CouchDbProperties" modelMemberIdentifier="type:org.lightcouch.CouchDbProperties" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbProperties"/>
+            </parameterTypes>
+        </method>
+        <method deep="true" elementName="setGsonBuilder" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.setGsonBuilder((Lcom/google/gson/GsonBuilder;)V)" modifiers="public," parameterNames="gsonBuilder">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="setGsonBuilder"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+                <filter signature="setter methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="GsonBuilder" modelMemberIdentifier="type:com.google.gson.GsonBuilder" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.GsonBuilder"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="context" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.context(()Lorg/lightcouch/CouchDbContext;)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="context"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="CouchDbContext" modelMemberIdentifier="type:org.lightcouch.CouchDbContext" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbContext"/>
+            </return>
+        </method>
+        <method deep="true" elementName="design" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.design(()Lorg/lightcouch/CouchDbDesign;)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="design"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="CouchDbDesign" modelMemberIdentifier="type:org.lightcouch.CouchDbDesign" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbDesign"/>
+            </return>
+        </method>
+        <method deep="true" elementName="view" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.view((Ljava/lang/String;)Lorg/lightcouch/View;)" modifiers="public," parameterNames="viewId">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="view"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="View" modelMemberIdentifier="type:org.lightcouch.View" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.View"/>
+            </return>
+        </method>
+        <method deep="true" elementName="replication" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.replication(()Lorg/lightcouch/Replication;)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="replication"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="Replication" modelMemberIdentifier="type:org.lightcouch.Replication" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.Replication"/>
+            </return>
+        </method>
+        <method deep="true" elementName="replicator" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.replicator(()Lorg/lightcouch/Replicator;)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="replicator"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="Replicator" modelMemberIdentifier="type:org.lightcouch.Replicator" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.Replicator"/>
+            </return>
+        </method>
+        <method deep="true" elementName="changes" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.changes(()Lorg/lightcouch/Changes;)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="changes"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="Changes" modelMemberIdentifier="type:org.lightcouch.Changes" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.Changes"/>
+            </return>
+        </method>
+        <method deep="true" elementName="syncDesignDocsWithDb" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.syncDesignDocsWithDb(()V)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="syncDesignDocsWithDb"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="find" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.find((Ljava/lang/Class;Ljava/lang/String;)Ljava/lang/Object;)" modifiers="public," parameterNames="classType,id">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="find"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="java.lang.Class&lt;T&gt;" modelMemberIdentifier="type:java.lang.Class&lt;T&gt;" modifiers="" packageName="" qualifiedName="java.lang.Class&lt;T&gt;"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="T" modelMemberIdentifier="type:T" modifiers="" packageName="" qualifiedName="T"/>
+            </return>
+        </method>
+        <method deep="true" elementName="find" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.find((Ljava/lang/Class;Ljava/lang/String;Lorg/lightcouch/Params;)Ljava/lang/Object;)" modifiers="public," parameterNames="classType,id,params">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="find"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="java.lang.Class&lt;T&gt;" modelMemberIdentifier="type:java.lang.Class&lt;T&gt;" modifiers="" packageName="" qualifiedName="java.lang.Class&lt;T&gt;"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="Params" modelMemberIdentifier="type:org.lightcouch.Params" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.Params"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="T" modelMemberIdentifier="type:T" modifiers="" packageName="" qualifiedName="T"/>
+            </return>
+        </method>
+        <method deep="true" elementName="find" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.find((Ljava/lang/Class;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;)" modifiers="public," parameterNames="classType,id,rev">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="find"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="java.lang.Class&lt;T&gt;" modelMemberIdentifier="type:java.lang.Class&lt;T&gt;" modifiers="" packageName="" qualifiedName="java.lang.Class&lt;T&gt;"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="T" modelMemberIdentifier="type:T" modifiers="" packageName="" qualifiedName="T"/>
+            </return>
+        </method>
+        <method deep="true" elementName="findAny" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.findAny((Ljava/lang/Class;Ljava/lang/String;)Ljava/lang/Object;)" modifiers="public," parameterNames="classType,uri">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="findAny"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="java.lang.Class&lt;T&gt;" modelMemberIdentifier="type:java.lang.Class&lt;T&gt;" modifiers="" packageName="" qualifiedName="java.lang.Class&lt;T&gt;"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="T" modelMemberIdentifier="type:T" modifiers="" packageName="" qualifiedName="T"/>
+            </return>
+        </method>
+        <method deep="true" elementName="find" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.find((Ljava/lang/String;)Ljava/io/InputStream;)" modifiers="public," parameterNames="id">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="find"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="InputStream" modelMemberIdentifier="type:java.io.InputStream" modifiers="abstract,public," packageName="java.io" qualifiedName="java.io.InputStream"/>
+            </return>
+        </method>
+        <method deep="true" elementName="find" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.find((Ljava/lang/String;Ljava/lang/String;)Ljava/io/InputStream;)" modifiers="public," parameterNames="id,rev">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="find"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="InputStream" modelMemberIdentifier="type:java.io.InputStream" modifiers="abstract,public," packageName="java.io" qualifiedName="java.io.InputStream"/>
+            </return>
+        </method>
+        <method deep="true" elementName="contains" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.contains((Ljava/lang/String;)Z)" modifiers="public," parameterNames="arg0">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="contains"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </return>
+        </method>
+        <method deep="true" elementName="save" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.save((Ljava/lang/Object;)Lorg/lightcouch/Response;)" modifiers="public," parameterNames="object">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="save"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="Object" modelMemberIdentifier="type:java.lang.Object" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Object"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="Response" modelMemberIdentifier="type:org.lightcouch.Response" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.Response"/>
+            </return>
+        </method>
+        <method deep="true" elementName="batch" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.batch((Ljava/lang/Object;)V)" modifiers="public," parameterNames="arg0">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="batch"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="Object" modelMemberIdentifier="type:java.lang.Object" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Object"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="bulk" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.bulk((Ljava/util/List;Z)Ljava/util/List;)" modifiers="public," parameterNames="arg0,arg1">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="bulk"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="java.util.List&lt;?&gt;" modelMemberIdentifier="type:java.util.List&lt;?&gt;" modifiers="" packageName="" qualifiedName="java.util.List&lt;?&gt;"/>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="java.util.List&lt;org.lightcouch.Response&gt;" modelMemberIdentifier="type:java.util.List&lt;org.lightcouch.Response&gt;" modifiers="" packageName="" qualifiedName="java.util.List&lt;org.lightcouch.Response&gt;"/>
+            </return>
+        </method>
+        <method deep="true" elementName="saveAttachment" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.saveAttachment((Ljava/io/InputStream;Ljava/lang/String;Ljava/lang/String;)Lorg/lightcouch/Response;)" modifiers="public," parameterNames="instream,name,contentType">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="saveAttachment"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="InputStream" modelMemberIdentifier="type:java.io.InputStream" modifiers="abstract,public," packageName="java.io" qualifiedName="java.io.InputStream"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="Response" modelMemberIdentifier="type:org.lightcouch.Response" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.Response"/>
+            </return>
+        </method>
+        <method deep="true" elementName="saveAttachment" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.saveAttachment((Ljava/io/InputStream;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Lorg/lightcouch/Response;)" modifiers="public," parameterNames="instream,name,contentType,docId,docRev">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="saveAttachment"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="InputStream" modelMemberIdentifier="type:java.io.InputStream" modifiers="abstract,public," packageName="java.io" qualifiedName="java.io.InputStream"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="Response" modelMemberIdentifier="type:org.lightcouch.Response" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.Response"/>
+            </return>
+        </method>
+        <method deep="true" elementName="update" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.update((Ljava/lang/Object;)Lorg/lightcouch/Response;)" modifiers="public," parameterNames="object">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="update"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="Object" modelMemberIdentifier="type:java.lang.Object" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Object"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="Response" modelMemberIdentifier="type:org.lightcouch.Response" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.Response"/>
+            </return>
+        </method>
+        <method deep="true" elementName="remove" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.remove((Ljava/lang/Object;)Lorg/lightcouch/Response;)" modifiers="public," parameterNames="object">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="remove"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="Object" modelMemberIdentifier="type:java.lang.Object" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Object"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="Response" modelMemberIdentifier="type:org.lightcouch.Response" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.Response"/>
+            </return>
+        </method>
+        <method deep="true" elementName="remove" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.remove((Ljava/lang/String;Ljava/lang/String;)Lorg/lightcouch/Response;)" modifiers="public," parameterNames="id,rev">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="remove"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="Response" modelMemberIdentifier="type:org.lightcouch.Response" modifiers="public," packageName="org.lightcouch" qualifiedName="org.lightcouch.Response"/>
+            </return>
+        </method>
+        <method deep="true" elementName="invokeUpdateHandler" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.invokeUpdateHandler((Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;)" modifiers="public," parameterNames="updateHandlerUri,docId,query">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="invokeUpdateHandler"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </return>
+        </method>
+        <method deep="true" elementName="getDBUri" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.getDBUri(()Ljava/net/URI;)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="getter methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="getDBUri"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="URI" modelMemberIdentifier="type:java.net.URI" modifiers="final,public," packageName="java.net" qualifiedName="java.net.URI"/>
+            </return>
+        </method>
+        <method deep="true" elementName="getBaseUri" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.getBaseUri(()Ljava/net/URI;)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="getter methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="getBaseUri"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="URI" modelMemberIdentifier="type:java.net.URI" modifiers="final,public," packageName="java.net" qualifiedName="java.net.URI"/>
+            </return>
+        </method>
+        <method deep="true" elementName="getGson" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.getGson(()Lcom/google/gson/Gson;)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="getter methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="getGson"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="Gson" modelMemberIdentifier="type:com.google.gson.Gson" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.Gson"/>
+            </return>
+        </method>
+        <method deep="true" elementName="shutdown" isBinary="true" isDeprecated="false" modelMemberIdentifier="method:org.lightcouch.CouchDbClient.shutdown(()V)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="shutdown"/>
+                <filter signature="methods of {method-owner}" switchValues="CouchDbClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <nonRecursiveSubtypes/>
+        <nonRecursiveSupertypes>
+            <type deep="false" elementName="CouchDbClientBase" modelMemberIdentifier="type:org.lightcouch.CouchDbClientBase" modifiers="abstract," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClientBase"/>
+        </nonRecursiveSupertypes>
+        <outwardDependencies/>
+    </type>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB+UlEQVR4nO2Uz0sbURDH/WN66EUtCkIRYhFdqSIJqWgUDYlK1aioF2M1sVl/NIrB+APir5DGILYgBHURFTWCguJBLKWHVExRQVEvNr14/PbNC4ZsNlHx7BeGefPe8NmZ2bebkhKnw/NfqPK0oWjMgLdfNCgc0fOY9uNzSWB6Xe3Ch89z3GhNkiWJK2McVj/XArO/I2oUZ/YUg84TgQkYLxk0w1YAUbJi8ccCdk62sfdnl3vv/gxskg2v2lUKeDxY0T5V+slvRuB4Q/F00ubvdXQtdfLKY8cSOwryMnDFTCuM3jp83Z+OgjaCqxgNOCD9XOTx2e0p7Gv9PK/GZ5aBk1YsOPXQuvTw7M3yw5ObEAyej1Frnm9Fnc/ErXzKCMpPBFa8WWrvTbcAZyBS8W7oAGnWfKRa8rjROlN8j6y+QqgG1GxdpBhFQjBVkG1Xsxtg5wnntxfIGdRCZddw8x34sXAkQeduRoFTJ6v4QdHMVAMa6N0mhO/+RV5WcAeN3zoxvBXp4u9dGFXsXOsyoOm7+DRw8DrEr1LJhJHdDBHHbMaxugxfwbE5Dt1ULc9L9rEkVLc0gjSLAGG4DAZvAyzLfehfc3BPcRmDZvWqQXlPhsbC060Ca7capdO1KGUw8hTT/rOg96I2SyZNeDeoQ+5QBfeV7uT/ihc9qv81YvGVvBblnwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="type:org.lightcouch.CouchDbClient" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:org.lightcouch.CouchDbClient.context" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:org.lightcouch.CouchDbClient.design" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:org.lightcouch.CouchDbClient.CouchDbClient(()V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:org.lightcouch.CouchDbClient.CouchDbClient((Ljava/lang/String;)V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:org.lightcouch.CouchDbClient.CouchDbClient((Ljava/lang/String;ZLjava/lang/String;Ljava/lang/String;ILjava/lang/String;Ljava/lang/String;)V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:org.lightcouch.CouchDbClient.CouchDbClient((Lorg/lightcouch/CouchDbProperties;)V)" width="22"/>
+</AgileJWebModel>

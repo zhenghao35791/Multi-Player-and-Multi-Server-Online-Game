@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="779" version="1.1" width="2227">
+    <path d=" M1767 168 L1767 168 L1767 174 L1765 174 L1765 168 M1768 171 L1738 171 S1728 171 1728 181 L1728 516 S1728 526 1738 526 L1775 526 M1757 532 L1777 526 L1757 519 M1752 526 L1752 526 L1740 531 L1745 519 L1750 531 L1738 526 L1750 521 L1745 533 L1740 521 L1752 526" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1767 168 L1767 168 L1767 174 L1765 174 L1765 168 M1768 171 L1738 171 S1728 171 1728 181 L1728 516 S1728 526 1738 526 L1775 526 M1757 532 L1777 526 L1757 519 M1752 526 L1752 526 L1740 531 L1745 519 L1750 531 L1738 526 L1750 521 L1745 533 L1740 521 L1752 526" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d=" M1767 248 L1767 248 L1767 254 L1765 254 L1765 248 M1768 251 L1738 251 S1727 251 1719 255 L1666 283 S1658 288 1648 288 L1620 288 M1638 281 L1618 288 L1638 294 M1657 288 L1657 288 L1645 293 L1650 281 L1655 293 L1643 288 L1655 283 L1650 295 L1645 283 L1657 288" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1767 248 L1767 248 L1767 254 L1765 254 L1765 248 M1768 251 L1738 251 S1727 251 1719 255 L1666 283 S1658 288 1648 288 L1620 288 M1638 281 L1618 288 L1638 294 M1657 288 L1657 288 L1645 293 L1650 281 L1655 293 L1643 288 L1655 283 L1650 295 L1645 283 L1657 288" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d=" M1767 268 L1767 268 L1767 274 L1765 274 L1765 268 M1768 271 L1738 271 S1728 271 1728 281 L1728 550 S1728 560 1738 560 L1775 560 M1757 566 L1777 560 L1757 553 M1752 560 L1752 560 L1740 565 L1745 553 L1750 565 L1738 560 L1750 555 L1745 567 L1740 555 L1752 560" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1767 268 L1767 268 L1767 274 L1765 274 L1765 268 M1768 271 L1738 271 S1728 271 1728 281 L1728 550 S1728 560 1738 560 L1775 560 M1757 566 L1777 560 L1757 553 M1752 560 L1752 560 L1740 565 L1745 553 L1750 565 L1738 560 L1750 555 L1745 567 L1740 555 L1752 560" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d=" M1767 368 L1767 368 L1767 374 L1765 374 L1765 368 M1768 371 L1728 371 L910 270 L872 270 M890 263 L870 270 L890 276" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1767 368 L1767 368 L1767 374 L1765 374 L1765 368 M1768 371 L1728 371 L910 270 L872 270 M890 263 L870 270 L890 276" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d=" M1009 140 L1009 140 L1009 146 L1007 146 L1007 140 M1010 143 L980 143 S970 143 970 153 L970 528 S970 538 980 538 L1017 538 M999 544 L1019 538 L999 531 M994 538 L994 538 L982 543 L987 531 L992 543 L980 538 L992 533 L987 545 L982 533 L994 538" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1009 140 L1009 140 L1009 146 L1007 146 L1007 140 M1010 143 L980 143 S970 143 970 153 L970 528 S970 538 980 538 L1017 538 M999 544 L1019 538 L999 531 M994 538 L994 538 L982 543 L987 531 L992 543 L980 538 L992 533 L987 545 L982 533 L994 538" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d=" M1009 160 L1009 160 L1009 166 L1007 166 L1007 160 M1010 163 L980 163 S970 163 970 173 L970 187 S970 197 980 197 L1008 197 M990 203 L1010 197 L990 190 M985 197 L985 197 L973 202 L978 190 L983 202 L971 197 L983 192 L978 204 L973 192 L985 197" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1009 160 L1009 160 L1009 166 L1007 166 L1007 160 M1010 163 L980 163 S970 163 970 173 L970 187 S970 197 980 197 L1008 197 M990 203 L1010 197 L990 190 M985 197 L985 197 L973 202 L978 190 L983 202 L971 197 L983 192 L978 204 L973 192 L985 197" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d=" M1009 220 L1009 220 L1009 226 L1007 226 L1007 220 M1010 223 L980 223 S970 223 970 233 L970 562 S970 572 980 572 L1017 572 M999 578 L1019 572 L999 565 M994 572 L994 572 L982 577 L987 565 L992 577 L980 572 L992 567 L987 579 L982 567 L994 572" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1009 220 L1009 220 L1009 226 L1007 226 L1007 220 M1010 223 L980 223 S970 223 970 233 L970 562 S970 572 980 572 L1017 572 M999 578 L1019 572 L999 565 M994 572 L994 572 L982 577 L987 565 L992 577 L980 572 L992 567 L987 579 L982 567 L994 572" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d=" M1009 300 L1009 300 L1009 306 L1007 306 L1007 300 M1010 303 L980 303 S970 303 963 295 L916 242 S910 235 900 235 L872 235 M890 228 L870 235 L890 241" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1009 300 L1009 300 L1009 306 L1007 306 L1007 300 M1010 303 L980 303 S970 303 963 295 L916 242 S910 235 900 235 L872 235 M890 228 L870 235 L890 241" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d=" M1009 320 L1009 320 L1009 326 L1007 326 L1007 320 M1010 323 L980 323 S969 323 965 314 L914 208 S909 200 900 200 L872 200 M890 193 L870 200 L890 206" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1009 320 L1009 320 L1009 326 L1007 326 L1007 320 M1010 323 L980 323 S969 323 965 314 L914 208 S909 200 900 200 L872 200 M890 193 L870 200 L890 206" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d=" M1620 340 L1620 340 L1620 346 L1622 346 L1622 340 M1618 343 L1658 343 L1728 336 L1766 336 M1748 342 L1768 336 L1748 329" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1620 340 L1620 340 L1620 346 L1622 346 L1622 340 M1618 343 L1658 343 L1728 336 L1766 336 M1748 342 L1768 336 L1748 329" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_1" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 178 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="579" opacity="0.8" style="fill:url(#lg_id_1)" width="399" x="1768" y="128"/>
+    <rect fill="none" height="579" opacity="1" shape-rendering="crispEdges" stroke="#CEAE4C" stroke-width="2" width="399" x="1768" y="128"/>
+    <path d="" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_2" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 206, 174, 76 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 76, 76, 76 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="31" opacity="0.8" style="fill:url(#lg_id_2)" width="397" x="1770" y="130"/>
+    <defs>
+        <linearGradient id="lg_id_3" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 240, 240, 240 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="29" opacity="0.8" style="fill:url(#lg_id_3)" width="32" x="1770" y="130"/>
+    <image height="19" width="22" x="1775" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB/0lEQVR4nJ2U70taYRTH/R/6F3qbiwVBDe4ititThiJiFiXaQjebzL2Zm9PwbpVFos2g8gfOZGxBIK1L1Kg5MCh8MbZFL1xkbEGjelP2xpff7vOIcteUXT1wOM95nnM/zznnOVyZ7Jp8PdrDQPwpVCETOsY1UE4bqU/2r8dKFm41RGEP3z2BM/W8osRve3Uf5Lwh6E2vAhzvwfL3JWQOvmD7cIvaxE4UXt6L5mdMfXBSJsn0RcqJ9P4Gqsnmz094+dFFM5fclr6oA+aEFW93IhXQRm4Nb9J+8LvL1P99/gu+9TEa9yDplAZmg0ZoZ42Iby9QyMFZHqa4paL29w5YkzaqvWEzSLwkMCmvdYRFMF3KeCufhdxzFy3uO1TJuo27h/ZRJZgJtbBWSc/4lk8tTICPgo/Oj3F7UgvGp6GazKaw9I2HIWaHImiQnjHpGTOhgTFmQ6F4WXqsXAbDH1wIfC5VcVEsYEA4186a8HiRkwbOnebpKOnmzMJkcNgXeiyWP4UT+DdnYAgP0TjxVIjjqsJH+GnI3SzYQA9MiUdwr4xibN1PLfF7BGj7azVInBgqszRRDWcWal9APrrhYYVyB6GPDEEvwIglPtkXQ8XgyA87mLnOvy74B07K1M3b0DVpQPdUH7X9ser/CjG4rOUKJL1BLakr40bA/+1xo/BqwCtkVQA98MkVlAAAAABJRU5ErkJggg==" y="135"/>
+    <text fill="#F6F6F6" font-family="Arial" font-size="13" height="19" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="147" width="147" x="1807" y="148">TankWarMainServer</text>
+    <path d=" M1767 168 L1767 168 L1767 174 L1765 174 L1765 168 M1768 171 L1738 171" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1767 168 L1767 168 L1767 174 L1765 174 L1765 168 M1768 171 L1738 171" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1775" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="164"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="187" width="187" x="1798" y="172">List&lt;TankWarMainServer$Client&gt; </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="51" width="51" x="1990" y="172">AllClients</text>
+    <image height="14" width="22" x="1775" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="184"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="69" width="69" x="1798" y="192">List&lt;String&gt; </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="81" width="81" x="1990" y="192">AllClientsCopy</text>
+    <image height="14" width="22" x="1775" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" y="204"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1798" y="212">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="44" width="44" x="1990" y="212">ClientID</text>
+    <image height="14" width="22" x="1775" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="224"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1798" y="232">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="166" width="166" x="1990" y="232">MAX_MAINSERVER_CLIENTS</text>
+    <path d=" M1767 248 L1767 248 L1767 254 L1765 254 L1765 248 M1768 251 L1738 251" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1767 248 L1767 248 L1767 254 L1765 254 L1765 248 M1768 251 L1738 251" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1775" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="244"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="164" width="164" x="1798" y="252">List&lt;TankWarBackupServer&gt; </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="123" width="123" x="1990" y="252">MainServerBackupList</text>
+    <path d=" M1767 268 L1767 268 L1767 274 L1765 274 L1765 268 M1768 271 L1738 271" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1767 268 L1767 268 L1767 274 L1765 274 L1765 268 M1768 271 L1738 271" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1775" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="264"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="187" width="187" x="1798" y="272">List&lt;TankWarMainServer$Client&gt; </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="99" width="99" x="1990" y="272">MainServerClients</text>
+    <image height="14" width="22" x="1775" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="284"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="36" width="36" x="1798" y="292">String </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="73" width="73" x="1990" y="292">MainServerIP</text>
+    <image height="14" width="22" x="1775" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="304"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1798" y="312">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="155" width="155" x="1990" y="312">TCP_PORT_FOR_CLIENTS</text>
+    <image height="14" width="22" x="1775" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="324"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1798" y="332">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="67" width="67" x="1990" y="332">UDP_PORT</text>
+    <image height="14" width="22" x="1775" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="344"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1798" y="352">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="54" width="54" x="1990" y="352">bufferSize</text>
+    <path d=" M1767 368 L1767 368 L1767 374 L1765 374 L1765 368 M1768 371 L1728 371" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1767 368 L1767 368 L1767 374 L1765 374 L1765 368 M1768 371 L1728 371" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1775" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="364"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="89" width="89" x="1798" y="372">CouchDbClient </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="47" width="47" x="1990" y="372">dbClient</text>
+    <image height="14" width="22" x="1775" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="384"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1798" y="392">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="10" width="10" x="1990" y="392">id</text>
+    <image height="14" width="22" x="1775" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="404"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="52" width="52" x="1798" y="412">Random </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="1990" y="412">r</text>
+    <path d=" M1772 429 L2163 429" fill="none" opacity="1" stroke="rgb( 206, 174, 76 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1775" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" y="441"/>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="109" width="109" x="1803" y="449">TankWarMainServer</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="15" width="15" x="1974" y="449">( ) </text>
+    <path d=" M1772 466 L2163 466" fill="none" opacity="1" stroke="rgb( 206, 174, 76 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_4" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 178 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="114" opacity="0.8" style="fill:url(#lg_id_4)" width="223" x="1777" y="480"/>
+    <rect fill="none" height="114" opacity="1" shape-rendering="crispEdges" stroke="#CEAE4C" stroke-width="2" width="223" x="1777" y="480"/>
+    <path d=" M1738 526 L1775 526 M1757 532 L1777 526 L1757 519 M1752 526 L1752 526 L1740 531 L1745 519 L1750 531 L1738 526 L1750 521 L1745 533 L1740 521 L1752 526" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1738 526 L1775 526 M1757 532 L1777 526 L1757 519 M1752 526 L1752 526 L1740 531 L1745 519 L1750 531 L1738 526 L1750 521 L1745 533 L1740 521 L1752 526" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d=" M1738 560 L1775 560 M1757 566 L1777 560 L1757 553 M1752 560 L1752 560 L1740 565 L1745 553 L1750 565 L1738 560 L1750 555 L1745 567 L1740 555 L1752 560" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1738 560 L1775 560 M1757 566 L1777 560 L1757 553 M1752 560 L1752 560 L1740 565 L1745 553 L1750 565 L1738 560 L1750 555 L1745 567 L1740 555 L1752 560" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_5" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 206, 174, 76 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 76, 76, 76 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="31" opacity="0.8" style="fill:url(#lg_id_5)" width="221" x="1779" y="482"/>
+    <defs>
+        <linearGradient id="lg_id_6" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 240, 240, 240 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="29" opacity="0.8" style="fill:url(#lg_id_6)" width="32" x="1779" y="482"/>
+    <image height="19" width="22" x="1784" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB+ElEQVR4nKWU70tTURjH/Td60bveGGkrQ/AHN6G6kiIOETWxcWeRtYjsjSu9k81fUwx/TPDXYq4hG2EN8xIVxgIHc5eMQnwxxYkKIgoiCtrLr+c54l5o4nE+8OGe57mHD8859+GmpByL36tzeOh5hUKXgqw2Iwp6TDyn+vG9wuH44uKyp6MvYQ2+TkB5RlMR6H1S0pv2fDg0G8b/jmFq8SciS2H+9E67YdfsuFInnU9Ox6RO3wStCC1M4n/xY/47Gj7X886Fr6XSXQuztwYj08MJ0WTsK3pDb6HNjvN8ZXsZzm+tfN8jn1VMLHebUNJvgifynksWN+NQPE8SvPDXosZn4TwYMoP2C4npeIZGGd2hw47DcR3ptntIU+9yaJ3huI/MlgJI7cVsXSjecY6zmE2Ak4tXt9dwu6MEktPI8elBjP3R4J+ZgDviZ3wQE9OdSe1GmN5ZsPNv9/BjxabwPFAPPV86lTPFsY04H6XSATObDAcW2B0fhX4nF/uurhNQXajrRq0H6aoMuascivcZ1IkWBGY+QpeyuWhPVRNwMasLiY/k120ym5BqlA0/xuivT4gabmGvzo6doirsMuhJOdWFxRQ0/KWDFuR1VGAwHEA09Qa2mpuxrigMM4fyaKoh+X8HRfTyNaz3dZ6A6hcTX7qK07iQONk4AOjDzcagMrmMAAAAAElFTkSuQmCC" y="487"/>
+    <text fill="#F6F6F6" font-family="Arial" font-size="13" height="19" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="42" width="42" x="1816" y="500">Client</text>
+    <image height="14" width="22" x="1784" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="516"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="36" width="36" x="1807" y="524">String </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="12" width="12" x="1848" y="524">IP</text>
+    <image height="14" width="22" x="1784" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="536"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1807" y="544">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="44" width="44" x="1848" y="544">udpPort</text>
+    <path d=" M1781 561 L1996 561" fill="none" opacity="1" stroke="rgb( 206, 174, 76 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1784" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" y="573"/>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="33" width="33" x="1812" y="581">Client</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="1861" y="581">(</text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="36" width="36" x="1865" y="581">String </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="1901" y="581"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="16" width="16" x="1905" y="581">IP, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1921" y="581">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="1938" y="581"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="44" width="44" x="1942" y="581">udpPort</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="8" width="8" x="1986" y="581">) </text>
+    <defs>
+        <linearGradient id="lg_id_7" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 178 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="94" opacity="0.8" style="fill:url(#lg_id_7)" width="238" x="1777" y="604"/>
+    <rect fill="none" height="94" opacity="1" shape-rendering="crispEdges" stroke="#CEAE4C" stroke-width="2" width="238" x="1777" y="604"/>
+    <defs>
+        <linearGradient id="lg_id_8" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 206, 174, 76 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 76, 76, 76 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="31" opacity="0.8" style="fill:url(#lg_id_8)" width="236" x="1779" y="606"/>
+    <defs>
+        <linearGradient id="lg_id_9" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 240, 240, 240 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="29" opacity="0.8" style="fill:url(#lg_id_9)" width="32" x="1779" y="606"/>
+    <image height="19" width="22" x="1784" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB+ElEQVR4nKWU70tTURjH/Td60bveGGkrQ/AHN6G6kiIOETWxcWeRtYjsjSu9k81fUwx/TPDXYq4hG2EN8xIVxgIHc5eMQnwxxYkKIgoiCtrLr+c54l5o4nE+8OGe57mHD8859+GmpByL36tzeOh5hUKXgqw2Iwp6TDyn+vG9wuH44uKyp6MvYQ2+TkB5RlMR6H1S0pv2fDg0G8b/jmFq8SciS2H+9E67YdfsuFInnU9Ox6RO3wStCC1M4n/xY/47Gj7X886Fr6XSXQuztwYj08MJ0WTsK3pDb6HNjvN8ZXsZzm+tfN8jn1VMLHebUNJvgifynksWN+NQPE8SvPDXosZn4TwYMoP2C4npeIZGGd2hw47DcR3ptntIU+9yaJ3huI/MlgJI7cVsXSjecY6zmE2Ak4tXt9dwu6MEktPI8elBjP3R4J+ZgDviZ3wQE9OdSe1GmN5ZsPNv9/BjxabwPFAPPV86lTPFsY04H6XSATObDAcW2B0fhX4nF/uurhNQXajrRq0H6aoMuascivcZ1IkWBGY+QpeyuWhPVRNwMasLiY/k120ym5BqlA0/xuivT4gabmGvzo6doirsMuhJOdWFxRQ0/KWDFuR1VGAwHEA09Qa2mpuxrigMM4fyaKoh+X8HRfTyNaz3dZ6A6hcTX7qK07iQONk4AOjDzcagMrmMAAAAAElFTkSuQmCC" y="611"/>
+    <text fill="#F6F6F6" font-family="Arial" font-size="13" height="19" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="192" width="192" x="1816" y="624">UDPServerReceiveThread</text>
+    <image height="14" width="22" x="1784" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="640"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="34" width="34" x="1807" y="648">byte[] </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="31" width="31" x="1909" y="648">buffer</text>
+    <image height="14" width="22" x="1784" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="660"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="97" width="97" x="1807" y="668">DatagramSocket </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="13" width="13" x="1909" y="668">ds</text>
+    <path d=" M1781 685 L2011 685" fill="none" opacity="1" stroke="rgb( 206, 174, 76 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_10" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 212, 140 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="659" opacity="0.8" style="fill:url(#lg_id_10)" width="608" x="1010" y="60"/>
+    <rect fill="none" height="659" opacity="1" shape-rendering="crispEdges" stroke="#D29251" stroke-width="2" width="608" x="1010" y="60"/>
+    <path d="" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_11" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 210, 146, 81 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 76, 76, 76 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="31" opacity="0.8" style="fill:url(#lg_id_11)" width="606" x="1012" y="62"/>
+    <defs>
+        <linearGradient id="lg_id_12" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 240, 240, 240 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="29" opacity="0.8" style="fill:url(#lg_id_12)" width="32" x="1012" y="62"/>
+    <image height="19" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB/0lEQVR4nJ2U70taYRTH/R/6F3qbiwVBDe4ititThiJiFiXaQjebzL2Zm9PwbpVFos2g8gfOZGxBIK1L1Kg5MCh8MbZFL1xkbEGjelP2xpff7vOIcteUXT1wOM95nnM/zznnOVyZ7Jp8PdrDQPwpVCETOsY1UE4bqU/2r8dKFm41RGEP3z2BM/W8osRve3Uf5Lwh6E2vAhzvwfL3JWQOvmD7cIvaxE4UXt6L5mdMfXBSJsn0RcqJ9P4Gqsnmz094+dFFM5fclr6oA+aEFW93IhXQRm4Nb9J+8LvL1P99/gu+9TEa9yDplAZmg0ZoZ42Iby9QyMFZHqa4paL29w5YkzaqvWEzSLwkMCmvdYRFMF3KeCufhdxzFy3uO1TJuo27h/ZRJZgJtbBWSc/4lk8tTICPgo/Oj3F7UgvGp6GazKaw9I2HIWaHImiQnjHpGTOhgTFmQ6F4WXqsXAbDH1wIfC5VcVEsYEA4186a8HiRkwbOnebpKOnmzMJkcNgXeiyWP4UT+DdnYAgP0TjxVIjjqsJH+GnI3SzYQA9MiUdwr4xibN1PLfF7BGj7azVInBgqszRRDWcWal9APrrhYYVyB6GPDEEvwIglPtkXQ8XgyA87mLnOvy74B07K1M3b0DVpQPdUH7X9ser/CjG4rOUKJL1BLakr40bA/+1xo/BqwCtkVQA98MkVlAAAAABJRU5ErkJggg==" y="67"/>
+    <text fill="#F6F6F6" font-family="Arial" font-size="13" height="19" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="167" width="167" x="1049" y="80">TankWarBackupServer</text>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" y="96"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1040" y="104">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="111" width="111" x="1248" y="104">BACKUP_CLIENTID</text>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAXElEQVR4nGNgGAXDD0w8se6/y8ISMAaxqWaoyYyM/507GsEYxKaK4SCDCjeW/ocBEBskRrHBAm2+YJfCAIgNEqPY4Nq98//DDIcZChKj2GCY4XKdQdQ1dBQMDQAAuNtV+eDB0jcAAAAASUVORK5CYII=" y="116"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="36" width="36" x="1040" y="124">String </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="124" width="124" x="1248" y="124">BACKUP_SERVER_IP</text>
+    <path d=" M1009 140 L1009 140 L1009 146 L1007 146 L1007 140 M1010 143 L980 143" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1009 140 L1009 140 L1009 146 L1007 146 L1007 140 M1010 143 L980 143" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAXElEQVR4nGNgGAXDD0w8se6/y8ISMAaxqWaoyYyM/507GsEYxKaK4SCDCjeW/ocBEBskRrHBAm2+YJfCAIgNEqPY4Nq98//DDIcZChKj2GCY4XKdQdQ1dBQMDQAAuNtV+eDB0jcAAAAASUVORK5CYII=" y="136"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="203" width="203" x="1040" y="144">List&lt;TankWarBackupServer$Client&gt; </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="92" width="92" x="1248" y="144">BackupAllClients</text>
+    <path d=" M1009 160 L1009 160 L1009 166 L1007 166 L1007 160 M1010 163 L980 163" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1009 160 L1009 160 L1009 166 L1007 166 L1007 160 M1010 163 L980 163" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="156"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="164" width="164" x="1040" y="164">List&lt;TankWarBackupServer&gt; </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="97" width="97" x="1248" y="164">BackupServerList</text>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAXElEQVR4nGNgGAXDD0w8se6/y8ISMAaxqWaoyYyM/507GsEYxKaK4SCDCjeW/ocBEBskRrHBAm2+YJfCAIgNEqPY4Nq98//DDIcZChKj2GCY4XKdQdQ1dBQMDQAAuNtV+eDB0jcAAAAASUVORK5CYII=" y="176"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1040" y="184">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="276" width="276" x="1248" y="184">INDIVIDLE_BACKUP_TCP_PORT_FOR_CLIENTS</text>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="196"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1040" y="204">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="82" width="82" x="1248" y="204">MAX_CLIENTS</text>
+    <path d=" M1009 220 L1009 220 L1009 226 L1007 226 L1007 220 M1010 223 L980 223" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1009 220 L1009 220 L1009 226 L1007 226 L1007 220 M1010 223 L980 223" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAXElEQVR4nGNgGAXDD0w8se6/y8ISMAaxqWaoyYyM/507GsEYxKaK4SCDCjeW/ocBEBskRrHBAm2+YJfCAIgNEqPY4Nq98//DDIcZChKj2GCY4XKdQdQ1dBQMDQAAuNtV+eDB0jcAAAAASUVORK5CYII=" y="216"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="203" width="203" x="1040" y="224">List&lt;TankWarBackupServer$Client&gt; </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="78" width="78" x="1248" y="224">backupClients</text>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAXElEQVR4nGNgGAXDD0w8se6/y8ISMAaxqWaoyYyM/507GsEYxKaK4SCDCjeW/ocBEBskRrHBAm2+YJfCAIgNEqPY4Nq98//DDIcZChKj2GCY4XKdQdQ1dBQMDQAAuNtV+eDB0jcAAAAASUVORK5CYII=" y="236"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1040" y="244">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="87" width="87" x="1248" y="244">backupServerID</text>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAXElEQVR4nGNgGAXDD0w8se6/y8ISMAaxqWaoyYyM/507GsEYxKaK4SCDCjeW/ocBEBskRrHBAm2+YJfCAIgNEqPY4Nq98//DDIcZChKj2GCY4XKdQdQ1dBQMDQAAuNtV+eDB0jcAAAAASUVORK5CYII=" y="256"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1040" y="264">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="89" width="89" x="1248" y="264">backupUDPPort</text>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="276"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1040" y="284">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="54" width="54" x="1248" y="284">bufferSize</text>
+    <path d=" M1009 300 L1009 300 L1009 306 L1007 306 L1007 300 M1010 303 L980 303" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1009 300 L1009 300 L1009 306 L1007 306 L1007 300 M1010 303 L980 303" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="296"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="89" width="89" x="1040" y="304">CouchDbClient </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="90" width="90" x="1248" y="304">dbBackupServer</text>
+    <path d=" M1009 320 L1009 320 L1009 326 L1007 326 L1007 320 M1010 323 L980 323" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1009 320 L1009 320 L1009 326 L1007 326 L1007 320 M1010 323 L980 323" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="316"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="89" width="89" x="1040" y="324">CouchDbClient </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="47" width="47" x="1248" y="324">dbClient</text>
+    <path d=" M1620 340 L1620 340 L1620 346 L1622 346 L1622 340 M1618 343 L1658 343" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1620 340 L1620 340 L1620 346 L1622 346 L1622 340 M1618 343 L1658 343" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="336"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="115" width="115" x="1040" y="344">TankWarMainServer </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1248" y="344">ms</text>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="356"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="42" width="42" x="1040" y="364">Socket </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="6" width="6" x="1248" y="364">s</text>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="376"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="82" width="82" x="1040" y="384">BufferedWriter </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="30" width="30" x="1248" y="384">writer</text>
+    <path d=" M1014 401 L1614 401" fill="none" opacity="1" stroke="rgb( 210, 146, 81 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" y="413"/>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="124" width="124" x="1045" y="421">TankWarBackupServer</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="15" width="15" x="1326" y="421">( ) </text>
+    <image height="14" width="22" x="1017" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" y="433"/>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="124" width="124" x="1045" y="441">TankWarBackupServer</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="1326" y="441">(</text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1330" y="441">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="1347" y="441"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="53" width="53" x="1351" y="441">serverID, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1404" y="441">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="1421" y="441"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="52" width="52" x="1425" y="441">TCPport, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1477" y="441">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="1494" y="441"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="54" width="54" x="1498" y="441">UDPport, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="36" width="36" x="1552" y="441">String </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="1588" y="441"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="12" width="12" x="1592" y="441">IP</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="8" width="8" x="1604" y="441">) </text>
+    <path d=" M1014 458 L1614 458" fill="none" opacity="1" stroke="rgb( 210, 146, 81 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_13" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 178 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="134" opacity="0.8" style="fill:url(#lg_id_13)" width="223" x="1019" y="472"/>
+    <rect fill="none" height="134" opacity="1" shape-rendering="crispEdges" stroke="#CEAE4C" stroke-width="2" width="223" x="1019" y="472"/>
+    <path d=" M980 538 L1017 538 M999 544 L1019 538 L999 531 M994 538 L994 538 L982 543 L987 531 L992 543 L980 538 L992 533 L987 545 L982 533 L994 538" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M980 538 L1017 538 M999 544 L1019 538 L999 531 M994 538 L994 538 L982 543 L987 531 L992 543 L980 538 L992 533 L987 545 L982 533 L994 538" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d=" M980 572 L1017 572 M999 578 L1019 572 L999 565 M994 572 L994 572 L982 577 L987 565 L992 577 L980 572 L992 567 L987 579 L982 567 L994 572" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M980 572 L1017 572 M999 578 L1019 572 L999 565 M994 572 L994 572 L982 577 L987 565 L992 577 L980 572 L992 567 L987 579 L982 567 L994 572" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_14" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 206, 174, 76 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 76, 76, 76 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="31" opacity="0.8" style="fill:url(#lg_id_14)" width="221" x="1021" y="474"/>
+    <defs>
+        <linearGradient id="lg_id_15" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 240, 240, 240 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="29" opacity="0.8" style="fill:url(#lg_id_15)" width="32" x="1021" y="474"/>
+    <image height="19" width="22" x="1026" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAACGklEQVR4nKWU70tTYRTH/RMkSBDEFyX1Ko2EYASLoK6khGOJUtR102szf5C+8ZptsjumWzB0+aLQ6dymbS+C2/SiqdMFSrOgQKRwDlcmFOYbUYzo1bfneQbDROJuHfhynnOfw4dzzj335uQcsQ9bH3HX246KAQM0vTqUu3kW0+dHc1WbNDXAYI3jDyDKnWnRuNR2A/Q+K+gFaxkkxYLwygssbrxG7PMS875lD6yKFUUd2szgtE1a6UNZRDQRwXE2vz6LRxNdrHLVY7ntaYPRZ8Lo8lAaFIm/wpOoC8pqmMVfdzfhmOlhefUBUR2Y6+ehf8rDG/MzyMZOEgbvvbRag20wBZqYbg0aQfNVgWl757s59EdTFS8l36HYcg3nzFeZ6LlUuo6L9nJonZXkXKG+4kuOSrIBDgbe2v2Gy4/10Dp0TOZJF2xTbgTfT8ITC6JDdqoD05lpnTrww03Y+7WfelnxRTSHutC3kOri4PdPnG0J4UxzCG83V9SB4z+SbJWqnhnJZkhIkBkftu972zhtGoe+dw43iU41Ple/ct2KG8VmDlxfDQy++6R9O3pmXMx/2l5DoTAGTWcYGjGMwoaxzD4UCi+xcGRD6lA9JKB6UMBC4g3KbAoKBD8KGgJExAsB5Nf7MoMndr6gVbajxt8OeTWCNTKmk7VeXBFf/qU8w2j2/w5qJ/gRVEnTx4reZQ3OvTOMf+m/qs7G/gB9BMfr1PNhIQAAAABJRU5ErkJggg==" y="479"/>
+    <text fill="#F6F6F6" font-family="Arial" font-size="13" height="19" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="42" width="42" x="1058" y="492">Client</text>
+    <image height="14" width="22" x="1026" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="508"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="36" width="36" x="1049" y="516">String </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="12" width="12" x="1096" y="516">IP</text>
+    <image height="14" width="22" x="1026" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="528"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="42" width="42" x="1049" y="536">Socket </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="6" width="6" x="1096" y="536">s</text>
+    <image height="14" width="22" x="1026" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="548"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1049" y="556">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="44" width="44" x="1096" y="556">udpPort</text>
+    <path d=" M1023 573 L1238 573" fill="none" opacity="1" stroke="rgb( 206, 174, 76 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1026" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" y="585"/>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="33" width="33" x="1054" y="593">Client</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="1103" y="593">(</text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="36" width="36" x="1107" y="593">String </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="1143" y="593"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="16" width="16" x="1147" y="593">IP, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1163" y="593">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="1180" y="593"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="44" width="44" x="1184" y="593">udpPort</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="8" width="8" x="1228" y="593">) </text>
+    <defs>
+        <linearGradient id="lg_id_16" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 178 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="94" opacity="0.8" style="fill:url(#lg_id_16)" width="291" x="1019" y="616"/>
+    <rect fill="none" height="94" opacity="1" shape-rendering="crispEdges" stroke="#CEAE4C" stroke-width="2" width="291" x="1019" y="616"/>
+    <defs>
+        <linearGradient id="lg_id_17" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 206, 174, 76 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 76, 76, 76 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="31" opacity="0.8" style="fill:url(#lg_id_17)" width="289" x="1021" y="618"/>
+    <defs>
+        <linearGradient id="lg_id_18" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 240, 240, 240 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="29" opacity="0.8" style="fill:url(#lg_id_18)" width="32" x="1021" y="618"/>
+    <image height="19" width="22" x="1026" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB+ElEQVR4nKWU70tTURjH/Td60bveGGkrQ/AHN6G6kiIOETWxcWeRtYjsjSu9k81fUwx/TPDXYq4hG2EN8xIVxgIHc5eMQnwxxYkKIgoiCtrLr+c54l5o4nE+8OGe57mHD8859+GmpByL36tzeOh5hUKXgqw2Iwp6TDyn+vG9wuH44uKyp6MvYQ2+TkB5RlMR6H1S0pv2fDg0G8b/jmFq8SciS2H+9E67YdfsuFInnU9Ox6RO3wStCC1M4n/xY/47Gj7X886Fr6XSXQuztwYj08MJ0WTsK3pDb6HNjvN8ZXsZzm+tfN8jn1VMLHebUNJvgifynksWN+NQPE8SvPDXosZn4TwYMoP2C4npeIZGGd2hw47DcR3ptntIU+9yaJ3huI/MlgJI7cVsXSjecY6zmE2Ak4tXt9dwu6MEktPI8elBjP3R4J+ZgDviZ3wQE9OdSe1GmN5ZsPNv9/BjxabwPFAPPV86lTPFsY04H6XSATObDAcW2B0fhX4nF/uurhNQXajrRq0H6aoMuascivcZ1IkWBGY+QpeyuWhPVRNwMasLiY/k120ym5BqlA0/xuivT4gabmGvzo6doirsMuhJOdWFxRQ0/KWDFuR1VGAwHEA09Qa2mpuxrigMM4fyaKoh+X8HRfTyNaz3dZ6A6hcTX7qK07iQONk4AOjDzcagMrmMAAAAAElFTkSuQmCC" y="623"/>
+    <text fill="#F6F6F6" font-family="Arial" font-size="13" height="19" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="245" width="245" x="1058" y="636">backupServerUDPReceiveThread</text>
+    <image height="14" width="22" x="1026" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="652"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="34" width="34" x="1049" y="660">byte[] </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="31" width="31" x="1151" y="660">buffer</text>
+    <image height="14" width="22" x="1026" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="672"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="97" width="97" x="1049" y="680">DatagramSocket </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="13" width="13" x="1151" y="680">ds</text>
+    <path d=" M1023 697 L1306 697" fill="none" opacity="1" stroke="rgb( 206, 174, 76 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_19" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 216, 216, 216 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="198" opacity="0.8" style="fill:url(#lg_id_19)" width="810" x="60" y="124"/>
+    <rect fill="none" height="198" opacity="1" shape-rendering="crispEdges" stroke="#B2B2B2" stroke-width="2" width="810" x="60" y="124"/>
+    <path d="" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_20" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 178, 178, 178 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 76, 76, 76 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="55" opacity="0.8" style="fill:url(#lg_id_20)" width="808" x="62" y="126"/>
+    <defs>
+        <linearGradient id="lg_id_21" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 240, 240, 240 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="53" opacity="0.8" style="fill:url(#lg_id_21)" width="32" x="62" y="126"/>
+    <image height="43" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB+UlEQVR4nO2Uz0sbURDH/WN66EUtCkIRYhFdqSIJqWgUDYlK1aioF2M1sVl/NIrB+APir5DGILYgBHURFTWCguJBLKWHVExRQVEvNr14/PbNC4ZsNlHx7BeGefPe8NmZ2bebkhKnw/NfqPK0oWjMgLdfNCgc0fOY9uNzSWB6Xe3Ch89z3GhNkiWJK2McVj/XArO/I2oUZ/YUg84TgQkYLxk0w1YAUbJi8ccCdk62sfdnl3vv/gxskg2v2lUKeDxY0T5V+slvRuB4Q/F00ubvdXQtdfLKY8cSOwryMnDFTCuM3jp83Z+OgjaCqxgNOCD9XOTx2e0p7Gv9PK/GZ5aBk1YsOPXQuvTw7M3yw5ObEAyej1Frnm9Fnc/ErXzKCMpPBFa8WWrvTbcAZyBS8W7oAGnWfKRa8rjROlN8j6y+QqgG1GxdpBhFQjBVkG1Xsxtg5wnntxfIGdRCZddw8x34sXAkQeduRoFTJ6v4QdHMVAMa6N0mhO/+RV5WcAeN3zoxvBXp4u9dGFXsXOsyoOm7+DRw8DrEr1LJhJHdDBHHbMaxugxfwbE5Dt1ULc9L9rEkVLc0gjSLAGG4DAZvAyzLfehfc3BPcRmDZvWqQXlPhsbC060Ca7capdO1KGUw8hTT/rOg96I2SyZNeDeoQ+5QBfeV7uT/ihc9qv81YvGVvBblnwAAAABJRU5ErkJggg==" y="131"/>
+    <text fill="#F6F6F6" font-family="Arial" font-size="13" height="19" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="112" width="112" x="99" y="144">CouchDbClient</text>
+    <text fill="#F6F6F6" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="112" width="112" x="99" y="169">&lt;&lt; from bytecode &gt;&gt;</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" y="184"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="99" width="99" x="90" y="192">CouchDbContext </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="39" width="39" x="194" y="192">context</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" y="204"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="96" width="96" x="90" y="212">CouchDbDesign </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="38" width="38" x="194" y="212">design</text>
+    <path d=" M64 229 L866 229" fill="none" opacity="1" stroke="rgb( 178, 178, 178 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" y="241"/>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="85" width="85" x="95" y="249">CouchDbClient</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="15" width="15" x="185" y="249">( ) </text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" y="261"/>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="85" width="85" x="95" y="269">CouchDbClient</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="185" y="269">(</text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="36" width="36" x="189" y="269">String </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="225" y="269"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="87" width="87" x="229" y="269">configFileName</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="8" width="8" x="316" y="269">) </text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" y="281"/>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="85" width="85" x="95" y="289">CouchDbClient</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="185" y="289">(</text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="36" width="36" x="189" y="289">String </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="225" y="289"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="55" width="55" x="229" y="289">dbName, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="50" width="50" x="284" y="289">boolean </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="334" y="289"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="108" width="108" x="338" y="289">createDbIfNotExist, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="36" width="36" x="446" y="289">String </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="482" y="289"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="51" width="51" x="486" y="289">protocol, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="36" width="36" x="537" y="289">String </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="573" y="289"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="31" width="31" x="577" y="289">host, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="608" y="289">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="625" y="289"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="28" width="28" x="629" y="289">port, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="36" width="36" x="657" y="289">String </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="693" y="289"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="64" width="64" x="697" y="289">username, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="36" width="36" x="761" y="289">String </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="797" y="289"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="55" width="55" x="801" y="289">password</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="8" width="8" x="856" y="289">) </text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" y="301"/>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="85" width="85" x="95" y="309">CouchDbClient</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="185" y="309">(</text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="113" width="113" x="189" y="309">CouchDbProperties </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="302" y="309"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="55" width="55" x="306" y="309">properties</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="8" width="8" x="361" y="309">) </text>
+</svg>

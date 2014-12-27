@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2014-十月-30 11:43" filterScript="// by composition generator&#10;hide dependency lines&#10;show types named NetGameClient in orange&#10;show bytecode types in gray&#10;show all interfaces in blue&#10;show abstract classes in pink&#10;hide all methods" generator="composition" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" seed="NetGameClient" version="1.7.17.v20140508-2136">
+        <class className="NetGameClient" project="1.9.20-9-FINAL" xLocation="1435" yLocation="197"/>
+        <class className="TankClient" project="1.9.20-9-FINAL" xLocation="981" yLocation="30"/>
+        <class className="org.lightcouch.CouchDbClient" project="1.9.20-9-FINAL" xLocation="30" yLocation="221"/>
+    </diagram>
+</ajsv>

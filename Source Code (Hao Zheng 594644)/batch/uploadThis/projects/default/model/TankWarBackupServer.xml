@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AgileJWebModel version="1.7.17.v20140508-2136">
+    <type deep="true" elementName="TankWarBackupServer" isBinary="false" isDeprecated="false" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer">
+        <filters>
+            <filter signature="all classes"/>
+            <filter signature="all types"/>
+            <filter signature="classes with a default constructor"/>
+            <filter signature="concrete classes"/>
+            <filter signature="inner types named {type-name}" switchValues="TankWarBackupServer"/>
+            <filter signature="non java star package types"/>
+            <filter signature="public types"/>
+            <filter signature="source code types"/>
+            <filter signature="top level source types"/>
+            <filter signature="top level types"/>
+            <filter signature="types named {type-name-pattern}" switchValues="TankWarBackupServer"/>
+            <filter signature="types with static members"/>
+        </filters>
+        <outermostType>
+            <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+        </outermostType>
+        <field deep="true" elementName="backupUDPPort" fieldLineTooltipDescription="TankWarBackupServer.backupUDPPort&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer.backupUDPPort" modifiers="public,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="backupUDPPort"/>
+                <filter signature="public fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="INDIVIDLE_BACKUP_TCP_PORT_FOR_CLIENTS" fieldLineTooltipDescription="TankWarBackupServer.INDIVIDLE_BACKUP_TCP_PORT_FOR_CLIENTS&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer.INDIVIDLE_BACKUP_TCP_PORT_FOR_CLIENTS" modifiers="public,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="INDIVIDLE_BACKUP_TCP_PORT_FOR_CLIENTS"/>
+                <filter signature="public fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="MAX_CLIENTS" fieldLineTooltipDescription="TankWarBackupServer.MAX_CLIENTS&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer.MAX_CLIENTS" modifiers="final,public,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="MAX_CLIENTS"/>
+                <filter signature="public fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="BACKUP_SERVER_IP" fieldLineTooltipDescription="TankWarBackupServer.BACKUP_SERVER_IP&#10;references one&#10;String" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer.BACKUP_SERVER_IP" modifiers="public,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="BACKUP_SERVER_IP"/>
+                <filter signature="public fields"/>
+                <filter signature="string fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="BackupServerList" fieldLineTooltipDescription="TankWarBackupServer.BackupServerList&#10;references many&#10;TankWarBackupServer" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer.BackupServerList" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="BackupServerList"/>
+                <filter signature="one to many fields"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List&lt;TankWarBackupServer&gt;" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List&lt;TankWarBackupServer&gt;"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="writer" fieldLineTooltipDescription="TankWarBackupServer.writer&#10;references one&#10;BufferedWriter" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer.writer" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="writer"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="BufferedWriter" modelMemberIdentifier="type:java.io.BufferedWriter" modifiers="public," packageName="java.io" qualifiedName="java.io.BufferedWriter"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="BufferedWriter" modelMemberIdentifier="type:java.io.BufferedWriter" modifiers="public," packageName="java.io" qualifiedName="java.io.BufferedWriter"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="backupServerID" fieldLineTooltipDescription="TankWarBackupServer.backupServerID&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer.backupServerID" modifiers="public,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="backupServerID"/>
+                <filter signature="public fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="BACKUP_CLIENTID" fieldLineTooltipDescription="TankWarBackupServer.BACKUP_CLIENTID&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer.BACKUP_CLIENTID" modifiers="private,static,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="BACKUP_CLIENTID"/>
+                <filter signature="private fields"/>
+                <filter signature="static fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="backupClients" fieldLineTooltipDescription="TankWarBackupServer.backupClients&#10;references many&#10;Client" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer.backupClients" modifiers="public,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="backupClients"/>
+                <filter signature="one to many fields"/>
+                <filter signature="public fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List&lt;TankWarBackupServer$Client&gt;" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List&lt;TankWarBackupServer$Client&gt;"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Client" modelMemberIdentifier="type:TankWarBackupServer$Client" modifiers="" packageName="" qualifiedName="TankWarBackupServer$Client"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="BackupAllClients" fieldLineTooltipDescription="TankWarBackupServer.BackupAllClients&#10;references many&#10;Client" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer.BackupAllClients" modifiers="public,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="BackupAllClients"/>
+                <filter signature="one to many fields"/>
+                <filter signature="public fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List&lt;TankWarBackupServer$Client&gt;" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List&lt;TankWarBackupServer$Client&gt;"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Client" modelMemberIdentifier="type:TankWarBackupServer$Client" modifiers="" packageName="" qualifiedName="TankWarBackupServer$Client"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="ms" fieldLineTooltipDescription="TankWarBackupServer.ms&#10;references one&#10;TankWarMainServer" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer.ms" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="ms"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="TankWarMainServer" modelMemberIdentifier="type:TankWarMainServer" modifiers="public," packageName="" qualifiedName="TankWarMainServer"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="TankWarMainServer" modelMemberIdentifier="type:TankWarMainServer" modifiers="public," packageName="" qualifiedName="TankWarMainServer"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="bufferSize" fieldLineTooltipDescription="TankWarBackupServer.bufferSize&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer.bufferSize" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="bufferSize"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="s" fieldLineTooltipDescription="TankWarBackupServer.s&#10;references one&#10;Socket" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer.s" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="s"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Socket" modelMemberIdentifier="type:java.net.Socket" modifiers="public," packageName="java.net" qualifiedName="java.net.Socket"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Socket" modelMemberIdentifier="type:java.net.Socket" modifiers="public," packageName="java.net" qualifiedName="java.net.Socket"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="dbClient" fieldLineTooltipDescription="TankWarBackupServer.dbClient&#10;references one&#10;CouchDbClient" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer.dbClient" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="dbClient"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="dbBackupServer" fieldLineTooltipDescription="TankWarBackupServer.dbBackupServer&#10;references one&#10;CouchDbClient" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer.dbBackupServer" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="dbBackupServer"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </containedType>
+        </field>
+        <method deep="true" elementName="TankWarBackupServer" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:TankWarBackupServer.TankWarBackupServer(()V)" modifiers="public,">
+            <filters>
+                <filter signature="constructors"/>
+                <filter signature="default constructors"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="TankWarBackupServer"/>
+                <filter signature="methods of {method-owner}" switchValues="TankWarBackupServer"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+        </method>
+        <method deep="true" elementName="TankWarBackupServer" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:TankWarBackupServer.TankWarBackupServer((IIIQString;)V)" modifiers="public," parameterNames="serverID,TCPport,UDPport,IP">
+            <filters>
+                <filter signature="constructors"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="TankWarBackupServer"/>
+                <filter signature="methods of {method-owner}" switchValues="TankWarBackupServer"/>
+                <filter signature="non default constructors"/>
+                <filter signature="overloaded methods"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            </parameterTypes>
+        </method>
+        <method deep="true" elementName="start" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:TankWarBackupServer.start(()V)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="start"/>
+                <filter signature="methods of {method-owner}" switchValues="TankWarBackupServer"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="main" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:TankWarBackupServer.main(([QString;)V)" modifiers="public,static," parameterNames="aregs">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="main methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="main"/>
+                <filter signature="methods of {method-owner}" switchValues="TankWarBackupServer"/>
+                <filter signature="public methods"/>
+                <filter signature="static methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String[]" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String[]"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <type deep="true" elementName="Client" isBinary="false" isDeprecated="false" modelMemberIdentifier="type:TankWarBackupServer$Client" modifiers="" packageName="" qualifiedName="TankWarBackupServer$Client">
+            <filters>
+                <filter signature="all classes"/>
+                <filter signature="all types"/>
+                <filter signature="concrete classes"/>
+                <filter signature="inner types"/>
+                <filter signature="inner types named {type-name}" switchValues="Client"/>
+                <filter signature="non java star package types"/>
+                <filter signature="package visible types"/>
+                <filter signature="source code types"/>
+                <filter signature="types named {type-name-pattern}" switchValues="Client"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <outermostType>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </outermostType>
+            <field deep="true" elementName="IP" fieldLineTooltipDescription="Client.IP&#10;references one&#10;String" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer$Client.IP" modifiers="">
+                <filters>
+                    <filter signature="all fields"/>
+                    <filter signature="fields named {field-name-pattern}" switchValues="IP"/>
+                    <filter signature="package visible fields"/>
+                    <filter signature="string fields"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="Client" modelMemberIdentifier="type:TankWarBackupServer$Client" modifiers="" packageName="" qualifiedName="TankWarBackupServer$Client"/>
+                </declarer>
+                <rawType>
+                    <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                </rawType>
+                <containedType>
+                    <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                </containedType>
+            </field>
+            <field deep="true" elementName="udpPort" fieldLineTooltipDescription="Client.udpPort&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer$Client.udpPort" modifiers="">
+                <filters>
+                    <filter signature="all fields"/>
+                    <filter signature="fields named {field-name-pattern}" switchValues="udpPort"/>
+                    <filter signature="package visible fields"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="Client" modelMemberIdentifier="type:TankWarBackupServer$Client" modifiers="" packageName="" qualifiedName="TankWarBackupServer$Client"/>
+                </declarer>
+                <rawType>
+                    <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                </rawType>
+                <containedType>
+                    <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                </containedType>
+            </field>
+            <field deep="true" elementName="s" fieldLineTooltipDescription="Client.s&#10;references one&#10;Socket" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer$Client.s" modifiers="">
+                <filters>
+                    <filter signature="all fields"/>
+                    <filter signature="fields named {field-name-pattern}" switchValues="s"/>
+                    <filter signature="package visible fields"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="Client" modelMemberIdentifier="type:TankWarBackupServer$Client" modifiers="" packageName="" qualifiedName="TankWarBackupServer$Client"/>
+                </declarer>
+                <rawType>
+                    <type deep="false" elementName="Socket" modelMemberIdentifier="type:java.net.Socket" modifiers="public," packageName="java.net" qualifiedName="java.net.Socket"/>
+                </rawType>
+                <containedType>
+                    <type deep="false" elementName="Socket" modelMemberIdentifier="type:java.net.Socket" modifiers="public," packageName="java.net" qualifiedName="java.net.Socket"/>
+                </containedType>
+            </field>
+            <method deep="true" elementName="Client" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:TankWarBackupServer$Client.Client((QString;I)V)" modifiers="public," parameterNames="IP,udpPort">
+                <filters>
+                    <filter signature="constructors"/>
+                    <filter signature="methods named {method-name-pattern}" switchValues="Client"/>
+                    <filter signature="methods of {method-owner}" switchValues="Client"/>
+                    <filter signature="non default constructors"/>
+                    <filter signature="public methods"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="Client" modelMemberIdentifier="type:TankWarBackupServer$Client" modifiers="" packageName="" qualifiedName="TankWarBackupServer$Client"/>
+                </declarer>
+                <parameterTypes>
+                    <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                    <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+                </parameterTypes>
+            </method>
+            <nonRecursiveSubtypes/>
+            <nonRecursiveSupertypes>
+                <type deep="false" elementName="Object" modelMemberIdentifier="type:java.lang.Object" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Object"/>
+            </nonRecursiveSupertypes>
+            <outwardDependencies>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+                <type deep="false" elementName="Socket" modelMemberIdentifier="type:java.net.Socket" modifiers="public," packageName="java.net" qualifiedName="java.net.Socket"/>
+                <type deep="false" elementName="IOException" modelMemberIdentifier="type:java.io.IOException" modifiers="public," packageName="java.io" qualifiedName="java.io.IOException"/>
+                <type deep="false" elementName="Runnable" modelMemberIdentifier="type:java.lang.Runnable" modifiers="abstract,public," packageName="java.lang" qualifiedName="java.lang.Runnable"/>
+                <type deep="false" elementName="ServerSocket" modelMemberIdentifier="type:java.net.ServerSocket" modifiers="public," packageName="java.net" qualifiedName="java.net.ServerSocket"/>
+                <type deep="false" elementName="DatagramPacket" modelMemberIdentifier="type:java.net.DatagramPacket" modifiers="final,public," packageName="java.net" qualifiedName="java.net.DatagramPacket"/>
+                <type deep="false" elementName="DataInputStream" modelMemberIdentifier="type:java.io.DataInputStream" modifiers="public," packageName="java.io" qualifiedName="java.io.DataInputStream"/>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+                <type deep="false" elementName="InetSocketAddress" modelMemberIdentifier="type:java.net.InetSocketAddress" modifiers="public," packageName="java.net" qualifiedName="java.net.InetSocketAddress"/>
+                <type deep="false" elementName="BufferedWriter" modelMemberIdentifier="type:java.io.BufferedWriter" modifiers="public," packageName="java.io" qualifiedName="java.io.BufferedWriter"/>
+                <type deep="false" elementName="DatagramSocket" modelMemberIdentifier="type:java.net.DatagramSocket" modifiers="public," packageName="java.net" qualifiedName="java.net.DatagramSocket"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="TankWarMainServer" modelMemberIdentifier="type:TankWarMainServer" modifiers="public," packageName="" qualifiedName="TankWarMainServer"/>
+                <type deep="false" elementName="Integer" modelMemberIdentifier="type:java.lang.Integer" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.Integer"/>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List"/>
+                <type deep="false" elementName="System" modelMemberIdentifier="type:java.lang.System" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.System"/>
+                <type deep="false" elementName="Thread" modelMemberIdentifier="type:java.lang.Thread" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Thread"/>
+                <type deep="false" elementName="DataOutputStream" modelMemberIdentifier="type:java.io.DataOutputStream" modifiers="public," packageName="java.io" qualifiedName="java.io.DataOutputStream"/>
+            </outwardDependencies>
+        </type>
+        <type deep="true" elementName="backupServerUDPReceiveThread" isBinary="false" isDeprecated="false" modelMemberIdentifier="type:TankWarBackupServer$backupServerUDPReceiveThread" modifiers="private," packageName="" qualifiedName="TankWarBackupServer$backupServerUDPReceiveThread">
+            <filters>
+                <filter signature="all classes"/>
+                <filter signature="all types"/>
+                <filter signature="classes with a default constructor"/>
+                <filter signature="concrete classes"/>
+                <filter signature="inner types"/>
+                <filter signature="inner types named {type-name}" switchValues="backupServerUDPReceiveThread"/>
+                <filter signature="non java star package types"/>
+                <filter signature="private types"/>
+                <filter signature="source code types"/>
+                <filter signature="types named {type-name-pattern}" switchValues="backupServerUDPReceiveThread"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </declarer>
+            <outermostType>
+                <type deep="false" elementName="TankWarBackupServer" modelMemberIdentifier="type:TankWarBackupServer" modifiers="public," packageName="" qualifiedName="TankWarBackupServer"/>
+            </outermostType>
+            <field deep="true" elementName="buffer" fieldLineTooltipDescription="backupServerUDPReceiveThread.buffer&#10;references many&#10;byte[]" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer$backupServerUDPReceiveThread.buffer" modifiers="">
+                <filters>
+                    <filter signature="all fields"/>
+                    <filter signature="fields named {field-name-pattern}" switchValues="buffer"/>
+                    <filter signature="one to many fields"/>
+                    <filter signature="package visible fields"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="backupServerUDPReceiveThread" modelMemberIdentifier="type:TankWarBackupServer$backupServerUDPReceiveThread" modifiers="private," packageName="" qualifiedName="TankWarBackupServer$backupServerUDPReceiveThread"/>
+                </declarer>
+                <rawType>
+                    <type deep="false" elementName="byte[]" modelMemberIdentifier="type:byte[]" modifiers="" packageName="" qualifiedName="byte[]"/>
+                </rawType>
+                <containedType>
+                    <type deep="false" elementName="byte" modelMemberIdentifier="type:byte" modifiers="" packageName="" qualifiedName="byte"/>
+                </containedType>
+            </field>
+            <field deep="true" elementName="ds" fieldLineTooltipDescription="backupServerUDPReceiveThread.ds&#10;references one&#10;DatagramSocket" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:TankWarBackupServer$backupServerUDPReceiveThread.ds" modifiers="">
+                <filters>
+                    <filter signature="all fields"/>
+                    <filter signature="fields named {field-name-pattern}" switchValues="ds"/>
+                    <filter signature="package visible fields"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="backupServerUDPReceiveThread" modelMemberIdentifier="type:TankWarBackupServer$backupServerUDPReceiveThread" modifiers="private," packageName="" qualifiedName="TankWarBackupServer$backupServerUDPReceiveThread"/>
+                </declarer>
+                <rawType>
+                    <type deep="false" elementName="DatagramSocket" modelMemberIdentifier="type:java.net.DatagramSocket" modifiers="public," packageName="java.net" qualifiedName="java.net.DatagramSocket"/>
+                </rawType>
+                <containedType>
+                    <type deep="false" elementName="DatagramSocket" modelMemberIdentifier="type:java.net.DatagramSocket" modifiers="public," packageName="java.net" qualifiedName="java.net.DatagramSocket"/>
+                </containedType>
+            </field>
+            <method deep="true" elementName="run" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:TankWarBackupServer$backupServerUDPReceiveThread.run(()V)" modifiers="public,">
+                <filters>
+                    <filter signature="all methods"/>
+                    <filter signature="methods named {method-name-pattern}" switchValues="run"/>
+                    <filter signature="methods of {method-owner}" switchValues="backupServerUDPReceiveThread"/>
+                    <filter signature="public methods"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="backupServerUDPReceiveThread" modelMemberIdentifier="type:TankWarBackupServer$backupServerUDPReceiveThread" modifiers="private," packageName="" qualifiedName="TankWarBackupServer$backupServerUDPReceiveThread"/>
+                </declarer>
+                <return>
+                    <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+                </return>
+            </method>
+            <nonRecursiveSubtypes/>
+            <nonRecursiveSupertypes>
+                <type deep="false" elementName="Runnable" modelMemberIdentifier="type:java.lang.Runnable" modifiers="abstract,public," packageName="java.lang" qualifiedName="java.lang.Runnable"/>
+                <type deep="false" elementName="Object" modelMemberIdentifier="type:java.lang.Object" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Object"/>
+            </nonRecursiveSupertypes>
+            <outwardDependencies>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+                <type deep="false" elementName="Socket" modelMemberIdentifier="type:java.net.Socket" modifiers="public," packageName="java.net" qualifiedName="java.net.Socket"/>
+                <type deep="false" elementName="IOException" modelMemberIdentifier="type:java.io.IOException" modifiers="public," packageName="java.io" qualifiedName="java.io.IOException"/>
+                <type deep="false" elementName="Runnable" modelMemberIdentifier="type:java.lang.Runnable" modifiers="abstract,public," packageName="java.lang" qualifiedName="java.lang.Runnable"/>
+                <type deep="false" elementName="ServerSocket" modelMemberIdentifier="type:java.net.ServerSocket" modifiers="public," packageName="java.net" qualifiedName="java.net.ServerSocket"/>
+                <type deep="false" elementName="DatagramPacket" modelMemberIdentifier="type:java.net.DatagramPacket" modifiers="final,public," packageName="java.net" qualifiedName="java.net.DatagramPacket"/>
+                <type deep="false" elementName="DataInputStream" modelMemberIdentifier="type:java.io.DataInputStream" modifiers="public," packageName="java.io" qualifiedName="java.io.DataInputStream"/>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+                <type deep="false" elementName="InetSocketAddress" modelMemberIdentifier="type:java.net.InetSocketAddress" modifiers="public," packageName="java.net" qualifiedName="java.net.InetSocketAddress"/>
+                <type deep="false" elementName="BufferedWriter" modelMemberIdentifier="type:java.io.BufferedWriter" modifiers="public," packageName="java.io" qualifiedName="java.io.BufferedWriter"/>
+                <type deep="false" elementName="DatagramSocket" modelMemberIdentifier="type:java.net.DatagramSocket" modifiers="public," packageName="java.net" qualifiedName="java.net.DatagramSocket"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="TankWarMainServer" modelMemberIdentifier="type:TankWarMainServer" modifiers="public," packageName="" qualifiedName="TankWarMainServer"/>
+                <type deep="false" elementName="Integer" modelMemberIdentifier="type:java.lang.Integer" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.Integer"/>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List"/>
+                <type deep="false" elementName="System" modelMemberIdentifier="type:java.lang.System" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.System"/>
+                <type deep="false" elementName="Thread" modelMemberIdentifier="type:java.lang.Thread" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Thread"/>
+                <type deep="false" elementName="DataOutputStream" modelMemberIdentifier="type:java.io.DataOutputStream" modifiers="public," packageName="java.io" qualifiedName="java.io.DataOutputStream"/>
+            </outwardDependencies>
+        </type>
+        <nonRecursiveSubtypes/>
+        <nonRecursiveSupertypes>
+            <type deep="false" elementName="Object" modelMemberIdentifier="type:java.lang.Object" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Object"/>
+        </nonRecursiveSupertypes>
+        <outwardDependencies>
+            <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            <type deep="false" elementName="Socket" modelMemberIdentifier="type:java.net.Socket" modifiers="public," packageName="java.net" qualifiedName="java.net.Socket"/>
+            <type deep="false" elementName="IOException" modelMemberIdentifier="type:java.io.IOException" modifiers="public," packageName="java.io" qualifiedName="java.io.IOException"/>
+            <type deep="false" elementName="Runnable" modelMemberIdentifier="type:java.lang.Runnable" modifiers="abstract,public," packageName="java.lang" qualifiedName="java.lang.Runnable"/>
+            <type deep="false" elementName="ServerSocket" modelMemberIdentifier="type:java.net.ServerSocket" modifiers="public," packageName="java.net" qualifiedName="java.net.ServerSocket"/>
+            <type deep="false" elementName="DatagramPacket" modelMemberIdentifier="type:java.net.DatagramPacket" modifiers="final,public," packageName="java.net" qualifiedName="java.net.DatagramPacket"/>
+            <type deep="false" elementName="DataInputStream" modelMemberIdentifier="type:java.io.DataInputStream" modifiers="public," packageName="java.io" qualifiedName="java.io.DataInputStream"/>
+            <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            <type deep="false" elementName="InetSocketAddress" modelMemberIdentifier="type:java.net.InetSocketAddress" modifiers="public," packageName="java.net" qualifiedName="java.net.InetSocketAddress"/>
+            <type deep="false" elementName="BufferedWriter" modelMemberIdentifier="type:java.io.BufferedWriter" modifiers="public," packageName="java.io" qualifiedName="java.io.BufferedWriter"/>
+            <type deep="false" elementName="DatagramSocket" modelMemberIdentifier="type:java.net.DatagramSocket" modifiers="public," packageName="java.net" qualifiedName="java.net.DatagramSocket"/>
+            <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            <type deep="false" elementName="TankWarMainServer" modelMemberIdentifier="type:TankWarMainServer" modifiers="public," packageName="" qualifiedName="TankWarMainServer"/>
+            <type deep="false" elementName="Integer" modelMemberIdentifier="type:java.lang.Integer" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.Integer"/>
+            <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List"/>
+            <type deep="false" elementName="System" modelMemberIdentifier="type:java.lang.System" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.System"/>
+            <type deep="false" elementName="Thread" modelMemberIdentifier="type:java.lang.Thread" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Thread"/>
+            <type deep="false" elementName="DataOutputStream" modelMemberIdentifier="type:java.io.DataOutputStream" modifiers="public," packageName="java.io" qualifiedName="java.io.DataOutputStream"/>
+        </outwardDependencies>
+    </type>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB/0lEQVR4nJ2U70taYRTH/R/6F3qbiwVBDe4ititThiJiFiXaQjebzL2Zm9PwbpVFos2g8gfOZGxBIK1L1Kg5MCh8MbZFL1xkbEGjelP2xpff7vOIcteUXT1wOM95nnM/zznnOVyZ7Jp8PdrDQPwpVCETOsY1UE4bqU/2r8dKFm41RGEP3z2BM/W8osRve3Uf5Lwh6E2vAhzvwfL3JWQOvmD7cIvaxE4UXt6L5mdMfXBSJsn0RcqJ9P4Gqsnmz094+dFFM5fclr6oA+aEFW93IhXQRm4Nb9J+8LvL1P99/gu+9TEa9yDplAZmg0ZoZ42Iby9QyMFZHqa4paL29w5YkzaqvWEzSLwkMCmvdYRFMF3KeCufhdxzFy3uO1TJuo27h/ZRJZgJtbBWSc/4lk8tTICPgo/Oj3F7UgvGp6GazKaw9I2HIWaHImiQnjHpGTOhgTFmQ6F4WXqsXAbDH1wIfC5VcVEsYEA4186a8HiRkwbOnebpKOnmzMJkcNgXeiyWP4UT+DdnYAgP0TjxVIjjqsJH+GnI3SzYQA9MiUdwr4xibN1PLfF7BGj7azVInBgqszRRDWcWal9APrrhYYVyB6GPDEEvwIglPtkXQ8XgyA87mLnOvy74B07K1M3b0DVpQPdUH7X9ser/CjG4rOUKJL1BLakr40bA/+1xo/BqwCtkVQA98MkVlAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="type:TankWarBackupServer" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="field:TankWarBackupServer.BACKUP_CLIENTID" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAXElEQVR4nGNgGAXDD0w8se6/y8ISMAaxqWaoyYyM/507GsEYxKaK4SCDCjeW/ocBEBskRrHBAm2+YJfCAIgNEqPY4Nq98//DDIcZChKj2GCY4XKdQdQ1dBQMDQAAuNtV+eDB0jcAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:TankWarBackupServer.BACKUP_SERVER_IP" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAXElEQVR4nGNgGAXDD0w8se6/y8ISMAaxqWaoyYyM/507GsEYxKaK4SCDCjeW/ocBEBskRrHBAm2+YJfCAIgNEqPY4Nq98//DDIcZChKj2GCY4XKdQdQ1dBQMDQAAuNtV+eDB0jcAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:TankWarBackupServer.BackupAllClients" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankWarBackupServer.BackupServerList" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAXElEQVR4nGNgGAXDD0w8se6/y8ISMAaxqWaoyYyM/507GsEYxKaK4SCDCjeW/ocBEBskRrHBAm2+YJfCAIgNEqPY4Nq98//DDIcZChKj2GCY4XKdQdQ1dBQMDQAAuNtV+eDB0jcAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:TankWarBackupServer.INDIVIDLE_BACKUP_TCP_PORT_FOR_CLIENTS" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:TankWarBackupServer.MAX_CLIENTS" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAXElEQVR4nGNgGAXDD0w8se6/y8ISMAaxqWaoyYyM/507GsEYxKaK4SCDCjeW/ocBEBskRrHBAm2+YJfCAIgNEqPY4Nq98//DDIcZChKj2GCY4XKdQdQ1dBQMDQAAuNtV+eDB0jcAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:TankWarBackupServer.backupClients" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAXElEQVR4nGNgGAXDD0w8se6/y8ISMAaxqWaoyYyM/507GsEYxKaK4SCDCjeW/ocBEBskRrHBAm2+YJfCAIgNEqPY4Nq98//DDIcZChKj2GCY4XKdQdQ1dBQMDQAAuNtV+eDB0jcAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:TankWarBackupServer.backupServerID" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAXElEQVR4nGNgGAXDD0w8se6/y8ISMAaxqWaoyYyM/507GsEYxKaK4SCDCjeW/ocBEBskRrHBAm2+YJfCAIgNEqPY4Nq98//DDIcZChKj2GCY4XKdQdQ1dBQMDQAAuNtV+eDB0jcAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:TankWarBackupServer.backupUDPPort" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankWarBackupServer.bufferSize" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankWarBackupServer.dbBackupServer" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankWarBackupServer.dbClient" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankWarBackupServer.ms" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankWarBackupServer.s" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankWarBackupServer.writer" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:TankWarBackupServer.TankWarBackupServer(()V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:TankWarBackupServer.TankWarBackupServer((IIIQString;)V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAACGklEQVR4nKWU70tTYRTH/RMkSBDEFyX1Ko2EYASLoK6khGOJUtR102szf5C+8ZptsjumWzB0+aLQ6dymbS+C2/SiqdMFSrOgQKRwDlcmFOYbUYzo1bfneQbDROJuHfhynnOfw4dzzj335uQcsQ9bH3HX246KAQM0vTqUu3kW0+dHc1WbNDXAYI3jDyDKnWnRuNR2A/Q+K+gFaxkkxYLwygssbrxG7PMS875lD6yKFUUd2szgtE1a6UNZRDQRwXE2vz6LRxNdrHLVY7ntaYPRZ8Lo8lAaFIm/wpOoC8pqmMVfdzfhmOlhefUBUR2Y6+ehf8rDG/MzyMZOEgbvvbRag20wBZqYbg0aQfNVgWl757s59EdTFS8l36HYcg3nzFeZ6LlUuo6L9nJonZXkXKG+4kuOSrIBDgbe2v2Gy4/10Dp0TOZJF2xTbgTfT8ITC6JDdqoD05lpnTrww03Y+7WfelnxRTSHutC3kOri4PdPnG0J4UxzCG83V9SB4z+SbJWqnhnJZkhIkBkftu972zhtGoe+dw43iU41Ple/ct2KG8VmDlxfDQy++6R9O3pmXMx/2l5DoTAGTWcYGjGMwoaxzD4UCi+xcGRD6lA9JKB6UMBC4g3KbAoKBD8KGgJExAsB5Nf7MoMndr6gVbajxt8OeTWCNTKmk7VeXBFf/qU8w2j2/w5qJ/gRVEnTx4reZQ3OvTOMf+m/qs7G/gB9BMfr1PNhIQAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="type:TankWarBackupServer$Client" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankWarBackupServer$Client.IP" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankWarBackupServer$Client.s" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankWarBackupServer$Client.udpPort" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:TankWarBackupServer$Client.Client((QString;I)V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB+ElEQVR4nKWU70tTURjH/Td60bveGGkrQ/AHN6G6kiIOETWxcWeRtYjsjSu9k81fUwx/TPDXYq4hG2EN8xIVxgIHc5eMQnwxxYkKIgoiCtrLr+c54l5o4nE+8OGe57mHD8859+GmpByL36tzeOh5hUKXgqw2Iwp6TDyn+vG9wuH44uKyp6MvYQ2+TkB5RlMR6H1S0pv2fDg0G8b/jmFq8SciS2H+9E67YdfsuFInnU9Ox6RO3wStCC1M4n/xY/47Gj7X886Fr6XSXQuztwYj08MJ0WTsK3pDb6HNjvN8ZXsZzm+tfN8jn1VMLHebUNJvgifynksWN+NQPE8SvPDXosZn4TwYMoP2C4npeIZGGd2hw47DcR3ptntIU+9yaJ3huI/MlgJI7cVsXSjecY6zmE2Ak4tXt9dwu6MEktPI8elBjP3R4J+ZgDviZ3wQE9OdSe1GmN5ZsPNv9/BjxabwPFAPPV86lTPFsY04H6XSATObDAcW2B0fhX4nF/uurhNQXajrRq0H6aoMuascivcZ1IkWBGY+QpeyuWhPVRNwMasLiY/k120ym5BqlA0/xuivT4gabmGvzo6doirsMuhJOdWFxRQ0/KWDFuR1VGAwHEA09Qa2mpuxrigMM4fyaKoh+X8HRfTyNaz3dZ6A6hcTX7qK07iQONk4AOjDzcagMrmMAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="type:TankWarBackupServer$backupServerUDPReceiveThread" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankWarBackupServer$backupServerUDPReceiveThread.buffer" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:TankWarBackupServer$backupServerUDPReceiveThread.ds" width="22"/>
+</AgileJWebModel>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2014-十月-30 11:43" filterScript="// by composition generator&#10;hide dependency lines&#10;show types named TankClient in orange&#10;show bytecode types in gray&#10;show all interfaces in blue&#10;show abstract classes in pink&#10;hide all methods" generator="composition" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" seed="TankClient" version="1.7.17.v20140508-2136">
+        <class className="NetGameClient" project="1.9.20-9-FINAL" xLocation="30" yLocation="469"/>
+        <class className="Wall" project="1.9.20-9-FINAL" xLocation="273" yLocation="1168"/>
+        <class className="Tile" project="1.9.20-9-FINAL" xLocation="634" yLocation="1663"/>
+        <class className="ScoreAdding" project="1.9.20-9-FINAL" xLocation="1650" yLocation="30"/>
+        <class className="Missile" project="1.9.20-9-FINAL" xLocation="487" yLocation="594"/>
+        <class className="Tank" project="1.9.20-9-FINAL" xLocation="1613" yLocation="386"/>
+        <class className="missileRecovery2" project="1.9.20-9-FINAL" xLocation="1612" yLocation="1291"/>
+        <class className="Explosion" project="1.9.20-9-FINAL" xLocation="744" yLocation="1148"/>
+        <class className="BloodRecovery" project="1.9.20-9-FINAL" xLocation="2231" yLocation="489"/>
+        <class className="missileRecovery" project="1.9.20-9-FINAL" xLocation="1156" yLocation="1604"/>
+        <class className="SpeedUp" project="1.9.20-9-FINAL" xLocation="2001" yLocation="1281"/>
+        <class className="TankClient" project="1.9.20-9-FINAL" xLocation="1159" yLocation="338"/>
+        <class className="org.lightcouch.CouchDbClient" project="1.9.20-9-FINAL" xLocation="170" yLocation="123"/>
+    </diagram>
+</ajsv>

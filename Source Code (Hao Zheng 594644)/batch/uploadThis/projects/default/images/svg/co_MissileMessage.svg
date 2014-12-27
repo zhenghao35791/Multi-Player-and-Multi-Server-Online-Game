@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="1243" version="1.1" width="1469">
+    <path d=" M592 393 L592 393 L592 399 L594 399 L594 393 M590 396 L620 396 S630 396 638 400 L682 423 S691 428 701 428 L729 428 M711 434 L731 428 L711 421" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M592 393 L592 393 L592 399 L594 399 L594 393 M590 396 L620 396 S630 396 638 400 L682 423 S691 428 701 428 L729 428 M711 434 L731 428 L711 421" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d=" M1184 226 L1184 226 L1184 232 L1182 232 L1182 226 M1185 229 L1145 229 L630 291 L592 291 M610 284 L590 291 L610 297" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1184 226 L1184 226 L1184 232 L1182 232 L1182 226 M1185 229 L1145 229 L630 291 L592 291 M610 284 L590 291 L610 297" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d=" M1184 266 L1184 266 L1184 272 L1182 272 L1182 266 M1185 269 L1155 269 S1145 269 1138 276 L1089 332 S1083 340 1073 340 L1045 340 M1063 333 L1043 340 L1063 346" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1184 266 L1184 266 L1184 272 L1182 272 L1182 266 M1185 269 L1155 269 S1145 269 1138 276 L1089 332 S1083 340 1073 340 L1045 340 M1063 333 L1043 340 L1063 346" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d=" M730 380 L730 380 L730 386 L728 386 L728 380 M731 383 L701 383 S691 383 691 393 L691 1130 S691 1140 701 1140 L738 1140 M720 1146 L740 1140 L720 1133" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M730 380 L730 380 L730 386 L728 386 L728 380 M731 383 L701 383 S691 383 691 393 L691 1130 S691 1140 701 1140 L738 1140 M720 1146 L740 1140 L720 1133" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d=" M730 460 L730 460 L730 466 L728 466 L728 460 M731 463 L701 463 S691 463 682 458 L638 435 S630 431 620 431 L592 431 M610 424 L590 431 L610 437" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M730 460 L730 460 L730 466 L728 466 L728 460 M731 463 L701 463 S691 463 682 458 L638 435 S630 431 620 431 L592 431 M610 424 L590 431 L610 437" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d=" M730 520 L730 520 L730 526 L728 526 L728 520 M731 523 L701 523 S691 523 683 516 L637 473 S630 467 620 467 L592 467 M610 460 L590 467 L610 473 M629 467 L629 467 L617 472 L622 460 L627 472 L615 467 L627 462 L622 474 L617 462 L629 467" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M730 520 L730 520 L730 526 L728 526 L728 520 M731 523 L701 523 S691 523 683 516 L637 473 S630 467 620 467 L592 467 M610 460 L590 467 L610 473 M629 467 L629 467 L617 472 L622 460 L627 472 L615 467 L627 462 L622 474 L617 462 L629 467" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_1" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 178 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="414" opacity="0.8" style="fill:url(#lg_id_1)" width="530" x="60" y="113"/>
+    <rect fill="none" height="414" opacity="1" shape-rendering="crispEdges" stroke="#CEAE4C" stroke-width="2" width="530" x="60" y="113"/>
+    <path d="" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_2" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 206, 174, 76 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 76, 76, 76 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="31" opacity="0.8" style="fill:url(#lg_id_2)" width="528" x="62" y="115"/>
+    <defs>
+        <linearGradient id="lg_id_3" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 240, 240, 240 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="29" opacity="0.8" style="fill:url(#lg_id_3)" width="32" x="62" y="115"/>
+    <image height="19" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAABx0lEQVR4nOWU3yuDYRTH98e49SNqJTUSr0zaWtpGtjaWMWRujNm0lzGyzI/CWDNLKLXwJhOmKNqFSC5GJhThhrlx+fU+z7IkF6+59K3Tec7znD6dc97nfUSibzq+O4fG346KcR3yB+SQjmppTPa/5woWuzFOYY0LbbCEOlNG4rzeSpDztKC5jjKwnB2rpyvYv9rD4fUB9YGjWTg4BzI6JL+DkzZJpV0hCyKX2/hJOxdb6F6z0soFj6Vm1gx9wIi5o5kUaDu2ibGIG9zZKo1vX27gCvfTvPqgRRiY8WihmNTCfzhPIVfPcej8DSlrXTTDGDRRq/bqQfIFgUl7OT0MPJFkxQfxKLLspci0lVAj6zy2HGKnFJJBGb+uEF5xgUvG3wAXBd+93KNwSAGJS04tGA1h5YSD2teKMo9aeMVkZpJBObQ+ExLvb8mPFdtH85IVI7vJLl7fE9Dw54pJHVqWWWHg2FOcXqWqKT1/M1hc8jP+qofEI9w7E1B7DTTvVz9LDzeKLBsDZkQFXaAJtnUn+sNu6kms4qHiPhlInmDoV3i2neHbrYNyxgAlDyOexGQ/LeinSJtV0yYUDalRPFxDfa3vj2/F/9YHYK+OD5EVjdEAAAAASUVORK5CYII=" y="120"/>
+    <text fill="#F6F6F6" font-family="Arial" font-size="13" height="19" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="50" width="50" x="99" y="133">Missile</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="149"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="90" y="157">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="99" width="99" x="158" y="157">MISSILE_HEIGHT</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="169"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="90" y="177">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="92" width="92" x="158" y="177">MISSILE_WIDTH</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" y="189"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="50" width="50" x="90" y="197">boolean </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="61" width="61" x="158" y="197">MissileLive</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="209"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="90" y="217">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="48" width="48" x="158" y="217">XSPEED</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="229"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="90" y="237">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="48" width="48" x="158" y="237">YSPEED</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="249"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="53" width="53" x="90" y="257">Direction </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="14" width="14" x="158" y="257">dir</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="269"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="50" width="50" x="90" y="277">boolean </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="28" width="28" x="158" y="277">good</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="289"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="90" y="297">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="73" width="73" x="158" y="297">hitLoseBlood</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="309"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="90" y="317">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="53" width="53" x="158" y="317">missileID</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" y="329"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="46" width="46" x="90" y="337">Image[] </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="68" width="68" x="158" y="337">missileImgs</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="349"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="90" y="357">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="69" width="69" x="158" y="357">scoreTankID</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="369"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="90" y="377">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="35" width="35" x="158" y="377">tankID</text>
+    <path d=" M592 393 L592 393 L592 399 L594 399 L594 393 M590 396 L620 396" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M592 393 L592 393 L592 399 L594 399 L594 393 M590 396 L620 396" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" y="389"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="63" width="63" x="90" y="397">TankClient </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="9" width="9" x="158" y="397">tc</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" y="409"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="40" width="40" x="90" y="417">Toolkit </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="9" width="9" x="158" y="417">tk</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="429"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="90" y="437">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="6" width="6" x="158" y="437">x</text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="449"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="90" y="457">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="6" width="6" x="158" y="457">y</text>
+    <path d=" M64 474 L586 474" fill="none" opacity="1" stroke="rgb( 206, 174, 76 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" y="486"/>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="39" width="39" x="95" y="494">Missile</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="199" y="494">(</text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="203" y="494">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="220" y="494"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="12" width="12" x="224" y="494">x, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="236" y="494">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="253" y="494"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="11" width="11" x="257" y="494">y, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="53" width="53" x="268" y="494">Direction </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="321" y="494"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="14" width="14" x="325" y="494">dir</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="8" width="8" x="339" y="494">) </text>
+    <image height="14" width="22" x="67" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" y="506"/>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="39" width="39" x="95" y="514">Missile</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="199" y="514">(</text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="203" y="514">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="220" y="514"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="45" width="45" x="224" y="514">TankID, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="269" y="514">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="286" y="514"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="12" width="12" x="290" y="514">x, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="302" y="514">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="319" y="514"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="11" width="11" x="323" y="514">y, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="53" width="53" x="334" y="514">Direction </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="387" y="514"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="20" width="20" x="391" y="514">dir, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="63" width="63" x="411" y="514">TankClient </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="474" y="514"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="16" width="16" x="478" y="514">tc, </text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="50" width="50" x="494" y="514">boolean </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="544" y="514"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="28" width="28" x="548" y="514">good</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="8" width="8" x="576" y="514">) </text>
+    <defs>
+        <linearGradient id="lg_id_4" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 212, 140 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="154" opacity="0.8" style="fill:url(#lg_id_4)" width="224" x="1185" y="186"/>
+    <rect fill="none" height="154" opacity="1" shape-rendering="crispEdges" stroke="#D29251" stroke-width="2" width="224" x="1185" y="186"/>
+    <defs>
+        <linearGradient id="lg_id_5" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 210, 146, 81 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 76, 76, 76 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="31" opacity="0.8" style="fill:url(#lg_id_5)" width="222" x="1187" y="188"/>
+    <defs>
+        <linearGradient id="lg_id_6" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 240, 240, 240 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="29" opacity="0.8" style="fill:url(#lg_id_6)" width="32" x="1187" y="188"/>
+    <image height="19" width="22" x="1192" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAABx0lEQVR4nOWU3yuDYRTH98e49SNqJTUSr0zaWtpGtjaWMWRujNm0lzGyzI/CWDNLKLXwJhOmKNqFSC5GJhThhrlx+fU+z7IkF6+59K3Tec7znD6dc97nfUSibzq+O4fG346KcR3yB+SQjmppTPa/5woWuzFOYY0LbbCEOlNG4rzeSpDztKC5jjKwnB2rpyvYv9rD4fUB9YGjWTg4BzI6JL+DkzZJpV0hCyKX2/hJOxdb6F6z0soFj6Vm1gx9wIi5o5kUaDu2ibGIG9zZKo1vX27gCvfTvPqgRRiY8WihmNTCfzhPIVfPcej8DSlrXTTDGDRRq/bqQfIFgUl7OT0MPJFkxQfxKLLspci0lVAj6zy2HGKnFJJBGb+uEF5xgUvG3wAXBd+93KNwSAGJS04tGA1h5YSD2teKMo9aeMVkZpJBObQ+ExLvb8mPFdtH85IVI7vJLl7fE9Dw54pJHVqWWWHg2FOcXqWqKT1/M1hc8jP+qofEI9w7E1B7DTTvVz9LDzeKLBsDZkQFXaAJtnUn+sNu6kms4qHiPhlInmDoV3i2neHbrYNyxgAlDyOexGQ/LeinSJtV0yYUDalRPFxDfa3vj2/F/9YHYK+OD5EVjdEAAAAASUVORK5CYII=" y="193"/>
+    <text fill="#F6F6F6" font-family="Arial" font-size="13" height="19" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="115" width="115" x="1224" y="206">MissileMessage</text>
+    <path d=" M1184 226 L1184 226 L1184 232 L1182 232 L1182 226 M1185 229 L1145 229" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1184 226 L1184 226 L1184 232 L1182 232 L1182 226 M1185 229 L1145 229" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1192" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="222"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="41" width="41" x="1215" y="230">Missile </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="10" width="10" x="1283" y="230">m</text>
+    <image height="14" width="22" x="1192" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="242"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="1215" y="250">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="90" width="90" x="1283" y="250">messageTypeID</text>
+    <path d=" M1184 266 L1184 266 L1184 272 L1182 272 L1182 266 M1185 269 L1155 269" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M1184 266 L1184 266 L1184 272 L1182 272 L1182 266 M1185 269 L1155 269" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1192" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="262"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="63" width="63" x="1215" y="270">TankClient </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="9" width="9" x="1283" y="270">tc</text>
+    <path d=" M1189 287 L1405 287" fill="none" opacity="1" stroke="rgb( 210, 146, 81 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="1192" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" y="299"/>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="90" width="90" x="1220" y="307">MissileMessage</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="1315" y="307">(</text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="41" width="41" x="1319" y="307">Missile </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="1360" y="307"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="10" width="10" x="1364" y="307">m</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="8" width="8" x="1374" y="307">) </text>
+    <image height="14" width="22" x="1192" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" y="319"/>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="90" width="90" x="1220" y="327">MissileMessage</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="1315" y="327">(</text>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="63" width="63" x="1319" y="327">TankClient </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="1382" y="327"> </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="9" width="9" x="1386" y="327">tc</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="8" width="8" x="1395" y="327">) </text>
+    <defs>
+        <linearGradient id="lg_id_7" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 178 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="1123" opacity="0.8" style="fill:url(#lg_id_7)" width="312" x="731" y="60"/>
+    <rect fill="none" height="1123" opacity="1" shape-rendering="crispEdges" stroke="#CEAE4C" stroke-width="2" width="312" x="731" y="60"/>
+    <path d="" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d="" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_8" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 206, 174, 76 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 76, 76, 76 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="31" opacity="0.8" style="fill:url(#lg_id_8)" width="310" x="733" y="62"/>
+    <defs>
+        <linearGradient id="lg_id_9" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 240, 240, 240 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="29" opacity="0.8" style="fill:url(#lg_id_9)" width="32" x="733" y="62"/>
+    <image height="19" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB/0lEQVR4nJ2U70taYRTH/R/6F3qbiwVBDe4ititThiJiFiXaQjebzL2Zm9PwbpVFos2g8gfOZGxBIK1L1Kg5MCh8MbZFL1xkbEGjelP2xpff7vOIcteUXT1wOM95nnM/zznnOVyZ7Jp8PdrDQPwpVCETOsY1UE4bqU/2r8dKFm41RGEP3z2BM/W8osRve3Uf5Lwh6E2vAhzvwfL3JWQOvmD7cIvaxE4UXt6L5mdMfXBSJsn0RcqJ9P4Gqsnmz094+dFFM5fclr6oA+aEFW93IhXQRm4Nb9J+8LvL1P99/gu+9TEa9yDplAZmg0ZoZ42Iby9QyMFZHqa4paL29w5YkzaqvWEzSLwkMCmvdYRFMF3KeCufhdxzFy3uO1TJuo27h/ZRJZgJtbBWSc/4lk8tTICPgo/Oj3F7UgvGp6GazKaw9I2HIWaHImiQnjHpGTOhgTFmQ6F4WXqsXAbDH1wIfC5VcVEsYEA4186a8HiRkwbOnebpKOnmzMJkcNgXeiyWP4UT+DdnYAgP0TjxVIjjqsJH+GnI3SzYQA9MiUdwr4xibN1PLfF7BGj7azVInBgqszRRDWcWal9APrrhYYVyB6GPDEEvwIglPtkXQ8XgyA87mLnOvy74B07K1M3b0DVpQPdUH7X9ser/CjG4rOUKJL1BLakr40bA/+1xo/BqwCtkVQA98MkVlAAAAABJRU5ErkJggg==" y="67"/>
+    <text fill="#F6F6F6" font-family="Arial" font-size="13" height="19" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="75" width="75" x="770" y="80">TankClient</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="96"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="761" y="104">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="130" width="130" x="902" y="104">BACKGROUD_HEIGHT</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="116"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="761" y="124">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="123" width="123" x="902" y="124">BACKGROUD_WIDTH</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="136"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="761" y="144">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="122" width="122" x="902" y="144">FRAME_LOCATION_X</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="156"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="761" y="164">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="122" width="122" x="902" y="164">FRAME_LOCATION_Y</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="176"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="761" y="184">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="89" width="89" x="902" y="184">FRAME_SIZE_X</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="196"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="761" y="204">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="89" width="89" x="902" y="204">FRAME_SIZE_Y</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" y="216"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="46" width="46" x="761" y="224">Image[] </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="69" width="69" x="902" y="224">FrontImages</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="236"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="761" y="244">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="32" width="32" x="902" y="244">TileID</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" y="256"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="761" y="264">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="48" width="48" x="902" y="264">WALL_X</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAk0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAMCgmnlj332VhCRiD2PgMJjqMQQaZzMj437mjEYxBbFyGgwx51rsAHhQgNk6DQQYVbiyFuwLEBonhDRNigECbL9ilMABig8QoNrh27/z/MMNhhoLEKDYYZrhcZxB1DR0FQwMAAG0T4QGQSGm/AAAAAElFTkSuQmCC" y="276"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="761" y="284">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="48" width="48" x="902" y="284">WALL_Y</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" y="296"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="46" width="46" x="761" y="304">Image[] </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="65" width="65" x="902" y="304">background</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="316"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="88" width="88" x="761" y="324">BloodRecovery </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="82" width="82" x="902" y="324">bloodRecovery</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="336"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="89" width="89" x="761" y="344">CouchDbClient </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="90" width="90" x="902" y="344">dbBackupServer</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="356"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="89" width="89" x="761" y="364">CouchDbClient </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="80" width="80" x="902" y="364">dbNameScore</text>
+    <path d=" M730 380 L730 380 L730 386 L728 386 L728 380 M731 383 L701 383" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M730 380 L730 380 L730 386 L728 386 L728 380 M731 383 L701 383" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="376"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="136" width="136" x="761" y="384">TankClient$ConnDialog </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="34" width="34" x="902" y="384">dialog</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="396"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="91" width="91" x="761" y="404">List&lt;Explosion&gt; </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="59" width="59" x="902" y="404">explosions</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="416"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="70" width="70" x="761" y="424">InetAddress </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="10" width="10" x="902" y="424">ia</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="436"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="36" width="36" x="761" y="444">String </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="55" width="55" x="902" y="444">ipAddress</text>
+    <path d=" M730 460 L730 460 L730 466 L728 466 L728 460 M731 463 L701 463" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M730 460 L730 460 L730 466 L728 466 L728 460 M731 463 L701 463" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="456"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="41" width="41" x="761" y="464">Missile </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="10" width="10" x="902" y="464">m</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="476"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="95" width="95" x="761" y="484">missileRecovery </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="92" width="92" x="902" y="484">missileRecovery</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="496"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="102" width="102" x="761" y="504">missileRecovery2 </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="98" width="98" x="902" y="504">missileRecovery2</text>
+    <path d=" M730 520 L730 520 L730 526 L728 526 L728 520 M731 523 L701 523" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M730 520 L730 520 L730 526 L728 526 L728 520 M731 523 L701 523" fill="none" opacity="1" stroke="rgb( 216, 107, 107 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="516"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="74" width="74" x="761" y="524">List&lt;Missile&gt; </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="47" width="47" x="902" y="524">missiles</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="536"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="31" width="31" x="761" y="544">Tank </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="42" width="42" x="902" y="544">myTank</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="556"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="36" width="36" x="761" y="564">String </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="129" width="129" x="902" y="564">myUDPPortFromDialog</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="576"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="89" width="89" x="761" y="584">NetGameClient </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="20" width="20" x="902" y="584">ngc</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="596"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="40" width="40" x="761" y="604">Image </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="52" width="52" x="902" y="604">offScreen</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" y="616"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="52" width="52" x="761" y="624">Random </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="4" width="4" x="902" y="624">r</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="636"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="17" width="17" x="761" y="644">int </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="57" width="57" x="902" y="644">randomInt</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="656"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="75" width="75" x="761" y="664">ScoreAdding </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="69" width="69" x="902" y="664">scoreAdding</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAiElEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCZIOJCWOiDLvh5P8fhkHgWe8CeFCA2OhBQZLBj8sbwBpANIhPkjfxGYwMqGowzMXPOyZQ12B0TBWDR8HgBwDoDS/D0GPxBAAAAABJRU5ErkJggg==" y="676"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="28" width="28" x="761" y="684">long </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="93" width="93" x="902" y="684">serialVersionUID</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="696"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="56" width="56" x="761" y="704">SpeedUp </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="51" width="51" x="902" y="704">speedUp</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="716"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="36" width="36" x="761" y="724">String </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="25" width="25" x="902" y="724">sytle</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="736"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="64" width="64" x="761" y="744">List&lt;Tank&gt; </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="29" width="29" x="902" y="744">tanks</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="756"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="57" width="57" x="761" y="764">List&lt;Tile&gt; </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="22" width="22" x="902" y="764">tiles</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAZ0lEQVR4nGNgoBD8B4IPe47/P86kC8YgNghQai7YYJCBMABjU91gGKCKwTQLCmRAs6AgaPANJ///6BiXwc96F8CDAsQmaPDj8gawIhCNy2CSAcggZEBVg2Euft4xgboGExPGo2AYAgDWP9D+w7zfUAAAAABJRU5ErkJggg==" y="776"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="40" width="40" x="761" y="784">Toolkit </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="9" width="9" x="902" y="784">tk</text>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="796"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="61" width="61" x="761" y="804">List&lt;Wall&gt; </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="28" width="28" x="902" y="804">walls</text>
+    <path d=" M735 821 L1039 821" fill="none" opacity="1" stroke="rgb( 206, 174, 76 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="738" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" y="833"/>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="59" width="59" x="766" y="841">TankClient</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="15" width="15" x="901" y="841">( ) </text>
+    <path d=" M735 858 L1039 858" fill="none" opacity="1" stroke="rgb( 206, 174, 76 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_10" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 178 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="54" opacity="0.8" style="fill:url(#lg_id_10)" width="131" x="740" y="872"/>
+    <rect fill="none" height="54" opacity="1" shape-rendering="crispEdges" stroke="#CEAE4C" stroke-width="2" width="131" x="740" y="872"/>
+    <defs>
+        <linearGradient id="lg_id_11" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 206, 174, 76 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 76, 76, 76 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="31" opacity="0.8" style="fill:url(#lg_id_11)" width="129" x="742" y="874"/>
+    <defs>
+        <linearGradient id="lg_id_12" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 240, 240, 240 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="29" opacity="0.8" style="fill:url(#lg_id_12)" width="32" x="742" y="874"/>
+    <image height="19" width="22" x="747" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB+ElEQVR4nKWU70tTURjH/Td60bveGGkrQ/AHN6G6kiIOETWxcWeRtYjsjSu9k81fUwx/TPDXYq4hG2EN8xIVxgIHc5eMQnwxxYkKIgoiCtrLr+c54l5o4nE+8OGe57mHD8859+GmpByL36tzeOh5hUKXgqw2Iwp6TDyn+vG9wuH44uKyp6MvYQ2+TkB5RlMR6H1S0pv2fDg0G8b/jmFq8SciS2H+9E67YdfsuFInnU9Ox6RO3wStCC1M4n/xY/47Gj7X886Fr6XSXQuztwYj08MJ0WTsK3pDb6HNjvN8ZXsZzm+tfN8jn1VMLHebUNJvgifynksWN+NQPE8SvPDXosZn4TwYMoP2C4npeIZGGd2hw47DcR3ptntIU+9yaJ3huI/MlgJI7cVsXSjecY6zmE2Ak4tXt9dwu6MEktPI8elBjP3R4J+ZgDviZ3wQE9OdSe1GmN5ZsPNv9/BjxabwPFAPPV86lTPFsY04H6XSATObDAcW2B0fhX4nF/uurhNQXajrRq0H6aoMuascivcZ1IkWBGY+QpeyuWhPVRNwMasLiY/k120ym5BqlA0/xuivT4gabmGvzo6doirsMuhJOdWFxRQ0/KWDFuR1VGAwHEA09Qa2mpuxrigMM4fyaKoh+X8HRfTyNaz3dZ6A6hcTX7qK07iQONk4AOjDzcagMrmMAAAAAElFTkSuQmCC" y="879"/>
+    <text fill="#F6F6F6" font-family="Arial" font-size="13" height="19" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="85" width="85" x="779" y="892">TankThread</text>
+    <path d=" M744 913 L867 913" fill="none" opacity="1" stroke="rgb( 206, 174, 76 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_13" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 178 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="54" opacity="0.8" style="fill:url(#lg_id_13)" width="129" x="740" y="936"/>
+    <rect fill="none" height="54" opacity="1" shape-rendering="crispEdges" stroke="#CEAE4C" stroke-width="2" width="129" x="740" y="936"/>
+    <defs>
+        <linearGradient id="lg_id_14" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 206, 174, 76 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 76, 76, 76 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="31" opacity="0.8" style="fill:url(#lg_id_14)" width="127" x="742" y="938"/>
+    <defs>
+        <linearGradient id="lg_id_15" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 240, 240, 240 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="29" opacity="0.8" style="fill:url(#lg_id_15)" width="32" x="742" y="938"/>
+    <image height="19" width="22" x="747" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB+ElEQVR4nKWU70tTURjH/Td60bveGGkrQ/AHN6G6kiIOETWxcWeRtYjsjSu9k81fUwx/TPDXYq4hG2EN8xIVxgIHc5eMQnwxxYkKIgoiCtrLr+c54l5o4nE+8OGe57mHD8859+GmpByL36tzeOh5hUKXgqw2Iwp6TDyn+vG9wuH44uKyp6MvYQ2+TkB5RlMR6H1S0pv2fDg0G8b/jmFq8SciS2H+9E67YdfsuFInnU9Ox6RO3wStCC1M4n/xY/47Gj7X886Fr6XSXQuztwYj08MJ0WTsK3pDb6HNjvN8ZXsZzm+tfN8jn1VMLHebUNJvgifynksWN+NQPE8SvPDXosZn4TwYMoP2C4npeIZGGd2hw47DcR3ptntIU+9yaJ3huI/MlgJI7cVsXSjecY6zmE2Ak4tXt9dwu6MEktPI8elBjP3R4J+ZgDviZ3wQE9OdSe1GmN5ZsPNv9/BjxabwPFAPPV86lTPFsY04H6XSATObDAcW2B0fhX4nF/uurhNQXajrRq0H6aoMuascivcZ1IkWBGY+QpeyuWhPVRNwMasLiY/k120ym5BqlA0/xuivT4gabmGvzo6doirsMuhJOdWFxRQ0/KWDFuR1VGAwHEA09Qa2mpuxrigMM4fyaKoh+X8HRfTyNaz3dZ6A6hcTX7qK07iQONk4AOjDzcagMrmMAAAAAElFTkSuQmCC" y="943"/>
+    <text fill="#F6F6F6" font-family="Arial" font-size="13" height="19" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="83" width="83" x="779" y="956">KeyMonitor</text>
+    <path d=" M744 977 L865 977" fill="none" opacity="1" stroke="rgb( 206, 174, 76 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_16" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 178 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="174" opacity="0.8" style="fill:url(#lg_id_16)" width="192" x="740" y="1000"/>
+    <rect fill="none" height="174" opacity="1" shape-rendering="crispEdges" stroke="#CEAE4C" stroke-width="2" width="192" x="740" y="1000"/>
+    <path d=" M701 1140 L738 1140 M720 1146 L740 1140 L720 1133" fill="none" opacity="0.59" stroke="white" stroke-linecap="round" stroke-width="6" style="stroke-antialiasing:true"/>
+    <path d=" M701 1140 L738 1140 M720 1146 L740 1140 L720 1133" fill="none" opacity="1" stroke="rgb( 173, 118, 118 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <defs>
+        <linearGradient id="lg_id_17" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 206, 174, 76 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 76, 76, 76 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="31" opacity="0.8" style="fill:url(#lg_id_17)" width="190" x="742" y="1002"/>
+    <defs>
+        <linearGradient id="lg_id_18" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb( 246, 246, 246 );stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb( 240, 240, 240 );stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect height="29" opacity="0.8" style="fill:url(#lg_id_18)" width="32" x="742" y="1002"/>
+    <image height="19" width="22" x="747" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAACGklEQVR4nKWU70tTYRTH/RMkSBDEFyX1Ko2EYASLoK6khGOJUtR102szf5C+8ZptsjumWzB0+aLQ6dymbS+C2/SiqdMFSrOgQKRwDlcmFOYbUYzo1bfneQbDROJuHfhynnOfw4dzzj335uQcsQ9bH3HX246KAQM0vTqUu3kW0+dHc1WbNDXAYI3jDyDKnWnRuNR2A/Q+K+gFaxkkxYLwygssbrxG7PMS875lD6yKFUUd2szgtE1a6UNZRDQRwXE2vz6LRxNdrHLVY7ntaYPRZ8Lo8lAaFIm/wpOoC8pqmMVfdzfhmOlhefUBUR2Y6+ehf8rDG/MzyMZOEgbvvbRag20wBZqYbg0aQfNVgWl757s59EdTFS8l36HYcg3nzFeZ6LlUuo6L9nJonZXkXKG+4kuOSrIBDgbe2v2Gy4/10Dp0TOZJF2xTbgTfT8ITC6JDdqoD05lpnTrww03Y+7WfelnxRTSHutC3kOri4PdPnG0J4UxzCG83V9SB4z+SbJWqnhnJZkhIkBkftu972zhtGoe+dw43iU41Ple/ct2KG8VmDlxfDQy++6R9O3pmXMx/2l5DoTAGTWcYGjGMwoaxzD4UCi+xcGRD6lA9JKB6UMBC4g3KbAoKBD8KGgJExAsB5Nf7MoMndr6gVbajxt8OeTWCNTKmk7VeXBFf/qU8w2j2/w5qJ/gRVEnTx4reZQ3OvTOMf+m/qs7G/gB9BMfr1PNhIQAAAABJRU5ErkJggg==" y="1007"/>
+    <text fill="#F6F6F6" font-family="Arial" font-size="13" height="19" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="86" width="86" x="779" y="1020">ConnDialog</text>
+    <image height="14" width="22" x="747" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="1036"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="39" width="39" x="770" y="1044">Button </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="7" width="7" x="828" y="1044">b</text>
+    <image height="14" width="22" x="747" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAiElEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCZIOJCWOiDLvh5P8fhkHgWe8CeFCA2OhBQZLBj8sbwBpANIhPkjfxGYwMqGowzMXPOyZQ12B0TBWDR8HgBwDoDS/D0GPxBAAAAABJRU5ErkJggg==" y="1056"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="28" width="28" x="770" y="1064">long </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="93" width="93" x="828" y="1064">serialVersionUID</text>
+    <image height="14" width="22" x="747" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="1076"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="53" width="53" x="770" y="1084">TextField </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="18" width="18" x="828" y="1084">tfIP</text>
+    <image height="14" width="22" x="747" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="1096"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="53" width="53" x="770" y="1104">TextField </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="69" width="69" x="828" y="1104">tfMyUDPPort</text>
+    <image height="14" width="22" x="747" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" y="1116"/>
+    <text fill="#7676AD" font-family="Arial" font-size="9" font-style="italic" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="53" width="53" x="770" y="1124">TextField </text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="29" width="29" x="828" y="1124">tfPort</text>
+    <path d=" M744 1141 L928 1141" fill="none" opacity="1" stroke="rgb( 206, 174, 76 )" stroke-linecap="round" stroke-width="2" style="stroke-antialiasing:true"/>
+    <image height="14" width="22" x="747" xlink:href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" y="1153"/>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="66" width="66" x="775" y="1161">ConnDialog</text>
+    <text fill="#4C4C4C" font-family="Arial" font-size="9" height="14" lengthAdjust="spacingAndGlyphs" shape-rendering="crispEdges" style=" dominant-baseline: alphabetic;" textLength="15" width="15" x="873" y="1161">( ) </text>
+</svg>

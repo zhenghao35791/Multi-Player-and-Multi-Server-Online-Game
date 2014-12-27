@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Batch cleanResults="false" exportPng="true" exportSvg="true" restrictPopulation="true" zipUpResults="true">
+    <CreateBy createByType="package" inwards="false" outwards="false">
+        <SeedTypeSelectorAndSwitchValues elementSelector="top level source types" switchValues=""/>
+        <PopulationTypeSelectorAndSwitchValues elementSelector="non java star package types" switchValues=""/>
+    </CreateBy>
+    <CreateBy createByType="inheritance" inwards="true" outwards="true">
+        <SeedTypeSelectorAndSwitchValues elementSelector="top level source types" switchValues=""/>
+        <PopulationTypeSelectorAndSwitchValues elementSelector="non java star package types" switchValues=""/>
+    </CreateBy>
+    <CreateBy createByType="composition" inwards="false" outwards="false">
+        <SeedTypeSelectorAndSwitchValues elementSelector="top level source types" switchValues=""/>
+        <PopulationTypeSelectorAndSwitchValues elementSelector="non java star package types" switchValues=""/>
+    </CreateBy>
+    <CreateBy createByType="dependency" inwards="true" outwards="true">
+        <SeedTypeSelectorAndSwitchValues elementSelector="top level source types" switchValues=""/>
+        <PopulationTypeSelectorAndSwitchValues elementSelector="non java star package types" switchValues=""/>
+    </CreateBy>
+    <Project name="1.9.20-9-FINAL"/>
+</Batch>

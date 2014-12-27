@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2014-十月-30 11:43" filterScript="// by dependency generator&#10;hide field lines&#10;hide inheritance lines&#10;show types named Missile in orange&#10;show bytecode types in gray&#10;show all interfaces in blue&#10;show abstract classes in pink" generator="dependency" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" seed="Missile" version="1.7.17.v20140508-2136">
+        <class className="Wall" project="1.9.20-9-FINAL" xLocation="66" yLocation="379"/>
+        <class className="TankScoreMessage" project="1.9.20-9-FINAL" xLocation="30" yLocation="1013"/>
+        <class className="Tile" project="1.9.20-9-FINAL" xLocation="1897" yLocation="430"/>
+        <class className="MissileMessage" project="1.9.20-9-FINAL" xLocation="752" yLocation="1127"/>
+        <class className="Missile" project="1.9.20-9-FINAL" xLocation="674" yLocation="427"/>
+        <class className="Tank" project="1.9.20-9-FINAL" xLocation="139" yLocation="1367"/>
+        <class className="Explosion" project="1.9.20-9-FINAL" xLocation="1901" yLocation="30"/>
+        <class className="MissileDeadMessage" project="1.9.20-9-FINAL" xLocation="2529" yLocation="400"/>
+        <class className="Direction" project="1.9.20-9-FINAL" xLocation="1103" yLocation="1479"/>
+        <class className="TankClient" project="1.9.20-9-FINAL" xLocation="1351" yLocation="56"/>
+        <class className="BloodMessage" project="1.9.20-9-FINAL" xLocation="744" yLocation="53"/>
+    </diagram>
+</ajsv>

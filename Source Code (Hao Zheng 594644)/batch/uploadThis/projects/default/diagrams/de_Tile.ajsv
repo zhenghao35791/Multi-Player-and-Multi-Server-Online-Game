@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2014-十月-30 11:43" filterScript="// by dependency generator&#10;hide field lines&#10;hide inheritance lines&#10;show types named Tile in orange&#10;show bytecode types in gray&#10;show all interfaces in blue&#10;show abstract classes in pink" generator="dependency" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" seed="Tile" version="1.7.17.v20140508-2136">
+        <class className="Wall" project="1.9.20-9-FINAL" xLocation="834" yLocation="1453"/>
+        <class className="Tile" project="1.9.20-9-FINAL" xLocation="1243" yLocation="426"/>
+        <class className="Missile" project="1.9.20-9-FINAL" xLocation="30" yLocation="136"/>
+        <class className="Tank" project="1.9.20-9-FINAL" xLocation="80" yLocation="835"/>
+        <class className="MissileDeadMessage" project="1.9.20-9-FINAL" xLocation="1249" yLocation="71"/>
+        <class className="Explosion" project="1.9.20-9-FINAL" xLocation="1869" yLocation="426"/>
+        <class className="TILE_DEAD_MESSAGE" project="1.9.20-9-FINAL" xLocation="2406" yLocation="425"/>
+        <class className="TankClient" project="1.9.20-9-FINAL" xLocation="701" yLocation="30"/>
+    </diagram>
+</ajsv>

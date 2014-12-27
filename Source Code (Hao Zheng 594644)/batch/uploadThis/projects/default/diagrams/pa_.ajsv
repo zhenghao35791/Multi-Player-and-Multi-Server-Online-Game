@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2014-十月-30 11:44" filterScript="// By Package generator&#10;hide dependency lines&#10;show all interfaces in blue&#10;show abstract classes in pink" generator="package" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" version="1.7.17.v20140508-2136">
+        <class className="NetGameClient" project="1.9.20-9-FINAL" xLocation="4381" yLocation="1304"/>
+        <class className="Message" project="1.9.20-9-FINAL" xLocation="668" yLocation="411"/>
+        <class className="TankWarMainServer" project="1.9.20-9-FINAL" xLocation="4326" yLocation="495"/>
+        <class className="Wall" project="1.9.20-9-FINAL" xLocation="1425" yLocation="1746"/>
+        <class className="TankNewMessage" project="1.9.20-9-FINAL" xLocation="1385" yLocation="607"/>
+        <class className="ScoringAddingMessage" project="1.9.20-9-FINAL" xLocation="30" yLocation="983"/>
+        <class className="Tank" project="1.9.20-9-FINAL" xLocation="2000" yLocation="30"/>
+        <class className="MissileRecoveryMessage" project="1.9.20-9-FINAL" xLocation="232" yLocation="1320"/>
+        <class className="MissileDeadMessage" project="1.9.20-9-FINAL" xLocation="668" yLocation="944"/>
+        <class className="Explosion" project="1.9.20-9-FINAL" xLocation="2621" yLocation="2011"/>
+        <class className="MissileRecovery2Message" project="1.9.20-9-FINAL" xLocation="736" yLocation="1663"/>
+        <class className="Direction" project="1.9.20-9-FINAL" xLocation="2612" yLocation="910"/>
+        <class className="TankClient" project="1.9.20-9-FINAL" xLocation="2060" yLocation="1285"/>
+        <class className="Tile" project="1.9.20-9-FINAL" xLocation="1384" yLocation="2776"/>
+        <class className="missileRecovery2" project="1.9.20-9-FINAL" xLocation="1477" yLocation="1287"/>
+        <class className="TankWarBackupServer" project="1.9.20-9-FINAL" xLocation="3517" yLocation="480"/>
+        <class className="TILE_DEAD_MESSAGE" project="1.9.20-9-FINAL" xLocation="94" yLocation="1732"/>
+        <class className="BloodMessage" project="1.9.20-9-FINAL" xLocation="2633" yLocation="496"/>
+        <class className="BloodRecoveryMessage" project="1.9.20-9-FINAL" xLocation="1356" yLocation="951"/>
+        <class className="TankDeadMessage" project="1.9.20-9-FINAL" xLocation="796" yLocation="2096"/>
+        <class className="ScoreAdding" project="1.9.20-9-FINAL" xLocation="3283" yLocation="1353"/>
+        <class className="Missile" project="1.9.20-9-FINAL" xLocation="2604" yLocation="1287"/>
+        <class className="SpeedUpMessage" project="1.9.20-9-FINAL" xLocation="1428" yLocation="2417"/>
+        <class className="BloodRecovery" project="1.9.20-9-FINAL" xLocation="3201" yLocation="2008"/>
+        <class className="missileRecovery" project="1.9.20-9-FINAL" xLocation="2039" yLocation="2711"/>
+        <class className="SpeedUp" project="1.9.20-9-FINAL" xLocation="3842" yLocation="1352"/>
+        <class className="TankScoreMessage" project="1.9.20-9-FINAL" xLocation="1386" yLocation="109"/>
+        <class className="MissileMessage" project="1.9.20-9-FINAL" xLocation="880" yLocation="1303"/>
+        <class className="TankMoveMessage" project="1.9.20-9-FINAL" xLocation="2887" yLocation="865"/>
+    </diagram>
+</ajsv>

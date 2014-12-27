@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AgileJWebModel version="1.7.17.v20140508-2136">
+    <type deep="true" elementName="NetGameClient" isBinary="false" isDeprecated="false" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient">
+        <filters>
+            <filter signature="all classes"/>
+            <filter signature="all types"/>
+            <filter signature="concrete classes"/>
+            <filter signature="inner types named {type-name}" switchValues="NetGameClient"/>
+            <filter signature="non java star package types"/>
+            <filter signature="public types"/>
+            <filter signature="source code types"/>
+            <filter signature="top level source types"/>
+            <filter signature="top level types"/>
+            <filter signature="types named {type-name-pattern}" switchValues="NetGameClient"/>
+        </filters>
+        <outermostType>
+            <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+        </outermostType>
+        <field deep="true" elementName="r" fieldLineTooltipDescription="NetGameClient.r&#10;references one&#10;Random" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:NetGameClient.r" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="r"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Random" modelMemberIdentifier="type:java.util.Random" modifiers="public," packageName="java.util" qualifiedName="java.util.Random"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Random" modelMemberIdentifier="type:java.util.Random" modifiers="public," packageName="java.util" qualifiedName="java.util.Random"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="bufferSize" fieldLineTooltipDescription="NetGameClient.bufferSize&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:NetGameClient.bufferSize" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="bufferSize"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="s" fieldLineTooltipDescription="NetGameClient.s&#10;references one&#10;Socket" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:NetGameClient.s" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="s"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Socket" modelMemberIdentifier="type:java.net.Socket" modifiers="public," packageName="java.net" qualifiedName="java.net.Socket"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Socket" modelMemberIdentifier="type:java.net.Socket" modifiers="public," packageName="java.net" qualifiedName="java.net.Socket"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="udpPort" fieldLineTooltipDescription="NetGameClient.udpPort&#10;references one&#10;int" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:NetGameClient.udpPort" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="udpPort"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="tc" fieldLineTooltipDescription="NetGameClient.tc&#10;references one&#10;TankClient" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:NetGameClient.tc" modifiers="private,">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="tc"/>
+                <filter signature="private fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="ds" fieldLineTooltipDescription="NetGameClient.ds&#10;references one&#10;DatagramSocket" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:NetGameClient.ds" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="ds"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="DatagramSocket" modelMemberIdentifier="type:java.net.DatagramSocket" modifiers="public," packageName="java.net" qualifiedName="java.net.DatagramSocket"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="DatagramSocket" modelMemberIdentifier="type:java.net.DatagramSocket" modifiers="public," packageName="java.net" qualifiedName="java.net.DatagramSocket"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="dbBackupServer" fieldLineTooltipDescription="NetGameClient.dbBackupServer&#10;references one&#10;CouchDbClient" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:NetGameClient.dbBackupServer" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="dbBackupServer"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="exist" fieldLineTooltipDescription="NetGameClient.exist&#10;references one&#10;boolean" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:NetGameClient.exist" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="exist"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="boolean" modelMemberIdentifier="type:boolean" modifiers="" packageName="" qualifiedName="boolean"/>
+            </containedType>
+        </field>
+        <method deep="true" elementName="getUdpPort" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:NetGameClient.getUdpPort(()I)" modifiers="public,">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="getter methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="getUdpPort"/>
+                <filter signature="methods of {method-owner}" switchValues="NetGameClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </declarer>
+            <return>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </return>
+        </method>
+        <method deep="true" elementName="setUdpPort" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:NetGameClient.setUdpPort((I)V)" modifiers="public," parameterNames="udpPort">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="setUdpPort"/>
+                <filter signature="methods of {method-owner}" switchValues="NetGameClient"/>
+                <filter signature="public methods"/>
+                <filter signature="setter methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="NetGameClient" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:NetGameClient.NetGameClient((QTankClient;)V)" modifiers="public," parameterNames="tc">
+            <filters>
+                <filter signature="constructors"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="NetGameClient"/>
+                <filter signature="methods of {method-owner}" switchValues="NetGameClient"/>
+                <filter signature="non default constructors"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </parameterTypes>
+        </method>
+        <method deep="true" elementName="connectToServer" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:NetGameClient.connectToServer((QString;I)V)" modifiers="public," parameterNames="IP,TCPport">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="connectToServer"/>
+                <filter signature="methods of {method-owner}" switchValues="NetGameClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="int" modelMemberIdentifier="type:int" modifiers="" packageName="" qualifiedName="int"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <method deep="true" elementName="send" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:NetGameClient.send((QMessage;)V)" modifiers="public," parameterNames="message">
+            <filters>
+                <filter signature="all methods"/>
+                <filter signature="methods named {method-name-pattern}" switchValues="send"/>
+                <filter signature="methods of {method-owner}" switchValues="NetGameClient"/>
+                <filter signature="public methods"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </declarer>
+            <parameterTypes>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            </parameterTypes>
+            <return>
+                <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+            </return>
+        </method>
+        <type deep="true" elementName="ClientReceiveUDPMessageThread" isBinary="false" isDeprecated="false" modelMemberIdentifier="type:NetGameClient$ClientReceiveUDPMessageThread" modifiers="private," packageName="" qualifiedName="NetGameClient$ClientReceiveUDPMessageThread">
+            <filters>
+                <filter signature="all classes"/>
+                <filter signature="all types"/>
+                <filter signature="classes with a default constructor"/>
+                <filter signature="concrete classes"/>
+                <filter signature="inner types"/>
+                <filter signature="inner types named {type-name}" switchValues="ClientReceiveUDPMessageThread"/>
+                <filter signature="non java star package types"/>
+                <filter signature="private types"/>
+                <filter signature="source code types"/>
+                <filter signature="types named {type-name-pattern}" switchValues="ClientReceiveUDPMessageThread"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </declarer>
+            <outermostType>
+                <type deep="false" elementName="NetGameClient" modelMemberIdentifier="type:NetGameClient" modifiers="public," packageName="" qualifiedName="NetGameClient"/>
+            </outermostType>
+            <field deep="true" elementName="buffer" fieldLineTooltipDescription="ClientReceiveUDPMessageThread.buffer&#10;references many&#10;byte[]" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:NetGameClient$ClientReceiveUDPMessageThread.buffer" modifiers="">
+                <filters>
+                    <filter signature="all fields"/>
+                    <filter signature="fields named {field-name-pattern}" switchValues="buffer"/>
+                    <filter signature="one to many fields"/>
+                    <filter signature="package visible fields"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="ClientReceiveUDPMessageThread" modelMemberIdentifier="type:NetGameClient$ClientReceiveUDPMessageThread" modifiers="private," packageName="" qualifiedName="NetGameClient$ClientReceiveUDPMessageThread"/>
+                </declarer>
+                <rawType>
+                    <type deep="false" elementName="byte[]" modelMemberIdentifier="type:byte[]" modifiers="" packageName="" qualifiedName="byte[]"/>
+                </rawType>
+                <containedType>
+                    <type deep="false" elementName="byte" modelMemberIdentifier="type:byte" modifiers="" packageName="" qualifiedName="byte"/>
+                </containedType>
+            </field>
+            <method deep="true" elementName="run" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:NetGameClient$ClientReceiveUDPMessageThread.run(()V)" modifiers="public,">
+                <filters>
+                    <filter signature="all methods"/>
+                    <filter signature="methods named {method-name-pattern}" switchValues="run"/>
+                    <filter signature="methods of {method-owner}" switchValues="ClientReceiveUDPMessageThread"/>
+                    <filter signature="public methods"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="ClientReceiveUDPMessageThread" modelMemberIdentifier="type:NetGameClient$ClientReceiveUDPMessageThread" modifiers="private," packageName="" qualifiedName="NetGameClient$ClientReceiveUDPMessageThread"/>
+                </declarer>
+                <return>
+                    <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+                </return>
+            </method>
+            <method deep="true" elementName="parse" isBinary="false" isDeprecated="false" modelMemberIdentifier="method:NetGameClient$ClientReceiveUDPMessageThread.parse((QDatagramPacket;)V)" modifiers="private," parameterNames="dp">
+                <filters>
+                    <filter signature="all methods"/>
+                    <filter signature="methods named {method-name-pattern}" switchValues="parse"/>
+                    <filter signature="methods of {method-owner}" switchValues="ClientReceiveUDPMessageThread"/>
+                    <filter signature="private methods"/>
+                </filters>
+                <declarer>
+                    <type deep="false" elementName="ClientReceiveUDPMessageThread" modelMemberIdentifier="type:NetGameClient$ClientReceiveUDPMessageThread" modifiers="private," packageName="" qualifiedName="NetGameClient$ClientReceiveUDPMessageThread"/>
+                </declarer>
+                <parameterTypes>
+                    <type deep="false" elementName="DatagramPacket" modelMemberIdentifier="type:java.net.DatagramPacket" modifiers="final,public," packageName="java.net" qualifiedName="java.net.DatagramPacket"/>
+                </parameterTypes>
+                <return>
+                    <type deep="false" elementName="void" modelMemberIdentifier="type:void" modifiers="" packageName="" qualifiedName="void"/>
+                </return>
+            </method>
+            <nonRecursiveSubtypes/>
+            <nonRecursiveSupertypes>
+                <type deep="false" elementName="Runnable" modelMemberIdentifier="type:java.lang.Runnable" modifiers="abstract,public," packageName="java.lang" qualifiedName="java.lang.Runnable"/>
+                <type deep="false" elementName="Object" modelMemberIdentifier="type:java.lang.Object" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Object"/>
+            </nonRecursiveSupertypes>
+            <outwardDependencies>
+                <type deep="false" elementName="Socket" modelMemberIdentifier="type:java.net.Socket" modifiers="public," packageName="java.net" qualifiedName="java.net.Socket"/>
+                <type deep="false" elementName="UnknownHostException" modelMemberIdentifier="type:java.net.UnknownHostException" modifiers="public," packageName="java.net" qualifiedName="java.net.UnknownHostException"/>
+                <type deep="false" elementName="IOException" modelMemberIdentifier="type:java.io.IOException" modifiers="public," packageName="java.io" qualifiedName="java.io.IOException"/>
+                <type deep="false" elementName="MissileMessage" modelMemberIdentifier="type:MissileMessage" modifiers="public," packageName="" qualifiedName="MissileMessage"/>
+                <type deep="false" elementName="Runnable" modelMemberIdentifier="type:java.lang.Runnable" modifiers="abstract,public," packageName="java.lang" qualifiedName="java.lang.Runnable"/>
+                <type deep="false" elementName="MissileDeadMessage" modelMemberIdentifier="type:MissileDeadMessage" modifiers="public," packageName="" qualifiedName="MissileDeadMessage"/>
+                <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+                <type deep="false" elementName="TILE_DEAD_MESSAGE" modelMemberIdentifier="type:TILE_DEAD_MESSAGE" modifiers="public," packageName="" qualifiedName="TILE_DEAD_MESSAGE"/>
+                <type deep="false" elementName="TankDeadMessage" modelMemberIdentifier="type:TankDeadMessage" modifiers="public," packageName="" qualifiedName="TankDeadMessage"/>
+                <type deep="false" elementName="TankMoveMessage" modelMemberIdentifier="type:TankMoveMessage" modifiers="public," packageName="" qualifiedName="TankMoveMessage"/>
+                <type deep="false" elementName="TankScoreMessage" modelMemberIdentifier="type:TankScoreMessage" modifiers="public," packageName="" qualifiedName="TankScoreMessage"/>
+                <type deep="false" elementName="BloodMessage" modelMemberIdentifier="type:BloodMessage" modifiers="public," packageName="" qualifiedName="BloodMessage"/>
+                <type deep="false" elementName="DatagramSocket" modelMemberIdentifier="type:java.net.DatagramSocket" modifiers="public," packageName="java.net" qualifiedName="java.net.DatagramSocket"/>
+                <type deep="false" elementName="ByteArrayInputStream" modelMemberIdentifier="type:java.io.ByteArrayInputStream" modifiers="public," packageName="java.io" qualifiedName="java.io.ByteArrayInputStream"/>
+                <type deep="false" elementName="TankWarMainServer" modelMemberIdentifier="type:TankWarMainServer" modifiers="public," packageName="" qualifiedName="TankWarMainServer"/>
+                <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List"/>
+                <type deep="false" elementName="System" modelMemberIdentifier="type:java.lang.System" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.System"/>
+                <type deep="false" elementName="Thread" modelMemberIdentifier="type:java.lang.Thread" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Thread"/>
+                <type deep="false" elementName="ScoringAddingMessage" modelMemberIdentifier="type:ScoringAddingMessage" modifiers="public," packageName="" qualifiedName="ScoringAddingMessage"/>
+                <type deep="false" elementName="DataOutputStream" modelMemberIdentifier="type:java.io.DataOutputStream" modifiers="public," packageName="java.io" qualifiedName="java.io.DataOutputStream"/>
+                <type deep="false" elementName="MissileRecovery2Message" modelMemberIdentifier="type:MissileRecovery2Message" modifiers="public," packageName="" qualifiedName="MissileRecovery2Message"/>
+                <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+                <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+                <type deep="false" elementName="DatagramPacket" modelMemberIdentifier="type:java.net.DatagramPacket" modifiers="final,public," packageName="java.net" qualifiedName="java.net.DatagramPacket"/>
+                <type deep="false" elementName="DataInputStream" modelMemberIdentifier="type:java.io.DataInputStream" modifiers="public," packageName="java.io" qualifiedName="java.io.DataInputStream"/>
+                <type deep="false" elementName="SocketException" modelMemberIdentifier="type:java.net.SocketException" modifiers="public," packageName="java.net" qualifiedName="java.net.SocketException"/>
+                <type deep="false" elementName="SpeedUpMessage" modelMemberIdentifier="type:SpeedUpMessage" modifiers="public," packageName="" qualifiedName="SpeedUpMessage"/>
+                <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+                <type deep="false" elementName="TankNewMessage" modelMemberIdentifier="type:TankNewMessage" modifiers="public," packageName="" qualifiedName="TankNewMessage"/>
+                <type deep="false" elementName="BloodRecoveryMessage" modelMemberIdentifier="type:BloodRecoveryMessage" modifiers="public," packageName="" qualifiedName="BloodRecoveryMessage"/>
+                <type deep="false" elementName="MissileRecoveryMessage" modelMemberIdentifier="type:MissileRecoveryMessage" modifiers="public," packageName="" qualifiedName="MissileRecoveryMessage"/>
+                <type deep="false" elementName="Random" modelMemberIdentifier="type:java.util.Random" modifiers="public," packageName="java.util" qualifiedName="java.util.Random"/>
+                <type deep="false" elementName="Integer" modelMemberIdentifier="type:java.lang.Integer" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.Integer"/>
+                <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+            </outwardDependencies>
+        </type>
+        <nonRecursiveSubtypes/>
+        <nonRecursiveSupertypes>
+            <type deep="false" elementName="Object" modelMemberIdentifier="type:java.lang.Object" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Object"/>
+        </nonRecursiveSupertypes>
+        <outwardDependencies>
+            <type deep="false" elementName="Socket" modelMemberIdentifier="type:java.net.Socket" modifiers="public," packageName="java.net" qualifiedName="java.net.Socket"/>
+            <type deep="false" elementName="UnknownHostException" modelMemberIdentifier="type:java.net.UnknownHostException" modifiers="public," packageName="java.net" qualifiedName="java.net.UnknownHostException"/>
+            <type deep="false" elementName="IOException" modelMemberIdentifier="type:java.io.IOException" modifiers="public," packageName="java.io" qualifiedName="java.io.IOException"/>
+            <type deep="false" elementName="MissileMessage" modelMemberIdentifier="type:MissileMessage" modifiers="public," packageName="" qualifiedName="MissileMessage"/>
+            <type deep="false" elementName="Runnable" modelMemberIdentifier="type:java.lang.Runnable" modifiers="abstract,public," packageName="java.lang" qualifiedName="java.lang.Runnable"/>
+            <type deep="false" elementName="MissileDeadMessage" modelMemberIdentifier="type:MissileDeadMessage" modifiers="public," packageName="" qualifiedName="MissileDeadMessage"/>
+            <type deep="false" elementName="CouchDbClient" modelMemberIdentifier="type:org.lightcouch.CouchDbClient" modifiers="final,public," packageName="org.lightcouch" qualifiedName="org.lightcouch.CouchDbClient"/>
+            <type deep="false" elementName="TILE_DEAD_MESSAGE" modelMemberIdentifier="type:TILE_DEAD_MESSAGE" modifiers="public," packageName="" qualifiedName="TILE_DEAD_MESSAGE"/>
+            <type deep="false" elementName="TankDeadMessage" modelMemberIdentifier="type:TankDeadMessage" modifiers="public," packageName="" qualifiedName="TankDeadMessage"/>
+            <type deep="false" elementName="TankMoveMessage" modelMemberIdentifier="type:TankMoveMessage" modifiers="public," packageName="" qualifiedName="TankMoveMessage"/>
+            <type deep="false" elementName="TankScoreMessage" modelMemberIdentifier="type:TankScoreMessage" modifiers="public," packageName="" qualifiedName="TankScoreMessage"/>
+            <type deep="false" elementName="BloodMessage" modelMemberIdentifier="type:BloodMessage" modifiers="public," packageName="" qualifiedName="BloodMessage"/>
+            <type deep="false" elementName="DatagramSocket" modelMemberIdentifier="type:java.net.DatagramSocket" modifiers="public," packageName="java.net" qualifiedName="java.net.DatagramSocket"/>
+            <type deep="false" elementName="ByteArrayInputStream" modelMemberIdentifier="type:java.io.ByteArrayInputStream" modifiers="public," packageName="java.io" qualifiedName="java.io.ByteArrayInputStream"/>
+            <type deep="false" elementName="TankWarMainServer" modelMemberIdentifier="type:TankWarMainServer" modifiers="public," packageName="" qualifiedName="TankWarMainServer"/>
+            <type deep="false" elementName="List" modelMemberIdentifier="type:java.util.List" modifiers="abstract,public," packageName="java.util" qualifiedName="java.util.List"/>
+            <type deep="false" elementName="System" modelMemberIdentifier="type:java.lang.System" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.System"/>
+            <type deep="false" elementName="Thread" modelMemberIdentifier="type:java.lang.Thread" modifiers="public," packageName="java.lang" qualifiedName="java.lang.Thread"/>
+            <type deep="false" elementName="ScoringAddingMessage" modelMemberIdentifier="type:ScoringAddingMessage" modifiers="public," packageName="" qualifiedName="ScoringAddingMessage"/>
+            <type deep="false" elementName="DataOutputStream" modelMemberIdentifier="type:java.io.DataOutputStream" modifiers="public," packageName="java.io" qualifiedName="java.io.DataOutputStream"/>
+            <type deep="false" elementName="MissileRecovery2Message" modelMemberIdentifier="type:MissileRecovery2Message" modifiers="public," packageName="" qualifiedName="MissileRecovery2Message"/>
+            <type deep="false" elementName="JsonObject" modelMemberIdentifier="type:com.google.gson.JsonObject" modifiers="final,public," packageName="com.google.gson" qualifiedName="com.google.gson.JsonObject"/>
+            <type deep="false" elementName="Message" modelMemberIdentifier="type:Message" modifiers="public," packageName="" qualifiedName="Message"/>
+            <type deep="false" elementName="DatagramPacket" modelMemberIdentifier="type:java.net.DatagramPacket" modifiers="final,public," packageName="java.net" qualifiedName="java.net.DatagramPacket"/>
+            <type deep="false" elementName="DataInputStream" modelMemberIdentifier="type:java.io.DataInputStream" modifiers="public," packageName="java.io" qualifiedName="java.io.DataInputStream"/>
+            <type deep="false" elementName="SocketException" modelMemberIdentifier="type:java.net.SocketException" modifiers="public," packageName="java.net" qualifiedName="java.net.SocketException"/>
+            <type deep="false" elementName="SpeedUpMessage" modelMemberIdentifier="type:SpeedUpMessage" modifiers="public," packageName="" qualifiedName="SpeedUpMessage"/>
+            <type deep="false" elementName="String" modelMemberIdentifier="type:java.lang.String" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.String"/>
+            <type deep="false" elementName="TankNewMessage" modelMemberIdentifier="type:TankNewMessage" modifiers="public," packageName="" qualifiedName="TankNewMessage"/>
+            <type deep="false" elementName="BloodRecoveryMessage" modelMemberIdentifier="type:BloodRecoveryMessage" modifiers="public," packageName="" qualifiedName="BloodRecoveryMessage"/>
+            <type deep="false" elementName="MissileRecoveryMessage" modelMemberIdentifier="type:MissileRecoveryMessage" modifiers="public," packageName="" qualifiedName="MissileRecoveryMessage"/>
+            <type deep="false" elementName="Random" modelMemberIdentifier="type:java.util.Random" modifiers="public," packageName="java.util" qualifiedName="java.util.Random"/>
+            <type deep="false" elementName="Integer" modelMemberIdentifier="type:java.lang.Integer" modifiers="final,public," packageName="java.lang" qualifiedName="java.lang.Integer"/>
+            <type deep="false" elementName="TankClient" modelMemberIdentifier="type:TankClient" modifiers="public," packageName="" qualifiedName="TankClient"/>
+        </outwardDependencies>
+    </type>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAABx0lEQVR4nOWU3yuDYRTH98e49SNqJTUSr0zaWtpGtjaWMWRujNm0lzGyzI/CWDNLKLXwJhOmKNqFSC5GJhThhrlx+fU+z7IkF6+59K3Tec7znD6dc97nfUSibzq+O4fG346KcR3yB+SQjmppTPa/5woWuzFOYY0LbbCEOlNG4rzeSpDztKC5jjKwnB2rpyvYv9rD4fUB9YGjWTg4BzI6JL+DkzZJpV0hCyKX2/hJOxdb6F6z0soFj6Vm1gx9wIi5o5kUaDu2ibGIG9zZKo1vX27gCvfTvPqgRRiY8WihmNTCfzhPIVfPcej8DSlrXTTDGDRRq/bqQfIFgUl7OT0MPJFkxQfxKLLspci0lVAj6zy2HGKnFJJBGb+uEF5xgUvG3wAXBd+93KNwSAGJS04tGA1h5YSD2teKMo9aeMVkZpJBObQ+ExLvb8mPFdtH85IVI7vJLl7fE9Dw54pJHVqWWWHg2FOcXqWqKT1/M1hc8jP+qofEI9w7E1B7DTTvVz9LDzeKLBsDZkQFXaAJtnUn+sNu6kms4qHiPhlInmDoV3i2neHbrYNyxgAlDyOexGQ/LeinSJtV0yYUDalRPFxDfa3vj2/F/9YHYK+OD5EVjdEAAAAASUVORK5CYII=" height="16" modelElementIdentifier="type:NetGameClient" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:NetGameClient.bufferSize" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:NetGameClient.dbBackupServer" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:NetGameClient.ds" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:NetGameClient.exist" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:NetGameClient.r" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:NetGameClient.s" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:NetGameClient.tc" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAMklEQVR4nGNgGAWjgGhww8n/PzqmmsGPyxv+gwCIpqrByIAmLn7eMYG6BtMkjEfB4AcAIhZF9iVxU3wAAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:NetGameClient.udpPort" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAA6ElEQVR4nGNgoBD8BwL99V7/FatM/ivVmf7f/fbof0rNBAOHbZFwA/sfLgCzqWowMhgaBhMdFKXbJ/xnbfT8rzc14T+IjUsdSZHnu7j4f/yqkv9bLs39P+PYBDAbJIbPcILBULit93/Y8oL/q8/PRMIzwGIgObzexAeYGzz+N+1t+t+yrwWB97eAxUByZBss2xP2P2kV0HUby6C4FEyDxEByZBucsq71v/2M+P8dOxv/d+xo/N8JxCC2/fSE/yA5sg0GAec5Of+9Zqf+n76343/T1nowGyRGkaEwkL+xC57cQGyqGDoyAQA+++MipdXKzwAAAABJRU5ErkJggg==" height="16" modelElementIdentifier="method:NetGameClient.NetGameClient((QTankClient;)V)" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAB+ElEQVR4nKWU70tTURjH/Td60bveGGkrQ/AHN6G6kiIOETWxcWeRtYjsjSu9k81fUwx/TPDXYq4hG2EN8xIVxgIHc5eMQnwxxYkKIgoiCtrLr+c54l5o4nE+8OGe57mHD8859+GmpByL36tzeOh5hUKXgqw2Iwp6TDyn+vG9wuH44uKyp6MvYQ2+TkB5RlMR6H1S0pv2fDg0G8b/jmFq8SciS2H+9E67YdfsuFInnU9Ox6RO3wStCC1M4n/xY/47Gj7X886Fr6XSXQuztwYj08MJ0WTsK3pDb6HNjvN8ZXsZzm+tfN8jn1VMLHebUNJvgifynksWN+NQPE8SvPDXosZn4TwYMoP2C4npeIZGGd2hw47DcR3ptntIU+9yaJ3huI/MlgJI7cVsXSjecY6zmE2Ak4tXt9dwu6MEktPI8elBjP3R4J+ZgDviZ3wQE9OdSe1GmN5ZsPNv9/BjxabwPFAPPV86lTPFsY04H6XSATObDAcW2B0fhX4nF/uurhNQXajrRq0H6aoMuascivcZ1IkWBGY+QpeyuWhPVRNwMasLiY/k120ym5BqlA0/xuivT4gabmGvzo6doirsMuhJOdWFxRQ0/KWDFuR1VGAwHEA09Qa2mpuxrigMM4fyaKoh+X8HRfTyNaz3dZ6A6hcTX7qK07iQONk4AOjDzcagMrmMAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="type:NetGameClient$ClientReceiveUDPMessageThread" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAVElEQVR4nGNgGAXDF6hlL/9PdUM9mjf/D27b9R9EU83QDSfv/9cpWPEfBEA0iE8VgyWTF/xHBiA+xYbCXOtYvh5sKIimiqsFYub8x4UpdvUoGPwAADrAS0vlr+zFAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="field:NetGameClient$ClientReceiveUDPMessageThread.buffer" width="22"/>
+</AgileJWebModel>

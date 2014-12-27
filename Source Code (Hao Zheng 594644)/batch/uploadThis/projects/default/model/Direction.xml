@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AgileJWebModel version="1.7.17.v20140508-2136">
+    <type deep="true" elementName="Direction" isBinary="false" isDeprecated="false" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction">
+        <filters>
+            <filter signature="all types"/>
+            <filter signature="inner types named {type-name}" switchValues="Direction"/>
+            <filter signature="non java star package types"/>
+            <filter signature="public types"/>
+            <filter signature="self referencing types"/>
+            <filter signature="serializable types"/>
+            <filter signature="source code types"/>
+            <filter signature="top level source types"/>
+            <filter signature="top level types"/>
+            <filter signature="types named {type-name-pattern}" switchValues="Direction"/>
+        </filters>
+        <outermostType>
+            <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+        </outermostType>
+        <field deep="true" elementName="L" fieldLineTooltipDescription="Direction.L&#10;references one&#10;Direction" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Direction.L" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="L"/>
+                <filter signature="fields which reference their declarer"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="LU" fieldLineTooltipDescription="Direction.LU&#10;references one&#10;Direction" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Direction.LU" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="LU"/>
+                <filter signature="fields which reference their declarer"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="U" fieldLineTooltipDescription="Direction.U&#10;references one&#10;Direction" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Direction.U" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="U"/>
+                <filter signature="fields which reference their declarer"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="RU" fieldLineTooltipDescription="Direction.RU&#10;references one&#10;Direction" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Direction.RU" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="RU"/>
+                <filter signature="fields which reference their declarer"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="R" fieldLineTooltipDescription="Direction.R&#10;references one&#10;Direction" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Direction.R" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="R"/>
+                <filter signature="fields which reference their declarer"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="RD" fieldLineTooltipDescription="Direction.RD&#10;references one&#10;Direction" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Direction.RD" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="RD"/>
+                <filter signature="fields which reference their declarer"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="D" fieldLineTooltipDescription="Direction.D&#10;references one&#10;Direction" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Direction.D" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="D"/>
+                <filter signature="fields which reference their declarer"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="LD" fieldLineTooltipDescription="Direction.LD&#10;references one&#10;Direction" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Direction.LD" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="LD"/>
+                <filter signature="fields which reference their declarer"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </containedType>
+        </field>
+        <field deep="true" elementName="STOP" fieldLineTooltipDescription="Direction.STOP&#10;references one&#10;Direction" isBinary="false" isDeprecated="false" modelMemberIdentifier="field:Direction.STOP" modifiers="">
+            <filters>
+                <filter signature="all fields"/>
+                <filter signature="fields named {field-name-pattern}" switchValues="STOP"/>
+                <filter signature="fields which reference their declarer"/>
+                <filter signature="package visible fields"/>
+            </filters>
+            <declarer>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </declarer>
+            <rawType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </rawType>
+            <containedType>
+                <type deep="false" elementName="Direction" modelMemberIdentifier="type:Direction" modifiers="public," packageName="" qualifiedName="Direction"/>
+            </containedType>
+        </field>
+        <nonRecursiveSubtypes/>
+        <nonRecursiveSupertypes/>
+        <outwardDependencies/>
+    </type>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAABUElEQVR4nGNgQAMPLx/5v7Qu8P/sfLv/k5N1/8/KtQHzQeLoaokGu+fWgA1b1Rr9f2G5JxyD+BMTNP+D5MkydEKc+v+ds8r/n9uxAAODDO+JVCDNcJA3QS7dMjkPjP//+4eBL+5ZCnY9yOVEB8viat//y+qD4Rhm2I3jW/4fXzcJjDf0psHlVzZHEGfwzBzL//OKnf8vrQ0EY5jB+xY2wsVAGGQgyNUg9UQZDPJef6za/74YFTDGFhSbJmT9n5So/X9KqsH/CfEaxLt4coo+HMMMO7Nt7v9t04rAGBQEMHmiXQzyIsgloOAAYZjBB5a0wsWQ8fruFOIMBsUyKCnNL3UFY3ypAqSOpMyya04VOHxnZFv8P7S8EwOD0jEojEHqiDYUxfBY1f/zSlyguc4DTIP4IHGyDIUBkDcXlLn/n5pu9H96himYXlLjT1lZMbIBAAjJkU5BPdCfAAAAAElFTkSuQmCC" height="16" modelElementIdentifier="type:Direction" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Direction.D" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Direction.L" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Direction.LD" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Direction.LU" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Direction.R" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Direction.RD" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Direction.RU" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Direction.STOP" width="22"/>
+    <icon data="iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAAp0lEQVR4nGNgIAL8B4IPe47/P86kC8YgNgjA5DSSpv0Prl8CxiA2TI4og0EGwgCMDZMDGYgOyDIYWTO6wUQZSGpQgGiSDUYG+IKCoGETT6z777KwBIyJDWOiDDWZkfG/c0cjGIPAs94F8KAAsdGDgiiDQYYWbiyFuxDEBokR1EgICLT5wl0KAiA2SIxig2v3zv8PMxxmKEiMYoNhhst1BlHX0FEwNAAACaE8V+KIOE4AAAAASUVORK5CYII=" height="16" modelElementIdentifier="field:Direction.U" width="22"/>
+</AgileJWebModel>
